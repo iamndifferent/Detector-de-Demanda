@@ -1,0 +1,6218 @@
+fecha,producto,cantidad
+2023-01-01,Bufanda de lana,4
+2023-01-01,Café en grano 1 kg,20
+2023-01-01,Cuaderno A5,3
+2023-01-01,Funda de móvil,1
+2023-01-01,Helado artesanal,1
+2023-01-01,Pan de masa madre,41
+2023-01-02,Bufanda de lana,9
+2023-01-02,Café en grano 1 kg,8
+2023-01-02,Cuaderno A5,5
+2023-01-02,Helado artesanal,2
+2023-01-02,Pan de masa madre,30
+2023-01-03,Bufanda de lana,4
+2023-01-03,Café en grano 1 kg,12
+2023-01-03,Cuaderno A5,6
+2023-01-03,Helado artesanal,3
+2023-01-03,Pan de masa madre,42
+2023-01-04,Bufanda de lana,8
+2023-01-04,Café en grano 1 kg,12
+2023-01-04,Cuaderno A5,6
+2023-01-04,Funda de móvil,1
+2023-01-04,Helado artesanal,3
+2023-01-04,Pan de masa madre,33
+2023-01-05,Bufanda de lana,5
+2023-01-05,Café en grano 1 kg,14
+2023-01-05,Cuaderno A5,5
+2023-01-05,Helado artesanal,3
+2023-01-05,Pan de masa madre,24
+2023-01-06,Bufanda de lana,2
+2023-01-06,Café en grano 1 kg,17
+2023-01-06,Cuaderno A5,1
+2023-01-06,Helado artesanal,2
+2023-01-06,Pan de masa madre,28
+2023-01-07,Bufanda de lana,11
+2023-01-07,Café en grano 1 kg,20
+2023-01-07,Cuaderno A5,3
+2023-01-07,Helado artesanal,3
+2023-01-07,Pan de masa madre,43
+2023-01-08,Bufanda de lana,5
+2023-01-08,Café en grano 1 kg,20
+2023-01-08,Cuaderno A5,2
+2023-01-08,Funda de móvil,1
+2023-01-08,Helado artesanal,5
+2023-01-08,Pan de masa madre,35
+2023-01-09,Bufanda de lana,5
+2023-01-09,Café en grano 1 kg,13
+2023-01-09,Cuaderno A5,4
+2023-01-09,Funda de móvil,1
+2023-01-09,Helado artesanal,5
+2023-01-09,Pan de masa madre,32
+2023-01-10,Bufanda de lana,7
+2023-01-10,Café en grano 1 kg,9
+2023-01-10,Cuaderno A5,2
+2023-01-10,Helado artesanal,4
+2023-01-10,Pan de masa madre,32
+2023-01-11,Bufanda de lana,6
+2023-01-11,Café en grano 1 kg,11
+2023-01-11,Cuaderno A5,5
+2023-01-11,Pan de masa madre,23
+2023-01-12,Bufanda de lana,7
+2023-01-12,Café en grano 1 kg,13
+2023-01-12,Cuaderno A5,5
+2023-01-12,Helado artesanal,5
+2023-01-12,Pan de masa madre,33
+2023-01-13,Bufanda de lana,5
+2023-01-13,Café en grano 1 kg,8
+2023-01-13,Cuaderno A5,8
+2023-01-13,Helado artesanal,5
+2023-01-13,Pan de masa madre,50
+2023-01-14,Bufanda de lana,2
+2023-01-14,Café en grano 1 kg,13
+2023-01-14,Cuaderno A5,3
+2023-01-14,Helado artesanal,4
+2023-01-14,Pan de masa madre,45
+2023-01-15,Bufanda de lana,3
+2023-01-15,Café en grano 1 kg,16
+2023-01-15,Cuaderno A5,3
+2023-01-15,Helado artesanal,4
+2023-01-15,Pan de masa madre,40
+2023-01-16,Bufanda de lana,2
+2023-01-16,Café en grano 1 kg,15
+2023-01-16,Cuaderno A5,3
+2023-01-16,Funda de móvil,1
+2023-01-16,Helado artesanal,1
+2023-01-16,Pan de masa madre,29
+2023-01-17,Bufanda de lana,6
+2023-01-17,Café en grano 1 kg,12
+2023-01-17,Cuaderno A5,6
+2023-01-17,Helado artesanal,3
+2023-01-17,Pan de masa madre,48
+2023-01-18,Bufanda de lana,5
+2023-01-18,Café en grano 1 kg,15
+2023-01-18,Cuaderno A5,2
+2023-01-18,Helado artesanal,2
+2023-01-18,Pan de masa madre,41
+2023-01-19,Bufanda de lana,3
+2023-01-19,Café en grano 1 kg,10
+2023-01-19,Cuaderno A5,6
+2023-01-19,Funda de móvil,1
+2023-01-19,Pan de masa madre,35
+2023-01-20,Bufanda de lana,7
+2023-01-20,Café en grano 1 kg,17
+2023-01-20,Cuaderno A5,3
+2023-01-20,Funda de móvil,1
+2023-01-20,Helado artesanal,3
+2023-01-20,Pan de masa madre,32
+2023-01-21,Bufanda de lana,9
+2023-01-21,Café en grano 1 kg,19
+2023-01-21,Cuaderno A5,2
+2023-01-21,Funda de móvil,1
+2023-01-21,Helado artesanal,8
+2023-01-21,Pan de masa madre,42
+2023-01-22,Bufanda de lana,6
+2023-01-22,Café en grano 1 kg,16
+2023-01-22,Cuaderno A5,2
+2023-01-22,Helado artesanal,6
+2023-01-22,Pan de masa madre,37
+2023-01-23,Bufanda de lana,6
+2023-01-23,Café en grano 1 kg,9
+2023-01-23,Cuaderno A5,7
+2023-01-23,Helado artesanal,1
+2023-01-23,Pan de masa madre,25
+2023-01-24,Bufanda de lana,4
+2023-01-24,Café en grano 1 kg,15
+2023-01-24,Cuaderno A5,4
+2023-01-24,Helado artesanal,5
+2023-01-24,Pan de masa madre,20
+2023-01-25,Bufanda de lana,5
+2023-01-25,Café en grano 1 kg,14
+2023-01-25,Cuaderno A5,2
+2023-01-25,Funda de móvil,1
+2023-01-25,Helado artesanal,1
+2023-01-25,Pan de masa madre,35
+2023-01-26,Bufanda de lana,3
+2023-01-26,Café en grano 1 kg,15
+2023-01-26,Cuaderno A5,1
+2023-01-26,Helado artesanal,4
+2023-01-26,Pan de masa madre,29
+2023-01-27,Bufanda de lana,1
+2023-01-27,Café en grano 1 kg,14
+2023-01-27,Cuaderno A5,3
+2023-01-27,Helado artesanal,3
+2023-01-27,Pan de masa madre,33
+2023-01-28,Bufanda de lana,6
+2023-01-28,Café en grano 1 kg,13
+2023-01-28,Cuaderno A5,2
+2023-01-28,Helado artesanal,5
+2023-01-28,Pan de masa madre,44
+2023-01-29,Bufanda de lana,6
+2023-01-29,Café en grano 1 kg,22
+2023-01-29,Cuaderno A5,2
+2023-01-29,Funda de móvil,1
+2023-01-29,Helado artesanal,4
+2023-01-29,Pan de masa madre,46
+2023-01-30,Bufanda de lana,5
+2023-01-30,Café en grano 1 kg,6
+2023-01-30,Cuaderno A5,1
+2023-01-30,Funda de móvil,2
+2023-01-30,Helado artesanal,2
+2023-01-30,Pan de masa madre,28
+2023-01-31,Bufanda de lana,5
+2023-01-31,Café en grano 1 kg,11
+2023-01-31,Cuaderno A5,3
+2023-01-31,Helado artesanal,3
+2023-01-31,Pan de masa madre,27
+2023-02-01,Bufanda de lana,9
+2023-02-01,Café en grano 1 kg,14
+2023-02-01,Cuaderno A5,3
+2023-02-01,Helado artesanal,2
+2023-02-01,Pan de masa madre,37
+2023-02-02,Bufanda de lana,7
+2023-02-02,Café en grano 1 kg,15
+2023-02-02,Cuaderno A5,3
+2023-02-02,Helado artesanal,1
+2023-02-02,Pan de masa madre,28
+2023-02-03,Bufanda de lana,6
+2023-02-03,Café en grano 1 kg,17
+2023-02-03,Cuaderno A5,2
+2023-02-03,Funda de móvil,1
+2023-02-03,Helado artesanal,2
+2023-02-03,Pan de masa madre,28
+2023-02-04,Bufanda de lana,5
+2023-02-04,Café en grano 1 kg,19
+2023-02-04,Cuaderno A5,3
+2023-02-04,Helado artesanal,3
+2023-02-04,Pan de masa madre,35
+2023-02-05,Bufanda de lana,3
+2023-02-05,Café en grano 1 kg,12
+2023-02-05,Cuaderno A5,7
+2023-02-05,Funda de móvil,1
+2023-02-05,Helado artesanal,6
+2023-02-05,Pan de masa madre,43
+2023-02-06,Bufanda de lana,5
+2023-02-06,Café en grano 1 kg,9
+2023-02-06,Cuaderno A5,2
+2023-02-06,Funda de móvil,1
+2023-02-06,Helado artesanal,4
+2023-02-06,Pan de masa madre,25
+2023-02-07,Bufanda de lana,7
+2023-02-07,Café en grano 1 kg,13
+2023-02-07,Cuaderno A5,5
+2023-02-07,Helado artesanal,2
+2023-02-07,Pan de masa madre,27
+2023-02-08,Bufanda de lana,3
+2023-02-08,Café en grano 1 kg,11
+2023-02-08,Cuaderno A5,1
+2023-02-08,Helado artesanal,5
+2023-02-08,Pan de masa madre,23
+2023-02-09,Bufanda de lana,4
+2023-02-09,Café en grano 1 kg,12
+2023-02-09,Cuaderno A5,3
+2023-02-09,Helado artesanal,2
+2023-02-09,Pan de masa madre,27
+2023-02-10,Bufanda de lana,8
+2023-02-10,Café en grano 1 kg,19
+2023-02-10,Funda de móvil,1
+2023-02-10,Helado artesanal,7
+2023-02-10,Pan de masa madre,28
+2023-02-11,Bufanda de lana,4
+2023-02-11,Café en grano 1 kg,20
+2023-02-11,Cuaderno A5,2
+2023-02-11,Funda de móvil,2
+2023-02-11,Helado artesanal,8
+2023-02-11,Pan de masa madre,44
+2023-02-12,Bufanda de lana,2
+2023-02-12,Café en grano 1 kg,16
+2023-02-12,Cuaderno A5,3
+2023-02-12,Funda de móvil,1
+2023-02-12,Helado artesanal,3
+2023-02-12,Pan de masa madre,42
+2023-02-13,Bufanda de lana,5
+2023-02-13,Café en grano 1 kg,13
+2023-02-13,Cuaderno A5,1
+2023-02-13,Helado artesanal,1
+2023-02-13,Pan de masa madre,31
+2023-02-14,Bufanda de lana,4
+2023-02-14,Café en grano 1 kg,11
+2023-02-14,Cuaderno A5,2
+2023-02-14,Funda de móvil,1
+2023-02-14,Helado artesanal,7
+2023-02-14,Pan de masa madre,34
+2023-02-15,Bufanda de lana,2
+2023-02-15,Café en grano 1 kg,16
+2023-02-15,Cuaderno A5,6
+2023-02-15,Funda de móvil,1
+2023-02-15,Helado artesanal,3
+2023-02-15,Pan de masa madre,33
+2023-02-16,Bufanda de lana,9
+2023-02-16,Café en grano 1 kg,12
+2023-02-16,Cuaderno A5,2
+2023-02-16,Helado artesanal,2
+2023-02-16,Pan de masa madre,23
+2023-02-17,Bufanda de lana,4
+2023-02-17,Café en grano 1 kg,14
+2023-02-17,Cuaderno A5,2
+2023-02-17,Helado artesanal,5
+2023-02-17,Pan de masa madre,21
+2023-02-18,Bufanda de lana,5
+2023-02-18,Café en grano 1 kg,10
+2023-02-18,Cuaderno A5,4
+2023-02-18,Helado artesanal,9
+2023-02-18,Pan de masa madre,29
+2023-02-19,Bufanda de lana,2
+2023-02-19,Café en grano 1 kg,14
+2023-02-19,Cuaderno A5,4
+2023-02-19,Helado artesanal,3
+2023-02-19,Pan de masa madre,35
+2023-02-20,Bufanda de lana,6
+2023-02-20,Café en grano 1 kg,8
+2023-02-20,Cuaderno A5,1
+2023-02-20,Funda de móvil,1
+2023-02-20,Helado artesanal,9
+2023-02-20,Pan de masa madre,36
+2023-02-21,Bufanda de lana,5
+2023-02-21,Café en grano 1 kg,14
+2023-02-21,Cuaderno A5,1
+2023-02-21,Funda de móvil,1
+2023-02-21,Helado artesanal,11
+2023-02-21,Pan de masa madre,28
+2023-02-22,Bufanda de lana,5
+2023-02-22,Café en grano 1 kg,14
+2023-02-22,Cuaderno A5,5
+2023-02-22,Helado artesanal,5
+2023-02-22,Pan de masa madre,32
+2023-02-23,Bufanda de lana,5
+2023-02-23,Café en grano 1 kg,22
+2023-02-23,Cuaderno A5,3
+2023-02-23,Helado artesanal,5
+2023-02-23,Pan de masa madre,34
+2023-02-24,Bufanda de lana,9
+2023-02-24,Café en grano 1 kg,17
+2023-02-24,Cuaderno A5,3
+2023-02-24,Helado artesanal,3
+2023-02-24,Pan de masa madre,37
+2023-02-25,Bufanda de lana,9
+2023-02-25,Café en grano 1 kg,16
+2023-02-25,Cuaderno A5,1
+2023-02-25,Helado artesanal,12
+2023-02-25,Pan de masa madre,37
+2023-02-26,Bufanda de lana,3
+2023-02-26,Café en grano 1 kg,24
+2023-02-26,Cuaderno A5,2
+2023-02-26,Helado artesanal,5
+2023-02-26,Pan de masa madre,31
+2023-02-27,Bufanda de lana,1
+2023-02-27,Café en grano 1 kg,13
+2023-02-27,Cuaderno A5,4
+2023-02-27,Helado artesanal,12
+2023-02-27,Pan de masa madre,32
+2023-02-28,Bufanda de lana,6
+2023-02-28,Café en grano 1 kg,11
+2023-02-28,Cuaderno A5,3
+2023-02-28,Helado artesanal,8
+2023-02-28,Pan de masa madre,36
+2023-03-01,Bufanda de lana,5
+2023-03-01,Café en grano 1 kg,12
+2023-03-01,Cuaderno A5,2
+2023-03-01,Helado artesanal,9
+2023-03-01,Pan de masa madre,27
+2023-03-02,Bufanda de lana,6
+2023-03-02,Café en grano 1 kg,8
+2023-03-02,Cuaderno A5,3
+2023-03-02,Helado artesanal,7
+2023-03-02,Pan de masa madre,43
+2023-03-03,Bufanda de lana,4
+2023-03-03,Café en grano 1 kg,8
+2023-03-03,Cuaderno A5,2
+2023-03-03,Helado artesanal,7
+2023-03-03,Pan de masa madre,28
+2023-03-04,Bufanda de lana,6
+2023-03-04,Café en grano 1 kg,14
+2023-03-04,Cuaderno A5,1
+2023-03-04,Helado artesanal,11
+2023-03-04,Pan de masa madre,40
+2023-03-05,Bufanda de lana,3
+2023-03-05,Café en grano 1 kg,19
+2023-03-05,Cuaderno A5,2
+2023-03-05,Funda de móvil,1
+2023-03-05,Helado artesanal,9
+2023-03-05,Pan de masa madre,41
+2023-03-06,Bufanda de lana,5
+2023-03-06,Café en grano 1 kg,10
+2023-03-06,Cuaderno A5,1
+2023-03-06,Helado artesanal,4
+2023-03-06,Pan de masa madre,28
+2023-03-07,Bufanda de lana,7
+2023-03-07,Café en grano 1 kg,14
+2023-03-07,Cuaderno A5,4
+2023-03-07,Helado artesanal,6
+2023-03-07,Pan de masa madre,27
+2023-03-08,Bufanda de lana,5
+2023-03-08,Café en grano 1 kg,11
+2023-03-08,Cuaderno A5,4
+2023-03-08,Helado artesanal,9
+2023-03-08,Pan de masa madre,33
+2023-03-09,Bufanda de lana,1
+2023-03-09,Café en grano 1 kg,9
+2023-03-09,Cuaderno A5,2
+2023-03-09,Funda de móvil,2
+2023-03-09,Helado artesanal,5
+2023-03-09,Pan de masa madre,36
+2023-03-10,Bufanda de lana,5
+2023-03-10,Café en grano 1 kg,18
+2023-03-10,Cuaderno A5,2
+2023-03-10,Helado artesanal,7
+2023-03-10,Pan de masa madre,27
+2023-03-11,Bufanda de lana,2
+2023-03-11,Café en grano 1 kg,16
+2023-03-11,Cuaderno A5,4
+2023-03-11,Helado artesanal,8
+2023-03-11,Pan de masa madre,44
+2023-03-12,Bufanda de lana,2
+2023-03-12,Café en grano 1 kg,20
+2023-03-12,Cuaderno A5,2
+2023-03-12,Helado artesanal,14
+2023-03-12,Pan de masa madre,35
+2023-03-13,Bufanda de lana,4
+2023-03-13,Café en grano 1 kg,12
+2023-03-13,Cuaderno A5,2
+2023-03-13,Funda de móvil,1
+2023-03-13,Helado artesanal,8
+2023-03-13,Pan de masa madre,29
+2023-03-14,Bufanda de lana,6
+2023-03-14,Café en grano 1 kg,16
+2023-03-14,Cuaderno A5,6
+2023-03-14,Helado artesanal,3
+2023-03-14,Pan de masa madre,35
+2023-03-15,Bufanda de lana,1
+2023-03-15,Café en grano 1 kg,20
+2023-03-15,Cuaderno A5,7
+2023-03-15,Helado artesanal,10
+2023-03-15,Pan de masa madre,30
+2023-03-16,Bufanda de lana,4
+2023-03-16,Café en grano 1 kg,9
+2023-03-16,Cuaderno A5,1
+2023-03-16,Funda de móvil,1
+2023-03-16,Helado artesanal,7
+2023-03-16,Pan de masa madre,40
+2023-03-17,Café en grano 1 kg,14
+2023-03-17,Cuaderno A5,1
+2023-03-17,Helado artesanal,9
+2023-03-17,Pan de masa madre,39
+2023-03-18,Bufanda de lana,3
+2023-03-18,Café en grano 1 kg,12
+2023-03-18,Cuaderno A5,1
+2023-03-18,Funda de móvil,1
+2023-03-18,Helado artesanal,9
+2023-03-18,Pan de masa madre,44
+2023-03-19,Bufanda de lana,2
+2023-03-19,Café en grano 1 kg,16
+2023-03-19,Cuaderno A5,1
+2023-03-19,Funda de móvil,1
+2023-03-19,Helado artesanal,9
+2023-03-19,Pan de masa madre,44
+2023-03-20,Bufanda de lana,4
+2023-03-20,Café en grano 1 kg,8
+2023-03-20,Cuaderno A5,5
+2023-03-20,Funda de móvil,2
+2023-03-20,Helado artesanal,9
+2023-03-20,Pan de masa madre,33
+2023-03-21,Bufanda de lana,3
+2023-03-21,Café en grano 1 kg,8
+2023-03-21,Cuaderno A5,1
+2023-03-21,Funda de móvil,1
+2023-03-21,Helado artesanal,7
+2023-03-21,Pan de masa madre,26
+2023-03-22,Bufanda de lana,6
+2023-03-22,Café en grano 1 kg,15
+2023-03-22,Cuaderno A5,4
+2023-03-22,Helado artesanal,6
+2023-03-22,Pan de masa madre,32
+2023-03-23,Bufanda de lana,4
+2023-03-23,Café en grano 1 kg,15
+2023-03-23,Cuaderno A5,7
+2023-03-23,Helado artesanal,10
+2023-03-23,Pan de masa madre,26
+2023-03-24,Bufanda de lana,3
+2023-03-24,Café en grano 1 kg,8
+2023-03-24,Cuaderno A5,2
+2023-03-24,Helado artesanal,19
+2023-03-24,Pan de masa madre,28
+2023-03-25,Bufanda de lana,4
+2023-03-25,Café en grano 1 kg,23
+2023-03-25,Helado artesanal,16
+2023-03-25,Pan de masa madre,39
+2023-03-26,Bufanda de lana,1
+2023-03-26,Café en grano 1 kg,14
+2023-03-26,Helado artesanal,9
+2023-03-26,Pan de masa madre,46
+2023-03-27,Bufanda de lana,3
+2023-03-27,Café en grano 1 kg,14
+2023-03-27,Cuaderno A5,1
+2023-03-27,Funda de móvil,2
+2023-03-27,Helado artesanal,11
+2023-03-27,Pan de masa madre,36
+2023-03-28,Bufanda de lana,3
+2023-03-28,Café en grano 1 kg,8
+2023-03-28,Cuaderno A5,4
+2023-03-28,Helado artesanal,14
+2023-03-28,Pan de masa madre,28
+2023-03-29,Café en grano 1 kg,12
+2023-03-29,Cuaderno A5,2
+2023-03-29,Helado artesanal,13
+2023-03-29,Pan de masa madre,32
+2023-03-30,Bufanda de lana,4
+2023-03-30,Café en grano 1 kg,10
+2023-03-30,Cuaderno A5,7
+2023-03-30,Helado artesanal,19
+2023-03-30,Pan de masa madre,25
+2023-03-31,Bufanda de lana,6
+2023-03-31,Café en grano 1 kg,14
+2023-03-31,Cuaderno A5,4
+2023-03-31,Funda de móvil,2
+2023-03-31,Helado artesanal,12
+2023-03-31,Pan de masa madre,33
+2023-04-01,Bufanda de lana,2
+2023-04-01,Café en grano 1 kg,14
+2023-04-01,Cuaderno A5,1
+2023-04-01,Helado artesanal,16
+2023-04-01,Pan de masa madre,46
+2023-04-02,Café en grano 1 kg,15
+2023-04-02,Cuaderno A5,1
+2023-04-02,Helado artesanal,15
+2023-04-02,Pan de masa madre,35
+2023-04-03,Bufanda de lana,1
+2023-04-03,Café en grano 1 kg,10
+2023-04-03,Cuaderno A5,1
+2023-04-03,Helado artesanal,13
+2023-04-03,Pan de masa madre,31
+2023-04-04,Bufanda de lana,4
+2023-04-04,Café en grano 1 kg,16
+2023-04-04,Cuaderno A5,3
+2023-04-04,Helado artesanal,5
+2023-04-04,Pan de masa madre,30
+2023-04-05,Bufanda de lana,1
+2023-04-05,Café en grano 1 kg,6
+2023-04-05,Cuaderno A5,4
+2023-04-05,Helado artesanal,15
+2023-04-05,Pan de masa madre,21
+2023-04-06,Bufanda de lana,7
+2023-04-06,Café en grano 1 kg,11
+2023-04-06,Cuaderno A5,6
+2023-04-06,Helado artesanal,8
+2023-04-06,Pan de masa madre,26
+2023-04-07,Bufanda de lana,1
+2023-04-07,Café en grano 1 kg,19
+2023-04-07,Cuaderno A5,2
+2023-04-07,Helado artesanal,9
+2023-04-07,Pan de masa madre,43
+2023-04-08,Bufanda de lana,3
+2023-04-08,Café en grano 1 kg,13
+2023-04-08,Cuaderno A5,4
+2023-04-08,Funda de móvil,1
+2023-04-08,Helado artesanal,12
+2023-04-08,Pan de masa madre,43
+2023-04-09,Bufanda de lana,3
+2023-04-09,Café en grano 1 kg,10
+2023-04-09,Cuaderno A5,4
+2023-04-09,Helado artesanal,12
+2023-04-09,Pan de masa madre,37
+2023-04-10,Bufanda de lana,2
+2023-04-10,Café en grano 1 kg,5
+2023-04-10,Cuaderno A5,2
+2023-04-10,Helado artesanal,20
+2023-04-10,Pan de masa madre,27
+2023-04-11,Café en grano 1 kg,15
+2023-04-11,Cuaderno A5,2
+2023-04-11,Funda de móvil,1
+2023-04-11,Helado artesanal,12
+2023-04-11,Pan de masa madre,34
+2023-04-12,Bufanda de lana,2
+2023-04-12,Café en grano 1 kg,11
+2023-04-12,Cuaderno A5,1
+2023-04-12,Funda de móvil,1
+2023-04-12,Helado artesanal,9
+2023-04-12,Pan de masa madre,29
+2023-04-13,Bufanda de lana,1
+2023-04-13,Café en grano 1 kg,4
+2023-04-13,Cuaderno A5,3
+2023-04-13,Funda de móvil,1
+2023-04-13,Helado artesanal,20
+2023-04-13,Pan de masa madre,24
+2023-04-14,Bufanda de lana,1
+2023-04-14,Café en grano 1 kg,9
+2023-04-14,Cuaderno A5,5
+2023-04-14,Funda de móvil,1
+2023-04-14,Helado artesanal,11
+2023-04-14,Pan de masa madre,26
+2023-04-15,Bufanda de lana,6
+2023-04-15,Café en grano 1 kg,16
+2023-04-15,Cuaderno A5,4
+2023-04-15,Funda de móvil,1
+2023-04-15,Helado artesanal,18
+2023-04-15,Pan de masa madre,33
+2023-04-16,Bufanda de lana,6
+2023-04-16,Café en grano 1 kg,7
+2023-04-16,Helado artesanal,20
+2023-04-16,Pan de masa madre,37
+2023-04-17,Bufanda de lana,1
+2023-04-17,Café en grano 1 kg,13
+2023-04-17,Cuaderno A5,5
+2023-04-17,Funda de móvil,1
+2023-04-17,Helado artesanal,14
+2023-04-17,Pan de masa madre,24
+2023-04-18,Bufanda de lana,2
+2023-04-18,Café en grano 1 kg,16
+2023-04-18,Cuaderno A5,6
+2023-04-18,Helado artesanal,12
+2023-04-18,Pan de masa madre,31
+2023-04-19,Bufanda de lana,4
+2023-04-19,Café en grano 1 kg,19
+2023-04-19,Cuaderno A5,6
+2023-04-19,Helado artesanal,15
+2023-04-19,Pan de masa madre,29
+2023-04-20,Bufanda de lana,1
+2023-04-20,Café en grano 1 kg,16
+2023-04-20,Cuaderno A5,2
+2023-04-20,Funda de móvil,1
+2023-04-20,Helado artesanal,20
+2023-04-20,Pan de masa madre,21
+2023-04-21,Bufanda de lana,2
+2023-04-21,Café en grano 1 kg,16
+2023-04-21,Cuaderno A5,2
+2023-04-21,Helado artesanal,11
+2023-04-21,Pan de masa madre,34
+2023-04-22,Café en grano 1 kg,16
+2023-04-22,Cuaderno A5,1
+2023-04-22,Funda de móvil,2
+2023-04-22,Helado artesanal,23
+2023-04-22,Pan de masa madre,48
+2023-04-23,Bufanda de lana,5
+2023-04-23,Café en grano 1 kg,20
+2023-04-23,Cuaderno A5,4
+2023-04-23,Helado artesanal,16
+2023-04-23,Pan de masa madre,46
+2023-04-24,Bufanda de lana,3
+2023-04-24,Café en grano 1 kg,11
+2023-04-24,Cuaderno A5,1
+2023-04-24,Helado artesanal,14
+2023-04-24,Pan de masa madre,27
+2023-04-25,Bufanda de lana,1
+2023-04-25,Café en grano 1 kg,10
+2023-04-25,Cuaderno A5,2
+2023-04-25,Helado artesanal,16
+2023-04-25,Pan de masa madre,36
+2023-04-26,Bufanda de lana,3
+2023-04-26,Café en grano 1 kg,12
+2023-04-26,Cuaderno A5,3
+2023-04-26,Helado artesanal,14
+2023-04-26,Pan de masa madre,34
+2023-04-27,Bufanda de lana,3
+2023-04-27,Café en grano 1 kg,9
+2023-04-27,Cuaderno A5,4
+2023-04-27,Helado artesanal,24
+2023-04-27,Pan de masa madre,37
+2023-04-28,Bufanda de lana,3
+2023-04-28,Café en grano 1 kg,11
+2023-04-28,Cuaderno A5,7
+2023-04-28,Funda de móvil,1
+2023-04-28,Helado artesanal,22
+2023-04-28,Pan de masa madre,27
+2023-04-29,Bufanda de lana,4
+2023-04-29,Café en grano 1 kg,14
+2023-04-29,Cuaderno A5,4
+2023-04-29,Helado artesanal,25
+2023-04-29,Pan de masa madre,34
+2023-04-30,Bufanda de lana,1
+2023-04-30,Café en grano 1 kg,22
+2023-04-30,Cuaderno A5,4
+2023-04-30,Helado artesanal,18
+2023-04-30,Pan de masa madre,28
+2023-05-01,Café en grano 1 kg,10
+2023-05-01,Cuaderno A5,6
+2023-05-01,Helado artesanal,19
+2023-05-01,Pan de masa madre,39
+2023-05-02,Bufanda de lana,5
+2023-05-02,Café en grano 1 kg,16
+2023-05-02,Cuaderno A5,1
+2023-05-02,Funda de móvil,1
+2023-05-02,Helado artesanal,18
+2023-05-02,Pan de masa madre,23
+2023-05-03,Bufanda de lana,4
+2023-05-03,Café en grano 1 kg,16
+2023-05-03,Cuaderno A5,4
+2023-05-03,Funda de móvil,1
+2023-05-03,Helado artesanal,16
+2023-05-03,Pan de masa madre,31
+2023-05-04,Bufanda de lana,1
+2023-05-04,Café en grano 1 kg,14
+2023-05-04,Cuaderno A5,4
+2023-05-04,Helado artesanal,10
+2023-05-04,Pan de masa madre,21
+2023-05-05,Bufanda de lana,1
+2023-05-05,Café en grano 1 kg,15
+2023-05-05,Cuaderno A5,2
+2023-05-05,Funda de móvil,1
+2023-05-05,Helado artesanal,20
+2023-05-05,Pan de masa madre,20
+2023-05-06,Bufanda de lana,1
+2023-05-06,Café en grano 1 kg,10
+2023-05-06,Cuaderno A5,3
+2023-05-06,Helado artesanal,15
+2023-05-06,Pan de masa madre,43
+2023-05-07,Bufanda de lana,2
+2023-05-07,Café en grano 1 kg,9
+2023-05-07,Cuaderno A5,3
+2023-05-07,Funda de móvil,1
+2023-05-07,Helado artesanal,27
+2023-05-07,Pan de masa madre,48
+2023-05-08,Bufanda de lana,2
+2023-05-08,Café en grano 1 kg,16
+2023-05-08,Cuaderno A5,4
+2023-05-08,Helado artesanal,20
+2023-05-08,Pan de masa madre,40
+2023-05-09,Café en grano 1 kg,19
+2023-05-09,Cuaderno A5,4
+2023-05-09,Helado artesanal,19
+2023-05-09,Pan de masa madre,29
+2023-05-10,Bufanda de lana,3
+2023-05-10,Café en grano 1 kg,13
+2023-05-10,Cuaderno A5,8
+2023-05-10,Helado artesanal,18
+2023-05-10,Pan de masa madre,18
+2023-05-11,Bufanda de lana,3
+2023-05-11,Café en grano 1 kg,13
+2023-05-11,Cuaderno A5,5
+2023-05-11,Funda de móvil,1
+2023-05-11,Helado artesanal,12
+2023-05-11,Pan de masa madre,33
+2023-05-12,Bufanda de lana,3
+2023-05-12,Café en grano 1 kg,13
+2023-05-12,Cuaderno A5,6
+2023-05-12,Funda de móvil,1
+2023-05-12,Helado artesanal,19
+2023-05-12,Pan de masa madre,23
+2023-05-13,Bufanda de lana,1
+2023-05-13,Café en grano 1 kg,15
+2023-05-13,Cuaderno A5,3
+2023-05-13,Helado artesanal,25
+2023-05-13,Pan de masa madre,34
+2023-05-14,Bufanda de lana,1
+2023-05-14,Café en grano 1 kg,18
+2023-05-14,Cuaderno A5,1
+2023-05-14,Helado artesanal,33
+2023-05-14,Pan de masa madre,41
+2023-05-15,Bufanda de lana,2
+2023-05-15,Café en grano 1 kg,12
+2023-05-15,Cuaderno A5,3
+2023-05-15,Helado artesanal,11
+2023-05-15,Pan de masa madre,32
+2023-05-16,Bufanda de lana,2
+2023-05-16,Café en grano 1 kg,18
+2023-05-16,Cuaderno A5,4
+2023-05-16,Helado artesanal,24
+2023-05-16,Pan de masa madre,30
+2023-05-17,Bufanda de lana,3
+2023-05-17,Café en grano 1 kg,7
+2023-05-17,Cuaderno A5,5
+2023-05-17,Funda de móvil,2
+2023-05-17,Helado artesanal,12
+2023-05-17,Pan de masa madre,39
+2023-05-18,Bufanda de lana,1
+2023-05-18,Café en grano 1 kg,14
+2023-05-18,Cuaderno A5,5
+2023-05-18,Helado artesanal,18
+2023-05-18,Pan de masa madre,39
+2023-05-19,Bufanda de lana,1
+2023-05-19,Café en grano 1 kg,15
+2023-05-19,Cuaderno A5,11
+2023-05-19,Helado artesanal,22
+2023-05-19,Pan de masa madre,21
+2023-05-20,Café en grano 1 kg,13
+2023-05-20,Cuaderno A5,2
+2023-05-20,Helado artesanal,25
+2023-05-20,Pan de masa madre,37
+2023-05-21,Bufanda de lana,2
+2023-05-21,Café en grano 1 kg,18
+2023-05-21,Cuaderno A5,2
+2023-05-21,Helado artesanal,32
+2023-05-21,Pan de masa madre,46
+2023-05-22,Bufanda de lana,1
+2023-05-22,Café en grano 1 kg,10
+2023-05-22,Cuaderno A5,3
+2023-05-22,Helado artesanal,20
+2023-05-22,Pan de masa madre,23
+2023-05-23,Café en grano 1 kg,8
+2023-05-23,Cuaderno A5,1
+2023-05-23,Helado artesanal,34
+2023-05-23,Pan de masa madre,27
+2023-05-24,Café en grano 1 kg,19
+2023-05-24,Cuaderno A5,3
+2023-05-24,Helado artesanal,17
+2023-05-24,Pan de masa madre,26
+2023-05-25,Café en grano 1 kg,11
+2023-05-25,Cuaderno A5,5
+2023-05-25,Helado artesanal,18
+2023-05-25,Pan de masa madre,26
+2023-05-26,Bufanda de lana,2
+2023-05-26,Café en grano 1 kg,15
+2023-05-26,Cuaderno A5,4
+2023-05-26,Helado artesanal,15
+2023-05-26,Pan de masa madre,34
+2023-05-27,Café en grano 1 kg,16
+2023-05-27,Cuaderno A5,3
+2023-05-27,Helado artesanal,32
+2023-05-27,Pan de masa madre,32
+2023-05-28,Bufanda de lana,1
+2023-05-28,Café en grano 1 kg,16
+2023-05-28,Cuaderno A5,6
+2023-05-28,Helado artesanal,35
+2023-05-28,Pan de masa madre,43
+2023-05-29,Bufanda de lana,2
+2023-05-29,Café en grano 1 kg,16
+2023-05-29,Cuaderno A5,3
+2023-05-29,Helado artesanal,32
+2023-05-29,Pan de masa madre,32
+2023-05-30,Bufanda de lana,2
+2023-05-30,Café en grano 1 kg,11
+2023-05-30,Cuaderno A5,4
+2023-05-30,Helado artesanal,28
+2023-05-30,Pan de masa madre,28
+2023-05-31,Bufanda de lana,1
+2023-05-31,Café en grano 1 kg,10
+2023-05-31,Cuaderno A5,3
+2023-05-31,Funda de móvil,1
+2023-05-31,Helado artesanal,22
+2023-05-31,Pan de masa madre,30
+2023-06-01,Café en grano 1 kg,15
+2023-06-01,Cuaderno A5,7
+2023-06-01,Helado artesanal,23
+2023-06-01,Pan de masa madre,23
+2023-06-02,Café en grano 1 kg,9
+2023-06-02,Cuaderno A5,4
+2023-06-02,Helado artesanal,23
+2023-06-02,Pan de masa madre,42
+2023-06-03,Bufanda de lana,2
+2023-06-03,Café en grano 1 kg,17
+2023-06-03,Cuaderno A5,2
+2023-06-03,Helado artesanal,35
+2023-06-03,Pan de masa madre,37
+2023-06-04,Bufanda de lana,1
+2023-06-04,Café en grano 1 kg,10
+2023-06-04,Cuaderno A5,2
+2023-06-04,Helado artesanal,29
+2023-06-04,Pan de masa madre,49
+2023-06-05,Café en grano 1 kg,13
+2023-06-05,Cuaderno A5,10
+2023-06-05,Funda de móvil,2
+2023-06-05,Helado artesanal,32
+2023-06-05,Pan de masa madre,38
+2023-06-06,Café en grano 1 kg,13
+2023-06-06,Cuaderno A5,3
+2023-06-06,Helado artesanal,26
+2023-06-06,Pan de masa madre,22
+2023-06-07,Café en grano 1 kg,9
+2023-06-07,Cuaderno A5,9
+2023-06-07,Funda de móvil,1
+2023-06-07,Helado artesanal,22
+2023-06-07,Pan de masa madre,27
+2023-06-08,Bufanda de lana,3
+2023-06-08,Café en grano 1 kg,3
+2023-06-08,Cuaderno A5,4
+2023-06-08,Helado artesanal,23
+2023-06-08,Pan de masa madre,37
+2023-06-09,Café en grano 1 kg,7
+2023-06-09,Cuaderno A5,4
+2023-06-09,Funda de móvil,1
+2023-06-09,Helado artesanal,28
+2023-06-09,Pan de masa madre,25
+2023-06-10,Bufanda de lana,1
+2023-06-10,Café en grano 1 kg,18
+2023-06-10,Cuaderno A5,4
+2023-06-10,Helado artesanal,31
+2023-06-10,Pan de masa madre,30
+2023-06-11,Café en grano 1 kg,19
+2023-06-11,Cuaderno A5,5
+2023-06-11,Helado artesanal,39
+2023-06-11,Pan de masa madre,41
+2023-06-12,Bufanda de lana,1
+2023-06-12,Café en grano 1 kg,14
+2023-06-12,Cuaderno A5,3
+2023-06-12,Helado artesanal,20
+2023-06-12,Pan de masa madre,20
+2023-06-13,Bufanda de lana,1
+2023-06-13,Café en grano 1 kg,9
+2023-06-13,Cuaderno A5,6
+2023-06-13,Funda de móvil,1
+2023-06-13,Helado artesanal,29
+2023-06-13,Pan de masa madre,19
+2023-06-14,Café en grano 1 kg,14
+2023-06-14,Cuaderno A5,8
+2023-06-14,Helado artesanal,28
+2023-06-14,Pan de masa madre,27
+2023-06-15,Café en grano 1 kg,6
+2023-06-15,Cuaderno A5,3
+2023-06-15,Helado artesanal,32
+2023-06-15,Pan de masa madre,24
+2023-06-16,Café en grano 1 kg,15
+2023-06-16,Cuaderno A5,8
+2023-06-16,Helado artesanal,21
+2023-06-16,Pan de masa madre,41
+2023-06-17,Café en grano 1 kg,15
+2023-06-17,Cuaderno A5,7
+2023-06-17,Helado artesanal,20
+2023-06-17,Pan de masa madre,55
+2023-06-18,Café en grano 1 kg,23
+2023-06-18,Cuaderno A5,4
+2023-06-18,Helado artesanal,40
+2023-06-18,Pan de masa madre,42
+2023-06-19,Bufanda de lana,1
+2023-06-19,Café en grano 1 kg,12
+2023-06-19,Cuaderno A5,4
+2023-06-19,Helado artesanal,26
+2023-06-19,Pan de masa madre,29
+2023-06-20,Café en grano 1 kg,7
+2023-06-20,Cuaderno A5,11
+2023-06-20,Helado artesanal,27
+2023-06-20,Pan de masa madre,26
+2023-06-21,Café en grano 1 kg,11
+2023-06-21,Cuaderno A5,10
+2023-06-21,Funda de móvil,1
+2023-06-21,Helado artesanal,20
+2023-06-21,Pan de masa madre,32
+2023-06-22,Bufanda de lana,1
+2023-06-22,Café en grano 1 kg,7
+2023-06-22,Cuaderno A5,9
+2023-06-22,Funda de móvil,1
+2023-06-22,Helado artesanal,25
+2023-06-22,Pan de masa madre,25
+2023-06-23,Café en grano 1 kg,9
+2023-06-23,Cuaderno A5,6
+2023-06-23,Helado artesanal,25
+2023-06-23,Pan de masa madre,24
+2023-06-24,Café en grano 1 kg,14
+2023-06-24,Cuaderno A5,5
+2023-06-24,Funda de móvil,2
+2023-06-24,Helado artesanal,30
+2023-06-24,Pan de masa madre,42
+2023-06-25,Café en grano 1 kg,16
+2023-06-25,Cuaderno A5,7
+2023-06-25,Helado artesanal,36
+2023-06-25,Pan de masa madre,29
+2023-06-26,Café en grano 1 kg,11
+2023-06-26,Cuaderno A5,13
+2023-06-26,Funda de móvil,1
+2023-06-26,Helado artesanal,22
+2023-06-26,Pan de masa madre,27
+2023-06-27,Café en grano 1 kg,12
+2023-06-27,Cuaderno A5,4
+2023-06-27,Helado artesanal,26
+2023-06-27,Pan de masa madre,30
+2023-06-28,Café en grano 1 kg,11
+2023-06-28,Cuaderno A5,8
+2023-06-28,Helado artesanal,28
+2023-06-28,Pan de masa madre,34
+2023-06-29,Bufanda de lana,1
+2023-06-29,Café en grano 1 kg,12
+2023-06-29,Cuaderno A5,13
+2023-06-29,Funda de móvil,1
+2023-06-29,Helado artesanal,27
+2023-06-29,Pan de masa madre,29
+2023-06-30,Café en grano 1 kg,14
+2023-06-30,Cuaderno A5,8
+2023-06-30,Helado artesanal,27
+2023-06-30,Pan de masa madre,40
+2023-07-01,Café en grano 1 kg,16
+2023-07-01,Cuaderno A5,2
+2023-07-01,Funda de móvil,1
+2023-07-01,Helado artesanal,35
+2023-07-01,Pan de masa madre,44
+2023-07-02,Café en grano 1 kg,18
+2023-07-02,Cuaderno A5,6
+2023-07-02,Funda de móvil,1
+2023-07-02,Helado artesanal,45
+2023-07-02,Pan de masa madre,27
+2023-07-03,Café en grano 1 kg,11
+2023-07-03,Cuaderno A5,8
+2023-07-03,Funda de móvil,1
+2023-07-03,Helado artesanal,33
+2023-07-03,Pan de masa madre,31
+2023-07-04,Café en grano 1 kg,10
+2023-07-04,Cuaderno A5,11
+2023-07-04,Helado artesanal,25
+2023-07-04,Pan de masa madre,39
+2023-07-05,Café en grano 1 kg,17
+2023-07-05,Cuaderno A5,6
+2023-07-05,Helado artesanal,26
+2023-07-05,Pan de masa madre,30
+2023-07-06,Bufanda de lana,1
+2023-07-06,Café en grano 1 kg,12
+2023-07-06,Cuaderno A5,7
+2023-07-06,Funda de móvil,1
+2023-07-06,Helado artesanal,34
+2023-07-06,Pan de masa madre,26
+2023-07-07,Bufanda de lana,2
+2023-07-07,Café en grano 1 kg,9
+2023-07-07,Cuaderno A5,6
+2023-07-07,Helado artesanal,30
+2023-07-07,Pan de masa madre,33
+2023-07-08,Café en grano 1 kg,14
+2023-07-08,Cuaderno A5,6
+2023-07-08,Helado artesanal,29
+2023-07-08,Pan de masa madre,29
+2023-07-09,Café en grano 1 kg,6
+2023-07-09,Cuaderno A5,6
+2023-07-09,Helado artesanal,38
+2023-07-09,Pan de masa madre,43
+2023-07-10,Bufanda de lana,1
+2023-07-10,Café en grano 1 kg,10
+2023-07-10,Cuaderno A5,7
+2023-07-10,Funda de móvil,1
+2023-07-10,Helado artesanal,34
+2023-07-10,Pan de masa madre,31
+2023-07-11,Café en grano 1 kg,9
+2023-07-11,Cuaderno A5,8
+2023-07-11,Helado artesanal,27
+2023-07-11,Pan de masa madre,28
+2023-07-12,Café en grano 1 kg,16
+2023-07-12,Cuaderno A5,7
+2023-07-12,Funda de móvil,1
+2023-07-12,Helado artesanal,30
+2023-07-12,Pan de masa madre,29
+2023-07-13,Bufanda de lana,1
+2023-07-13,Café en grano 1 kg,7
+2023-07-13,Cuaderno A5,7
+2023-07-13,Helado artesanal,28
+2023-07-13,Pan de masa madre,41
+2023-07-14,Café en grano 1 kg,7
+2023-07-14,Cuaderno A5,7
+2023-07-14,Helado artesanal,36
+2023-07-14,Pan de masa madre,27
+2023-07-15,Café en grano 1 kg,18
+2023-07-15,Cuaderno A5,8
+2023-07-15,Helado artesanal,24
+2023-07-15,Pan de masa madre,40
+2023-07-16,Café en grano 1 kg,17
+2023-07-16,Cuaderno A5,3
+2023-07-16,Funda de móvil,1
+2023-07-16,Helado artesanal,36
+2023-07-16,Pan de masa madre,35
+2023-07-17,Bufanda de lana,1
+2023-07-17,Café en grano 1 kg,10
+2023-07-17,Cuaderno A5,7
+2023-07-17,Helado artesanal,19
+2023-07-17,Pan de masa madre,27
+2023-07-18,Café en grano 1 kg,12
+2023-07-18,Cuaderno A5,10
+2023-07-18,Funda de móvil,1
+2023-07-18,Helado artesanal,14
+2023-07-18,Pan de masa madre,23
+2023-07-19,Café en grano 1 kg,8
+2023-07-19,Cuaderno A5,8
+2023-07-19,Funda de móvil,1
+2023-07-19,Helado artesanal,28
+2023-07-19,Pan de masa madre,29
+2023-07-20,Bufanda de lana,1
+2023-07-20,Café en grano 1 kg,7
+2023-07-20,Cuaderno A5,9
+2023-07-20,Funda de móvil,3
+2023-07-20,Helado artesanal,30
+2023-07-20,Pan de masa madre,34
+2023-07-21,Café en grano 1 kg,10
+2023-07-21,Cuaderno A5,10
+2023-07-21,Funda de móvil,1
+2023-07-21,Helado artesanal,23
+2023-07-21,Pan de masa madre,34
+2023-07-22,Café en grano 1 kg,17
+2023-07-22,Cuaderno A5,9
+2023-07-22,Helado artesanal,41
+2023-07-22,Pan de masa madre,21
+2023-07-23,Café en grano 1 kg,14
+2023-07-23,Cuaderno A5,5
+2023-07-23,Helado artesanal,42
+2023-07-23,Pan de masa madre,40
+2023-07-24,Bufanda de lana,1
+2023-07-24,Café en grano 1 kg,4
+2023-07-24,Cuaderno A5,7
+2023-07-24,Helado artesanal,26
+2023-07-24,Pan de masa madre,30
+2023-07-25,Café en grano 1 kg,9
+2023-07-25,Cuaderno A5,3
+2023-07-25,Funda de móvil,2
+2023-07-25,Helado artesanal,34
+2023-07-25,Pan de masa madre,32
+2023-07-26,Bufanda de lana,1
+2023-07-26,Café en grano 1 kg,12
+2023-07-26,Cuaderno A5,4
+2023-07-26,Helado artesanal,25
+2023-07-26,Pan de masa madre,26
+2023-07-27,Bufanda de lana,1
+2023-07-27,Café en grano 1 kg,6
+2023-07-27,Cuaderno A5,12
+2023-07-27,Helado artesanal,21
+2023-07-27,Pan de masa madre,31
+2023-07-28,Café en grano 1 kg,13
+2023-07-28,Cuaderno A5,10
+2023-07-28,Helado artesanal,33
+2023-07-28,Pan de masa madre,26
+2023-07-29,Café en grano 1 kg,18
+2023-07-29,Cuaderno A5,3
+2023-07-29,Funda de móvil,1
+2023-07-29,Helado artesanal,31
+2023-07-29,Pan de masa madre,43
+2023-07-30,Café en grano 1 kg,13
+2023-07-30,Cuaderno A5,6
+2023-07-30,Funda de móvil,1
+2023-07-30,Helado artesanal,37
+2023-07-30,Pan de masa madre,32
+2023-07-31,Café en grano 1 kg,10
+2023-07-31,Cuaderno A5,10
+2023-07-31,Helado artesanal,32
+2023-07-31,Pan de masa madre,37
+2023-08-01,Café en grano 1 kg,11
+2023-08-01,Cuaderno A5,7
+2023-08-01,Funda de móvil,1
+2023-08-01,Helado artesanal,31
+2023-08-01,Pan de masa madre,36
+2023-08-02,Bufanda de lana,2
+2023-08-02,Café en grano 1 kg,16
+2023-08-02,Cuaderno A5,5
+2023-08-02,Funda de móvil,4
+2023-08-02,Helado artesanal,25
+2023-08-02,Pan de masa madre,30
+2023-08-03,Café en grano 1 kg,17
+2023-08-03,Cuaderno A5,7
+2023-08-03,Helado artesanal,22
+2023-08-03,Pan de masa madre,29
+2023-08-04,Café en grano 1 kg,16
+2023-08-04,Cuaderno A5,10
+2023-08-04,Funda de móvil,1
+2023-08-04,Helado artesanal,40
+2023-08-04,Pan de masa madre,26
+2023-08-05,Café en grano 1 kg,14
+2023-08-05,Cuaderno A5,4
+2023-08-05,Funda de móvil,1
+2023-08-05,Helado artesanal,40
+2023-08-05,Pan de masa madre,51
+2023-08-06,Café en grano 1 kg,9
+2023-08-06,Cuaderno A5,11
+2023-08-06,Funda de móvil,1
+2023-08-06,Helado artesanal,36
+2023-08-06,Pan de masa madre,34
+2023-08-07,Bufanda de lana,2
+2023-08-07,Café en grano 1 kg,17
+2023-08-07,Cuaderno A5,8
+2023-08-07,Funda de móvil,1
+2023-08-07,Helado artesanal,27
+2023-08-07,Pan de masa madre,30
+2023-08-08,Bufanda de lana,2
+2023-08-08,Café en grano 1 kg,8
+2023-08-08,Cuaderno A5,9
+2023-08-08,Helado artesanal,23
+2023-08-08,Pan de masa madre,29
+2023-08-09,Bufanda de lana,1
+2023-08-09,Café en grano 1 kg,8
+2023-08-09,Cuaderno A5,11
+2023-08-09,Funda de móvil,1
+2023-08-09,Helado artesanal,34
+2023-08-09,Pan de masa madre,23
+2023-08-10,Café en grano 1 kg,18
+2023-08-10,Cuaderno A5,9
+2023-08-10,Helado artesanal,29
+2023-08-10,Pan de masa madre,48
+2023-08-11,Bufanda de lana,2
+2023-08-11,Café en grano 1 kg,10
+2023-08-11,Cuaderno A5,9
+2023-08-11,Helado artesanal,34
+2023-08-11,Pan de masa madre,20
+2023-08-12,Bufanda de lana,2
+2023-08-12,Café en grano 1 kg,17
+2023-08-12,Cuaderno A5,3
+2023-08-12,Helado artesanal,34
+2023-08-12,Pan de masa madre,44
+2023-08-13,Bufanda de lana,2
+2023-08-13,Café en grano 1 kg,14
+2023-08-13,Cuaderno A5,10
+2023-08-13,Helado artesanal,34
+2023-08-13,Pan de masa madre,41
+2023-08-14,Bufanda de lana,2
+2023-08-14,Café en grano 1 kg,17
+2023-08-14,Cuaderno A5,14
+2023-08-14,Helado artesanal,27
+2023-08-14,Pan de masa madre,37
+2023-08-15,Café en grano 1 kg,16
+2023-08-15,Cuaderno A5,11
+2023-08-15,Helado artesanal,31
+2023-08-15,Pan de masa madre,30
+2023-08-16,Café en grano 1 kg,14
+2023-08-16,Cuaderno A5,6
+2023-08-16,Helado artesanal,26
+2023-08-16,Pan de masa madre,30
+2023-08-17,Café en grano 1 kg,12
+2023-08-17,Cuaderno A5,10
+2023-08-17,Funda de móvil,1
+2023-08-17,Helado artesanal,21
+2023-08-17,Pan de masa madre,32
+2023-08-18,Bufanda de lana,2
+2023-08-18,Café en grano 1 kg,9
+2023-08-18,Cuaderno A5,6
+2023-08-18,Helado artesanal,34
+2023-08-18,Pan de masa madre,30
+2023-08-19,Bufanda de lana,1
+2023-08-19,Café en grano 1 kg,18
+2023-08-19,Cuaderno A5,7
+2023-08-19,Helado artesanal,31
+2023-08-19,Pan de masa madre,36
+2023-08-20,Café en grano 1 kg,9
+2023-08-20,Cuaderno A5,9
+2023-08-20,Helado artesanal,48
+2023-08-20,Pan de masa madre,43
+2023-08-21,Bufanda de lana,2
+2023-08-21,Café en grano 1 kg,15
+2023-08-21,Cuaderno A5,9
+2023-08-21,Funda de móvil,1
+2023-08-21,Helado artesanal,26
+2023-08-21,Pan de masa madre,37
+2023-08-22,Café en grano 1 kg,15
+2023-08-22,Cuaderno A5,8
+2023-08-22,Helado artesanal,31
+2023-08-22,Pan de masa madre,33
+2023-08-23,Bufanda de lana,2
+2023-08-23,Café en grano 1 kg,12
+2023-08-23,Cuaderno A5,13
+2023-08-23,Helado artesanal,22
+2023-08-23,Pan de masa madre,23
+2023-08-24,Café en grano 1 kg,4
+2023-08-24,Cuaderno A5,13
+2023-08-24,Funda de móvil,1
+2023-08-24,Helado artesanal,26
+2023-08-24,Pan de masa madre,31
+2023-08-25,Bufanda de lana,4
+2023-08-25,Café en grano 1 kg,14
+2023-08-25,Cuaderno A5,11
+2023-08-25,Helado artesanal,24
+2023-08-25,Pan de masa madre,20
+2023-08-26,Café en grano 1 kg,6
+2023-08-26,Cuaderno A5,5
+2023-08-26,Helado artesanal,34
+2023-08-26,Pan de masa madre,37
+2023-08-27,Bufanda de lana,2
+2023-08-27,Café en grano 1 kg,16
+2023-08-27,Cuaderno A5,7
+2023-08-27,Funda de móvil,1
+2023-08-27,Helado artesanal,41
+2023-08-27,Pan de masa madre,36
+2023-08-28,Bufanda de lana,2
+2023-08-28,Café en grano 1 kg,14
+2023-08-28,Cuaderno A5,8
+2023-08-28,Helado artesanal,24
+2023-08-28,Pan de masa madre,38
+2023-08-29,Bufanda de lana,2
+2023-08-29,Café en grano 1 kg,11
+2023-08-29,Cuaderno A5,4
+2023-08-29,Funda de móvil,1
+2023-08-29,Helado artesanal,26
+2023-08-29,Pan de masa madre,33
+2023-08-30,Bufanda de lana,1
+2023-08-30,Café en grano 1 kg,14
+2023-08-30,Cuaderno A5,6
+2023-08-30,Helado artesanal,32
+2023-08-30,Pan de masa madre,27
+2023-08-31,Café en grano 1 kg,16
+2023-08-31,Cuaderno A5,7
+2023-08-31,Helado artesanal,22
+2023-08-31,Pan de masa madre,33
+2023-09-01,Bufanda de lana,2
+2023-09-01,Café en grano 1 kg,16
+2023-09-01,Cuaderno A5,7
+2023-09-01,Funda de móvil,1
+2023-09-01,Helado artesanal,22
+2023-09-01,Pan de masa madre,29
+2023-09-02,Bufanda de lana,4
+2023-09-02,Café en grano 1 kg,16
+2023-09-02,Cuaderno A5,8
+2023-09-02,Helado artesanal,29
+2023-09-02,Pan de masa madre,46
+2023-09-03,Bufanda de lana,2
+2023-09-03,Café en grano 1 kg,11
+2023-09-03,Cuaderno A5,6
+2023-09-03,Funda de móvil,1
+2023-09-03,Helado artesanal,35
+2023-09-03,Pan de masa madre,43
+2023-09-04,Bufanda de lana,2
+2023-09-04,Café en grano 1 kg,10
+2023-09-04,Cuaderno A5,9
+2023-09-04,Helado artesanal,21
+2023-09-04,Pan de masa madre,29
+2023-09-05,Bufanda de lana,2
+2023-09-05,Café en grano 1 kg,10
+2023-09-05,Cuaderno A5,5
+2023-09-05,Helado artesanal,18
+2023-09-05,Pan de masa madre,31
+2023-09-06,Bufanda de lana,1
+2023-09-06,Café en grano 1 kg,8
+2023-09-06,Cuaderno A5,9
+2023-09-06,Helado artesanal,21
+2023-09-06,Pan de masa madre,31
+2023-09-07,Bufanda de lana,3
+2023-09-07,Café en grano 1 kg,13
+2023-09-07,Cuaderno A5,15
+2023-09-07,Helado artesanal,25
+2023-09-07,Pan de masa madre,41
+2023-09-08,Bufanda de lana,3
+2023-09-08,Café en grano 1 kg,18
+2023-09-08,Cuaderno A5,8
+2023-09-08,Helado artesanal,29
+2023-09-08,Pan de masa madre,29
+2023-09-09,Bufanda de lana,2
+2023-09-09,Café en grano 1 kg,10
+2023-09-09,Cuaderno A5,3
+2023-09-09,Funda de móvil,1
+2023-09-09,Helado artesanal,32
+2023-09-09,Pan de masa madre,48
+2023-09-10,Bufanda de lana,1
+2023-09-10,Café en grano 1 kg,8
+2023-09-10,Cuaderno A5,6
+2023-09-10,Funda de móvil,1
+2023-09-10,Helado artesanal,24
+2023-09-10,Pan de masa madre,45
+2023-09-11,Bufanda de lana,3
+2023-09-11,Café en grano 1 kg,14
+2023-09-11,Cuaderno A5,12
+2023-09-11,Helado artesanal,18
+2023-09-11,Pan de masa madre,33
+2023-09-12,Bufanda de lana,2
+2023-09-12,Café en grano 1 kg,15
+2023-09-12,Cuaderno A5,6
+2023-09-12,Funda de móvil,1
+2023-09-12,Helado artesanal,36
+2023-09-12,Pan de masa madre,25
+2023-09-13,Bufanda de lana,4
+2023-09-13,Café en grano 1 kg,10
+2023-09-13,Cuaderno A5,9
+2023-09-13,Helado artesanal,25
+2023-09-13,Pan de masa madre,32
+2023-09-14,Café en grano 1 kg,9
+2023-09-14,Cuaderno A5,15
+2023-09-14,Helado artesanal,22
+2023-09-14,Pan de masa madre,37
+2023-09-15,Bufanda de lana,3
+2023-09-15,Café en grano 1 kg,18
+2023-09-15,Cuaderno A5,11
+2023-09-15,Helado artesanal,23
+2023-09-15,Pan de masa madre,34
+2023-09-16,Bufanda de lana,4
+2023-09-16,Café en grano 1 kg,18
+2023-09-16,Cuaderno A5,6
+2023-09-16,Helado artesanal,28
+2023-09-16,Pan de masa madre,39
+2023-09-17,Bufanda de lana,1
+2023-09-17,Café en grano 1 kg,17
+2023-09-17,Cuaderno A5,8
+2023-09-17,Helado artesanal,36
+2023-09-17,Pan de masa madre,40
+2023-09-18,Bufanda de lana,4
+2023-09-18,Café en grano 1 kg,9
+2023-09-18,Cuaderno A5,7
+2023-09-18,Funda de móvil,1
+2023-09-18,Helado artesanal,20
+2023-09-18,Pan de masa madre,34
+2023-09-19,Bufanda de lana,1
+2023-09-19,Café en grano 1 kg,10
+2023-09-19,Cuaderno A5,8
+2023-09-19,Helado artesanal,24
+2023-09-19,Pan de masa madre,31
+2023-09-20,Café en grano 1 kg,12
+2023-09-20,Cuaderno A5,10
+2023-09-20,Helado artesanal,14
+2023-09-20,Pan de masa madre,34
+2023-09-21,Bufanda de lana,6
+2023-09-21,Café en grano 1 kg,16
+2023-09-21,Cuaderno A5,6
+2023-09-21,Helado artesanal,15
+2023-09-21,Pan de masa madre,40
+2023-09-22,Bufanda de lana,4
+2023-09-22,Café en grano 1 kg,13
+2023-09-22,Cuaderno A5,7
+2023-09-22,Helado artesanal,21
+2023-09-22,Pan de masa madre,33
+2023-09-23,Bufanda de lana,2
+2023-09-23,Café en grano 1 kg,16
+2023-09-23,Cuaderno A5,8
+2023-09-23,Helado artesanal,26
+2023-09-23,Pan de masa madre,42
+2023-09-24,Bufanda de lana,2
+2023-09-24,Café en grano 1 kg,10
+2023-09-24,Cuaderno A5,10
+2023-09-24,Helado artesanal,20
+2023-09-24,Pan de masa madre,42
+2023-09-25,Bufanda de lana,6
+2023-09-25,Café en grano 1 kg,10
+2023-09-25,Cuaderno A5,12
+2023-09-25,Helado artesanal,22
+2023-09-25,Pan de masa madre,23
+2023-09-26,Bufanda de lana,3
+2023-09-26,Café en grano 1 kg,12
+2023-09-26,Cuaderno A5,10
+2023-09-26,Funda de móvil,1
+2023-09-26,Helado artesanal,21
+2023-09-26,Pan de masa madre,31
+2023-09-27,Bufanda de lana,3
+2023-09-27,Café en grano 1 kg,10
+2023-09-27,Cuaderno A5,13
+2023-09-27,Helado artesanal,26
+2023-09-27,Pan de masa madre,23
+2023-09-28,Bufanda de lana,3
+2023-09-28,Café en grano 1 kg,7
+2023-09-28,Cuaderno A5,12
+2023-09-28,Funda de móvil,2
+2023-09-28,Helado artesanal,20
+2023-09-28,Pan de masa madre,37
+2023-09-29,Bufanda de lana,6
+2023-09-29,Café en grano 1 kg,9
+2023-09-29,Cuaderno A5,11
+2023-09-29,Helado artesanal,16
+2023-09-29,Pan de masa madre,18
+2023-09-30,Bufanda de lana,5
+2023-09-30,Café en grano 1 kg,14
+2023-09-30,Cuaderno A5,5
+2023-09-30,Funda de móvil,1
+2023-09-30,Helado artesanal,29
+2023-09-30,Pan de masa madre,41
+2023-10-01,Bufanda de lana,4
+2023-10-01,Café en grano 1 kg,21
+2023-10-01,Cuaderno A5,6
+2023-10-01,Helado artesanal,28
+2023-10-01,Pan de masa madre,46
+2023-10-02,Bufanda de lana,3
+2023-10-02,Café en grano 1 kg,13
+2023-10-02,Cuaderno A5,11
+2023-10-02,Funda de móvil,1
+2023-10-02,Helado artesanal,17
+2023-10-02,Pan de masa madre,26
+2023-10-03,Bufanda de lana,2
+2023-10-03,Café en grano 1 kg,11
+2023-10-03,Cuaderno A5,4
+2023-10-03,Funda de móvil,2
+2023-10-03,Helado artesanal,19
+2023-10-03,Pan de masa madre,24
+2023-10-04,Bufanda de lana,5
+2023-10-04,Café en grano 1 kg,10
+2023-10-04,Cuaderno A5,12
+2023-10-04,Helado artesanal,21
+2023-10-04,Pan de masa madre,39
+2023-10-05,Café en grano 1 kg,10
+2023-10-05,Cuaderno A5,10
+2023-10-05,Funda de móvil,1
+2023-10-05,Helado artesanal,18
+2023-10-05,Pan de masa madre,39
+2023-10-06,Bufanda de lana,1
+2023-10-06,Café en grano 1 kg,15
+2023-10-06,Cuaderno A5,11
+2023-10-06,Helado artesanal,19
+2023-10-06,Pan de masa madre,28
+2023-10-07,Bufanda de lana,3
+2023-10-07,Café en grano 1 kg,14
+2023-10-07,Cuaderno A5,9
+2023-10-07,Helado artesanal,20
+2023-10-07,Pan de masa madre,33
+2023-10-08,Bufanda de lana,4
+2023-10-08,Café en grano 1 kg,7
+2023-10-08,Cuaderno A5,9
+2023-10-08,Funda de móvil,2
+2023-10-08,Helado artesanal,27
+2023-10-08,Pan de masa madre,51
+2023-10-09,Bufanda de lana,7
+2023-10-09,Café en grano 1 kg,15
+2023-10-09,Cuaderno A5,6
+2023-10-09,Funda de móvil,1
+2023-10-09,Helado artesanal,19
+2023-10-09,Pan de masa madre,29
+2023-10-10,Bufanda de lana,5
+2023-10-10,Café en grano 1 kg,5
+2023-10-10,Cuaderno A5,9
+2023-10-10,Helado artesanal,14
+2023-10-10,Pan de masa madre,28
+2023-10-11,Bufanda de lana,2
+2023-10-11,Café en grano 1 kg,19
+2023-10-11,Cuaderno A5,8
+2023-10-11,Helado artesanal,16
+2023-10-11,Pan de masa madre,31
+2023-10-12,Bufanda de lana,6
+2023-10-12,Café en grano 1 kg,9
+2023-10-12,Cuaderno A5,11
+2023-10-12,Helado artesanal,11
+2023-10-12,Pan de masa madre,33
+2023-10-13,Bufanda de lana,5
+2023-10-13,Café en grano 1 kg,8
+2023-10-13,Cuaderno A5,17
+2023-10-13,Funda de móvil,1
+2023-10-13,Helado artesanal,21
+2023-10-13,Pan de masa madre,35
+2023-10-14,Bufanda de lana,4
+2023-10-14,Café en grano 1 kg,13
+2023-10-14,Cuaderno A5,6
+2023-10-14,Helado artesanal,18
+2023-10-14,Pan de masa madre,53
+2023-10-15,Bufanda de lana,4
+2023-10-15,Café en grano 1 kg,17
+2023-10-15,Cuaderno A5,9
+2023-10-15,Helado artesanal,25
+2023-10-15,Pan de masa madre,51
+2023-10-16,Bufanda de lana,2
+2023-10-16,Café en grano 1 kg,14
+2023-10-16,Cuaderno A5,14
+2023-10-16,Helado artesanal,13
+2023-10-16,Pan de masa madre,38
+2023-10-17,Bufanda de lana,1
+2023-10-17,Café en grano 1 kg,12
+2023-10-17,Cuaderno A5,5
+2023-10-17,Helado artesanal,13
+2023-10-17,Pan de masa madre,36
+2023-10-18,Bufanda de lana,7
+2023-10-18,Café en grano 1 kg,17
+2023-10-18,Cuaderno A5,6
+2023-10-18,Helado artesanal,21
+2023-10-18,Pan de masa madre,28
+2023-10-19,Bufanda de lana,5
+2023-10-19,Café en grano 1 kg,17
+2023-10-19,Cuaderno A5,7
+2023-10-19,Helado artesanal,21
+2023-10-19,Pan de masa madre,29
+2023-10-20,Bufanda de lana,4
+2023-10-20,Café en grano 1 kg,10
+2023-10-20,Cuaderno A5,7
+2023-10-20,Funda de móvil,1
+2023-10-20,Helado artesanal,15
+2023-10-20,Pan de masa madre,38
+2023-10-21,Bufanda de lana,6
+2023-10-21,Café en grano 1 kg,14
+2023-10-21,Cuaderno A5,6
+2023-10-21,Funda de móvil,1
+2023-10-21,Helado artesanal,18
+2023-10-21,Pan de masa madre,48
+2023-10-22,Bufanda de lana,3
+2023-10-22,Café en grano 1 kg,19
+2023-10-22,Cuaderno A5,9
+2023-10-22,Helado artesanal,27
+2023-10-22,Pan de masa madre,48
+2023-10-23,Bufanda de lana,6
+2023-10-23,Café en grano 1 kg,16
+2023-10-23,Cuaderno A5,9
+2023-10-23,Funda de móvil,1
+2023-10-23,Helado artesanal,16
+2023-10-23,Pan de masa madre,30
+2023-10-24,Bufanda de lana,5
+2023-10-24,Café en grano 1 kg,18
+2023-10-24,Cuaderno A5,8
+2023-10-24,Helado artesanal,18
+2023-10-24,Pan de masa madre,41
+2023-10-25,Bufanda de lana,3
+2023-10-25,Café en grano 1 kg,8
+2023-10-25,Cuaderno A5,9
+2023-10-25,Helado artesanal,22
+2023-10-25,Pan de masa madre,30
+2023-10-26,Bufanda de lana,3
+2023-10-26,Café en grano 1 kg,15
+2023-10-26,Cuaderno A5,7
+2023-10-26,Helado artesanal,15
+2023-10-26,Pan de masa madre,37
+2023-10-27,Bufanda de lana,6
+2023-10-27,Café en grano 1 kg,18
+2023-10-27,Cuaderno A5,10
+2023-10-27,Helado artesanal,18
+2023-10-27,Pan de masa madre,37
+2023-10-28,Bufanda de lana,5
+2023-10-28,Café en grano 1 kg,18
+2023-10-28,Cuaderno A5,3
+2023-10-28,Funda de móvil,2
+2023-10-28,Helado artesanal,13
+2023-10-28,Pan de masa madre,50
+2023-10-29,Bufanda de lana,1
+2023-10-29,Café en grano 1 kg,8
+2023-10-29,Cuaderno A5,6
+2023-10-29,Funda de móvil,2
+2023-10-29,Helado artesanal,13
+2023-10-29,Pan de masa madre,58
+2023-10-30,Bufanda de lana,6
+2023-10-30,Café en grano 1 kg,11
+2023-10-30,Cuaderno A5,11
+2023-10-30,Helado artesanal,16
+2023-10-30,Pan de masa madre,28
+2023-10-31,Bufanda de lana,4
+2023-10-31,Café en grano 1 kg,18
+2023-10-31,Cuaderno A5,6
+2023-10-31,Funda de móvil,1
+2023-10-31,Helado artesanal,10
+2023-10-31,Pan de masa madre,32
+2023-11-01,Bufanda de lana,3
+2023-11-01,Café en grano 1 kg,14
+2023-11-01,Cuaderno A5,8
+2023-11-01,Funda de móvil,1
+2023-11-01,Helado artesanal,23
+2023-11-01,Pan de masa madre,43
+2023-11-02,Bufanda de lana,4
+2023-11-02,Café en grano 1 kg,18
+2023-11-02,Cuaderno A5,9
+2023-11-02,Helado artesanal,4
+2023-11-02,Pan de masa madre,25
+2023-11-03,Bufanda de lana,3
+2023-11-03,Café en grano 1 kg,15
+2023-11-03,Cuaderno A5,3
+2023-11-03,Funda de móvil,1
+2023-11-03,Helado artesanal,10
+2023-11-03,Pan de masa madre,26
+2023-11-04,Bufanda de lana,4
+2023-11-04,Café en grano 1 kg,16
+2023-11-04,Cuaderno A5,10
+2023-11-04,Funda de móvil,1
+2023-11-04,Helado artesanal,16
+2023-11-04,Pan de masa madre,46
+2023-11-05,Bufanda de lana,3
+2023-11-05,Café en grano 1 kg,20
+2023-11-05,Cuaderno A5,7
+2023-11-05,Helado artesanal,18
+2023-11-05,Pan de masa madre,46
+2023-11-06,Bufanda de lana,7
+2023-11-06,Café en grano 1 kg,13
+2023-11-06,Cuaderno A5,10
+2023-11-06,Helado artesanal,11
+2023-11-06,Pan de masa madre,34
+2023-11-07,Bufanda de lana,3
+2023-11-07,Café en grano 1 kg,14
+2023-11-07,Cuaderno A5,6
+2023-11-07,Funda de móvil,1
+2023-11-07,Helado artesanal,7
+2023-11-07,Pan de masa madre,30
+2023-11-08,Bufanda de lana,5
+2023-11-08,Café en grano 1 kg,8
+2023-11-08,Cuaderno A5,6
+2023-11-08,Helado artesanal,12
+2023-11-08,Pan de masa madre,34
+2023-11-09,Bufanda de lana,5
+2023-11-09,Café en grano 1 kg,12
+2023-11-09,Cuaderno A5,9
+2023-11-09,Helado artesanal,16
+2023-11-09,Pan de masa madre,31
+2023-11-10,Bufanda de lana,7
+2023-11-10,Café en grano 1 kg,10
+2023-11-10,Cuaderno A5,8
+2023-11-10,Funda de móvil,1
+2023-11-10,Helado artesanal,17
+2023-11-10,Pan de masa madre,35
+2023-11-11,Bufanda de lana,7
+2023-11-11,Café en grano 1 kg,13
+2023-11-11,Cuaderno A5,7
+2023-11-11,Funda de móvil,1
+2023-11-11,Helado artesanal,17
+2023-11-11,Pan de masa madre,53
+2023-11-12,Bufanda de lana,2
+2023-11-12,Café en grano 1 kg,16
+2023-11-12,Cuaderno A5,5
+2023-11-12,Funda de móvil,1
+2023-11-12,Helado artesanal,19
+2023-11-12,Pan de masa madre,46
+2023-11-13,Bufanda de lana,4
+2023-11-13,Café en grano 1 kg,17
+2023-11-13,Cuaderno A5,8
+2023-11-13,Helado artesanal,14
+2023-11-13,Pan de masa madre,34
+2023-11-14,Bufanda de lana,6
+2023-11-14,Café en grano 1 kg,8
+2023-11-14,Cuaderno A5,14
+2023-11-14,Helado artesanal,6
+2023-11-14,Pan de masa madre,34
+2023-11-15,Bufanda de lana,7
+2023-11-15,Café en grano 1 kg,17
+2023-11-15,Cuaderno A5,10
+2023-11-15,Helado artesanal,14
+2023-11-15,Pan de masa madre,38
+2023-11-16,Bufanda de lana,3
+2023-11-16,Café en grano 1 kg,13
+2023-11-16,Cuaderno A5,9
+2023-11-16,Helado artesanal,14
+2023-11-16,Pan de masa madre,38
+2023-11-17,Bufanda de lana,7
+2023-11-17,Café en grano 1 kg,15
+2023-11-17,Cuaderno A5,7
+2023-11-17,Funda de móvil,1
+2023-11-17,Helado artesanal,13
+2023-11-17,Pan de masa madre,28
+2023-11-18,Bufanda de lana,3
+2023-11-18,Café en grano 1 kg,16
+2023-11-18,Cuaderno A5,5
+2023-11-18,Helado artesanal,13
+2023-11-18,Pan de masa madre,51
+2023-11-19,Bufanda de lana,4
+2023-11-19,Café en grano 1 kg,25
+2023-11-19,Cuaderno A5,2
+2023-11-19,Funda de móvil,1
+2023-11-19,Helado artesanal,14
+2023-11-19,Pan de masa madre,41
+2023-11-20,Bufanda de lana,11
+2023-11-20,Café en grano 1 kg,10
+2023-11-20,Cuaderno A5,11
+2023-11-20,Helado artesanal,7
+2023-11-20,Pan de masa madre,28
+2023-11-21,Bufanda de lana,5
+2023-11-21,Café en grano 1 kg,13
+2023-11-21,Cuaderno A5,5
+2023-11-21,Funda de móvil,2
+2023-11-21,Helado artesanal,6
+2023-11-21,Pan de masa madre,29
+2023-11-22,Bufanda de lana,8
+2023-11-22,Café en grano 1 kg,10
+2023-11-22,Cuaderno A5,7
+2023-11-22,Helado artesanal,4
+2023-11-22,Pan de masa madre,29
+2023-11-23,Bufanda de lana,7
+2023-11-23,Café en grano 1 kg,11
+2023-11-23,Cuaderno A5,7
+2023-11-23,Helado artesanal,8
+2023-11-23,Pan de masa madre,29
+2023-11-24,Bufanda de lana,9
+2023-11-24,Café en grano 1 kg,11
+2023-11-24,Cuaderno A5,9
+2023-11-24,Helado artesanal,2
+2023-11-24,Pan de masa madre,26
+2023-11-25,Bufanda de lana,11
+2023-11-25,Café en grano 1 kg,13
+2023-11-25,Cuaderno A5,8
+2023-11-25,Funda de móvil,1
+2023-11-25,Helado artesanal,16
+2023-11-25,Pan de masa madre,53
+2023-11-26,Bufanda de lana,8
+2023-11-26,Café en grano 1 kg,17
+2023-11-26,Cuaderno A5,5
+2023-11-26,Helado artesanal,11
+2023-11-26,Pan de masa madre,38
+2023-11-27,Bufanda de lana,5
+2023-11-27,Café en grano 1 kg,23
+2023-11-27,Cuaderno A5,12
+2023-11-27,Helado artesanal,8
+2023-11-27,Pan de masa madre,41
+2023-11-28,Bufanda de lana,3
+2023-11-28,Café en grano 1 kg,14
+2023-11-28,Cuaderno A5,3
+2023-11-28,Funda de móvil,1
+2023-11-28,Helado artesanal,6
+2023-11-28,Pan de masa madre,28
+2023-11-29,Bufanda de lana,4
+2023-11-29,Café en grano 1 kg,11
+2023-11-29,Cuaderno A5,5
+2023-11-29,Helado artesanal,2
+2023-11-29,Pan de masa madre,27
+2023-11-30,Bufanda de lana,9
+2023-11-30,Café en grano 1 kg,7
+2023-11-30,Cuaderno A5,9
+2023-11-30,Helado artesanal,14
+2023-11-30,Pan de masa madre,31
+2023-12-01,Bufanda de lana,6
+2023-12-01,Café en grano 1 kg,12
+2023-12-01,Cuaderno A5,5
+2023-12-01,Helado artesanal,9
+2023-12-01,Pan de masa madre,30
+2023-12-02,Bufanda de lana,11
+2023-12-02,Café en grano 1 kg,19
+2023-12-02,Cuaderno A5,3
+2023-12-02,Helado artesanal,9
+2023-12-02,Pan de masa madre,40
+2023-12-03,Bufanda de lana,8
+2023-12-03,Café en grano 1 kg,13
+2023-12-03,Cuaderno A5,7
+2023-12-03,Funda de móvil,1
+2023-12-03,Helado artesanal,12
+2023-12-03,Pan de masa madre,41
+2023-12-04,Bufanda de lana,10
+2023-12-04,Café en grano 1 kg,10
+2023-12-04,Cuaderno A5,6
+2023-12-04,Funda de móvil,1
+2023-12-04,Helado artesanal,7
+2023-12-04,Pan de masa madre,29
+2023-12-05,Bufanda de lana,10
+2023-12-05,Café en grano 1 kg,15
+2023-12-05,Cuaderno A5,12
+2023-12-05,Funda de móvil,1
+2023-12-05,Helado artesanal,6
+2023-12-05,Pan de masa madre,37
+2023-12-06,Bufanda de lana,4
+2023-12-06,Café en grano 1 kg,12
+2023-12-06,Cuaderno A5,8
+2023-12-06,Helado artesanal,11
+2023-12-06,Pan de masa madre,31
+2023-12-07,Bufanda de lana,5
+2023-12-07,Café en grano 1 kg,13
+2023-12-07,Cuaderno A5,8
+2023-12-07,Helado artesanal,3
+2023-12-07,Pan de masa madre,27
+2023-12-08,Bufanda de lana,4
+2023-12-08,Café en grano 1 kg,18
+2023-12-08,Cuaderno A5,6
+2023-12-08,Funda de móvil,1
+2023-12-08,Helado artesanal,9
+2023-12-08,Pan de masa madre,35
+2023-12-09,Bufanda de lana,6
+2023-12-09,Café en grano 1 kg,26
+2023-12-09,Cuaderno A5,3
+2023-12-09,Helado artesanal,6
+2023-12-09,Pan de masa madre,34
+2023-12-10,Bufanda de lana,6
+2023-12-10,Café en grano 1 kg,24
+2023-12-10,Cuaderno A5,4
+2023-12-10,Funda de móvil,3
+2023-12-10,Helado artesanal,6
+2023-12-10,Pan de masa madre,50
+2023-12-11,Bufanda de lana,10
+2023-12-11,Café en grano 1 kg,10
+2023-12-11,Cuaderno A5,6
+2023-12-11,Funda de móvil,2
+2023-12-11,Helado artesanal,7
+2023-12-11,Pan de masa madre,29
+2023-12-12,Bufanda de lana,4
+2023-12-12,Café en grano 1 kg,14
+2023-12-12,Cuaderno A5,4
+2023-12-12,Helado artesanal,5
+2023-12-12,Pan de masa madre,41
+2023-12-13,Bufanda de lana,4
+2023-12-13,Café en grano 1 kg,20
+2023-12-13,Cuaderno A5,5
+2023-12-13,Funda de móvil,1
+2023-12-13,Helado artesanal,10
+2023-12-13,Pan de masa madre,34
+2023-12-14,Bufanda de lana,6
+2023-12-14,Café en grano 1 kg,15
+2023-12-14,Cuaderno A5,6
+2023-12-14,Helado artesanal,7
+2023-12-14,Pan de masa madre,21
+2023-12-15,Bufanda de lana,5
+2023-12-15,Café en grano 1 kg,11
+2023-12-15,Cuaderno A5,7
+2023-12-15,Funda de móvil,1
+2023-12-15,Helado artesanal,9
+2023-12-15,Pan de masa madre,30
+2023-12-16,Bufanda de lana,7
+2023-12-16,Café en grano 1 kg,22
+2023-12-16,Cuaderno A5,5
+2023-12-16,Helado artesanal,8
+2023-12-16,Pan de masa madre,43
+2023-12-17,Bufanda de lana,6
+2023-12-17,Café en grano 1 kg,18
+2023-12-17,Cuaderno A5,3
+2023-12-17,Helado artesanal,9
+2023-12-17,Pan de masa madre,53
+2023-12-18,Bufanda de lana,4
+2023-12-18,Café en grano 1 kg,15
+2023-12-18,Cuaderno A5,6
+2023-12-18,Helado artesanal,3
+2023-12-18,Pan de masa madre,37
+2023-12-19,Bufanda de lana,9
+2023-12-19,Café en grano 1 kg,9
+2023-12-19,Cuaderno A5,6
+2023-12-19,Helado artesanal,5
+2023-12-19,Pan de masa madre,44
+2023-12-20,Bufanda de lana,1
+2023-12-20,Café en grano 1 kg,23
+2023-12-20,Cuaderno A5,3
+2023-12-20,Helado artesanal,3
+2023-12-20,Pan de masa madre,35
+2023-12-21,Bufanda de lana,3
+2023-12-21,Café en grano 1 kg,23
+2023-12-21,Cuaderno A5,4
+2023-12-21,Helado artesanal,8
+2023-12-21,Pan de masa madre,40
+2023-12-22,Bufanda de lana,3
+2023-12-22,Café en grano 1 kg,15
+2023-12-22,Cuaderno A5,9
+2023-12-22,Helado artesanal,7
+2023-12-22,Pan de masa madre,48
+2023-12-23,Bufanda de lana,5
+2023-12-23,Café en grano 1 kg,15
+2023-12-23,Cuaderno A5,3
+2023-12-23,Helado artesanal,4
+2023-12-23,Pan de masa madre,49
+2023-12-24,Bufanda de lana,7
+2023-12-24,Café en grano 1 kg,16
+2023-12-24,Cuaderno A5,4
+2023-12-24,Funda de móvil,1
+2023-12-24,Helado artesanal,7
+2023-12-24,Pan de masa madre,46
+2023-12-25,Bufanda de lana,9
+2023-12-25,Café en grano 1 kg,14
+2023-12-25,Cuaderno A5,3
+2023-12-25,Helado artesanal,2
+2023-12-25,Pan de masa madre,29
+2023-12-26,Bufanda de lana,4
+2023-12-26,Café en grano 1 kg,15
+2023-12-26,Cuaderno A5,4
+2023-12-26,Helado artesanal,3
+2023-12-26,Pan de masa madre,38
+2023-12-27,Bufanda de lana,6
+2023-12-27,Café en grano 1 kg,18
+2023-12-27,Cuaderno A5,6
+2023-12-27,Helado artesanal,3
+2023-12-27,Pan de masa madre,28
+2023-12-28,Bufanda de lana,6
+2023-12-28,Café en grano 1 kg,13
+2023-12-28,Cuaderno A5,6
+2023-12-28,Helado artesanal,6
+2023-12-28,Pan de masa madre,40
+2023-12-29,Bufanda de lana,1
+2023-12-29,Café en grano 1 kg,13
+2023-12-29,Cuaderno A5,4
+2023-12-29,Funda de móvil,1
+2023-12-29,Helado artesanal,1
+2023-12-29,Pan de masa madre,24
+2023-12-30,Bufanda de lana,3
+2023-12-30,Café en grano 1 kg,20
+2023-12-30,Helado artesanal,3
+2023-12-30,Pan de masa madre,41
+2023-12-31,Bufanda de lana,4
+2023-12-31,Café en grano 1 kg,22
+2023-12-31,Cuaderno A5,1
+2023-12-31,Helado artesanal,9
+2023-12-31,Pan de masa madre,33
+2024-01-01,Bufanda de lana,6
+2024-01-01,Café en grano 1 kg,21
+2024-01-01,Cuaderno A5,5
+2024-01-01,Helado artesanal,1
+2024-01-01,Pan de masa madre,32
+2024-01-02,Bufanda de lana,4
+2024-01-02,Café en grano 1 kg,16
+2024-01-02,Cuaderno A5,6
+2024-01-02,Funda de móvil,2
+2024-01-02,Helado artesanal,2
+2024-01-02,Pan de masa madre,32
+2024-01-03,Bufanda de lana,5
+2024-01-03,Café en grano 1 kg,7
+2024-01-03,Cuaderno A5,8
+2024-01-03,Helado artesanal,1
+2024-01-03,Pan de masa madre,29
+2024-01-04,Bufanda de lana,5
+2024-01-04,Café en grano 1 kg,10
+2024-01-04,Cuaderno A5,5
+2024-01-04,Helado artesanal,5
+2024-01-04,Pan de masa madre,44
+2024-01-05,Bufanda de lana,8
+2024-01-05,Café en grano 1 kg,16
+2024-01-05,Cuaderno A5,5
+2024-01-05,Helado artesanal,8
+2024-01-05,Pan de masa madre,24
+2024-01-06,Bufanda de lana,6
+2024-01-06,Café en grano 1 kg,26
+2024-01-06,Cuaderno A5,5
+2024-01-06,Helado artesanal,9
+2024-01-06,Pan de masa madre,45
+2024-01-07,Bufanda de lana,6
+2024-01-07,Café en grano 1 kg,21
+2024-01-07,Cuaderno A5,6
+2024-01-07,Funda de móvil,1
+2024-01-07,Helado artesanal,3
+2024-01-07,Pan de masa madre,48
+2024-01-08,Bufanda de lana,3
+2024-01-08,Café en grano 1 kg,17
+2024-01-08,Cuaderno A5,7
+2024-01-08,Helado artesanal,5
+2024-01-08,Pan de masa madre,36
+2024-01-09,Bufanda de lana,6
+2024-01-09,Café en grano 1 kg,13
+2024-01-09,Cuaderno A5,5
+2024-01-09,Funda de móvil,1
+2024-01-09,Helado artesanal,5
+2024-01-09,Pan de masa madre,38
+2024-01-10,Bufanda de lana,3
+2024-01-10,Café en grano 1 kg,20
+2024-01-10,Cuaderno A5,4
+2024-01-10,Helado artesanal,4
+2024-01-10,Pan de masa madre,37
+2024-01-11,Bufanda de lana,5
+2024-01-11,Café en grano 1 kg,17
+2024-01-11,Cuaderno A5,3
+2024-01-11,Funda de móvil,1
+2024-01-11,Helado artesanal,8
+2024-01-11,Pan de masa madre,44
+2024-01-12,Bufanda de lana,3
+2024-01-12,Café en grano 1 kg,23
+2024-01-12,Cuaderno A5,5
+2024-01-12,Helado artesanal,4
+2024-01-12,Pan de masa madre,33
+2024-01-13,Bufanda de lana,4
+2024-01-13,Café en grano 1 kg,22
+2024-01-13,Cuaderno A5,2
+2024-01-13,Funda de móvil,1
+2024-01-13,Helado artesanal,4
+2024-01-13,Pan de masa madre,62
+2024-01-14,Bufanda de lana,8
+2024-01-14,Café en grano 1 kg,19
+2024-01-14,Cuaderno A5,2
+2024-01-14,Funda de móvil,1
+2024-01-14,Helado artesanal,3
+2024-01-14,Pan de masa madre,42
+2024-01-15,Bufanda de lana,13
+2024-01-15,Café en grano 1 kg,15
+2024-01-15,Cuaderno A5,3
+2024-01-15,Helado artesanal,4
+2024-01-15,Pan de masa madre,28
+2024-01-16,Bufanda de lana,2
+2024-01-16,Café en grano 1 kg,14
+2024-01-16,Cuaderno A5,4
+2024-01-16,Funda de móvil,1
+2024-01-16,Helado artesanal,3
+2024-01-16,Pan de masa madre,34
+2024-01-17,Bufanda de lana,4
+2024-01-17,Café en grano 1 kg,13
+2024-01-17,Cuaderno A5,6
+2024-01-17,Funda de móvil,1
+2024-01-17,Helado artesanal,6
+2024-01-17,Pan de masa madre,36
+2024-01-18,Bufanda de lana,2
+2024-01-18,Café en grano 1 kg,14
+2024-01-18,Cuaderno A5,10
+2024-01-18,Helado artesanal,4
+2024-01-18,Pan de masa madre,32
+2024-01-19,Bufanda de lana,6
+2024-01-19,Café en grano 1 kg,9
+2024-01-19,Cuaderno A5,4
+2024-01-19,Funda de móvil,1
+2024-01-19,Pan de masa madre,30
+2024-01-20,Bufanda de lana,7
+2024-01-20,Café en grano 1 kg,21
+2024-01-20,Cuaderno A5,4
+2024-01-20,Helado artesanal,1
+2024-01-20,Pan de masa madre,48
+2024-01-21,Bufanda de lana,2
+2024-01-21,Café en grano 1 kg,14
+2024-01-21,Cuaderno A5,4
+2024-01-21,Helado artesanal,9
+2024-01-21,Pan de masa madre,46
+2024-01-22,Bufanda de lana,5
+2024-01-22,Café en grano 1 kg,20
+2024-01-22,Cuaderno A5,6
+2024-01-22,Funda de móvil,2
+2024-01-22,Helado artesanal,6
+2024-01-22,Pan de masa madre,34
+2024-01-23,Bufanda de lana,5
+2024-01-23,Café en grano 1 kg,17
+2024-01-23,Cuaderno A5,5
+2024-01-23,Pan de masa madre,32
+2024-01-24,Bufanda de lana,4
+2024-01-24,Café en grano 1 kg,12
+2024-01-24,Cuaderno A5,7
+2024-01-24,Helado artesanal,3
+2024-01-24,Pan de masa madre,32
+2024-01-25,Bufanda de lana,5
+2024-01-25,Café en grano 1 kg,12
+2024-01-25,Cuaderno A5,1
+2024-01-25,Helado artesanal,4
+2024-01-25,Pan de masa madre,36
+2024-01-26,Bufanda de lana,7
+2024-01-26,Café en grano 1 kg,21
+2024-01-26,Cuaderno A5,2
+2024-01-26,Pan de masa madre,38
+2024-01-27,Bufanda de lana,7
+2024-01-27,Café en grano 1 kg,19
+2024-01-27,Cuaderno A5,2
+2024-01-27,Funda de móvil,1
+2024-01-27,Helado artesanal,5
+2024-01-27,Pan de masa madre,45
+2024-01-28,Bufanda de lana,5
+2024-01-28,Café en grano 1 kg,28
+2024-01-28,Cuaderno A5,1
+2024-01-28,Helado artesanal,5
+2024-01-28,Pan de masa madre,49
+2024-01-29,Bufanda de lana,4
+2024-01-29,Café en grano 1 kg,12
+2024-01-29,Cuaderno A5,4
+2024-01-29,Helado artesanal,2
+2024-01-29,Pan de masa madre,29
+2024-01-30,Bufanda de lana,4
+2024-01-30,Café en grano 1 kg,14
+2024-01-30,Cuaderno A5,5
+2024-01-30,Helado artesanal,2
+2024-01-30,Pan de masa madre,44
+2024-01-31,Bufanda de lana,10
+2024-01-31,Café en grano 1 kg,20
+2024-01-31,Cuaderno A5,3
+2024-01-31,Helado artesanal,5
+2024-01-31,Pan de masa madre,33
+2024-02-01,Bufanda de lana,5
+2024-02-01,Café en grano 1 kg,14
+2024-02-01,Cuaderno A5,4
+2024-02-01,Helado artesanal,5
+2024-02-01,Pan de masa madre,31
+2024-02-02,Bufanda de lana,3
+2024-02-02,Café en grano 1 kg,20
+2024-02-02,Cuaderno A5,9
+2024-02-02,Helado artesanal,3
+2024-02-02,Pan de masa madre,29
+2024-02-03,Bufanda de lana,11
+2024-02-03,Café en grano 1 kg,19
+2024-02-03,Cuaderno A5,6
+2024-02-03,Helado artesanal,4
+2024-02-03,Pan de masa madre,48
+2024-02-04,Bufanda de lana,4
+2024-02-04,Café en grano 1 kg,20
+2024-02-04,Cuaderno A5,2
+2024-02-04,Helado artesanal,3
+2024-02-04,Pan de masa madre,51
+2024-02-05,Bufanda de lana,2
+2024-02-05,Café en grano 1 kg,12
+2024-02-05,Cuaderno A5,4
+2024-02-05,Helado artesanal,1
+2024-02-05,Pan de masa madre,36
+2024-02-06,Bufanda de lana,8
+2024-02-06,Café en grano 1 kg,18
+2024-02-06,Cuaderno A5,5
+2024-02-06,Funda de móvil,1
+2024-02-06,Helado artesanal,7
+2024-02-06,Pan de masa madre,36
+2024-02-07,Bufanda de lana,2
+2024-02-07,Café en grano 1 kg,15
+2024-02-07,Cuaderno A5,3
+2024-02-07,Helado artesanal,4
+2024-02-07,Pan de masa madre,47
+2024-02-08,Bufanda de lana,3
+2024-02-08,Café en grano 1 kg,12
+2024-02-08,Cuaderno A5,3
+2024-02-08,Funda de móvil,1
+2024-02-08,Helado artesanal,6
+2024-02-08,Pan de masa madre,37
+2024-02-09,Bufanda de lana,7
+2024-02-09,Café en grano 1 kg,12
+2024-02-09,Cuaderno A5,1
+2024-02-09,Helado artesanal,5
+2024-02-09,Pan de masa madre,28
+2024-02-10,Bufanda de lana,3
+2024-02-10,Café en grano 1 kg,20
+2024-02-10,Cuaderno A5,3
+2024-02-10,Funda de móvil,1
+2024-02-10,Helado artesanal,8
+2024-02-10,Pan de masa madre,43
+2024-02-11,Bufanda de lana,8
+2024-02-11,Café en grano 1 kg,15
+2024-02-11,Cuaderno A5,3
+2024-02-11,Funda de móvil,1
+2024-02-11,Helado artesanal,2
+2024-02-11,Pan de masa madre,42
+2024-02-12,Bufanda de lana,3
+2024-02-12,Café en grano 1 kg,20
+2024-02-12,Cuaderno A5,1
+2024-02-12,Helado artesanal,2
+2024-02-12,Pan de masa madre,35
+2024-02-13,Bufanda de lana,1
+2024-02-13,Café en grano 1 kg,10
+2024-02-13,Cuaderno A5,4
+2024-02-13,Helado artesanal,3
+2024-02-13,Pan de masa madre,38
+2024-02-14,Bufanda de lana,1
+2024-02-14,Café en grano 1 kg,9
+2024-02-14,Cuaderno A5,4
+2024-02-14,Helado artesanal,7
+2024-02-14,Pan de masa madre,36
+2024-02-15,Bufanda de lana,7
+2024-02-15,Café en grano 1 kg,10
+2024-02-15,Cuaderno A5,6
+2024-02-15,Helado artesanal,4
+2024-02-15,Pan de masa madre,32
+2024-02-16,Bufanda de lana,6
+2024-02-16,Café en grano 1 kg,30
+2024-02-16,Cuaderno A5,1
+2024-02-16,Helado artesanal,8
+2024-02-16,Pan de masa madre,36
+2024-02-17,Bufanda de lana,2
+2024-02-17,Café en grano 1 kg,13
+2024-02-17,Cuaderno A5,2
+2024-02-17,Helado artesanal,5
+2024-02-17,Pan de masa madre,59
+2024-02-18,Bufanda de lana,3
+2024-02-18,Café en grano 1 kg,21
+2024-02-18,Helado artesanal,6
+2024-02-18,Pan de masa madre,45
+2024-02-19,Bufanda de lana,7
+2024-02-19,Café en grano 1 kg,19
+2024-02-19,Cuaderno A5,3
+2024-02-19,Helado artesanal,14
+2024-02-19,Pan de masa madre,35
+2024-02-20,Café en grano 1 kg,14
+2024-02-20,Cuaderno A5,2
+2024-02-20,Helado artesanal,8
+2024-02-20,Pan de masa madre,30
+2024-02-21,Bufanda de lana,5
+2024-02-21,Café en grano 1 kg,15
+2024-02-21,Cuaderno A5,2
+2024-02-21,Helado artesanal,3
+2024-02-21,Pan de masa madre,24
+2024-02-22,Bufanda de lana,5
+2024-02-22,Café en grano 1 kg,9
+2024-02-22,Cuaderno A5,2
+2024-02-22,Helado artesanal,3
+2024-02-22,Pan de masa madre,36
+2024-02-23,Bufanda de lana,3
+2024-02-23,Café en grano 1 kg,14
+2024-02-23,Cuaderno A5,5
+2024-02-23,Funda de móvil,1
+2024-02-23,Helado artesanal,6
+2024-02-23,Pan de masa madre,52
+2024-02-24,Bufanda de lana,7
+2024-02-24,Café en grano 1 kg,16
+2024-02-24,Helado artesanal,5
+2024-02-24,Pan de masa madre,56
+2024-02-25,Bufanda de lana,2
+2024-02-25,Café en grano 1 kg,17
+2024-02-25,Cuaderno A5,2
+2024-02-25,Funda de móvil,2
+2024-02-25,Helado artesanal,12
+2024-02-25,Pan de masa madre,36
+2024-02-26,Bufanda de lana,6
+2024-02-26,Café en grano 1 kg,15
+2024-02-26,Cuaderno A5,3
+2024-02-26,Helado artesanal,3
+2024-02-26,Pan de masa madre,33
+2024-02-27,Bufanda de lana,6
+2024-02-27,Café en grano 1 kg,9
+2024-02-27,Cuaderno A5,3
+2024-02-27,Funda de móvil,1
+2024-02-27,Helado artesanal,4
+2024-02-27,Pan de masa madre,43
+2024-02-28,Bufanda de lana,4
+2024-02-28,Café en grano 1 kg,15
+2024-02-28,Cuaderno A5,3
+2024-02-28,Helado artesanal,8
+2024-02-28,Pan de masa madre,29
+2024-02-29,Bufanda de lana,8
+2024-02-29,Café en grano 1 kg,6
+2024-02-29,Cuaderno A5,1
+2024-02-29,Helado artesanal,5
+2024-02-29,Pan de masa madre,25
+2024-03-01,Bufanda de lana,3
+2024-03-01,Café en grano 1 kg,14
+2024-03-01,Cuaderno A5,1
+2024-03-01,Helado artesanal,4
+2024-03-01,Pan de masa madre,36
+2024-03-02,Bufanda de lana,8
+2024-03-02,Café en grano 1 kg,23
+2024-03-02,Cuaderno A5,6
+2024-03-02,Funda de móvil,1
+2024-03-02,Helado artesanal,11
+2024-03-02,Pan de masa madre,41
+2024-03-03,Bufanda de lana,6
+2024-03-03,Café en grano 1 kg,23
+2024-03-03,Helado artesanal,13
+2024-03-03,Pan de masa madre,45
+2024-03-04,Bufanda de lana,5
+2024-03-04,Café en grano 1 kg,19
+2024-03-04,Cuaderno A5,2
+2024-03-04,Helado artesanal,6
+2024-03-04,Pan de masa madre,33
+2024-03-05,Bufanda de lana,5
+2024-03-05,Café en grano 1 kg,13
+2024-03-05,Cuaderno A5,3
+2024-03-05,Helado artesanal,8
+2024-03-05,Pan de masa madre,40
+2024-03-06,Bufanda de lana,4
+2024-03-06,Café en grano 1 kg,12
+2024-03-06,Cuaderno A5,3
+2024-03-06,Funda de móvil,1
+2024-03-06,Helado artesanal,9
+2024-03-06,Pan de masa madre,31
+2024-03-07,Bufanda de lana,4
+2024-03-07,Café en grano 1 kg,15
+2024-03-07,Cuaderno A5,7
+2024-03-07,Helado artesanal,8
+2024-03-07,Pan de masa madre,33
+2024-03-08,Bufanda de lana,3
+2024-03-08,Café en grano 1 kg,14
+2024-03-08,Cuaderno A5,1
+2024-03-08,Funda de móvil,1
+2024-03-08,Helado artesanal,11
+2024-03-08,Pan de masa madre,35
+2024-03-09,Café en grano 1 kg,14
+2024-03-09,Cuaderno A5,5
+2024-03-09,Helado artesanal,11
+2024-03-09,Pan de masa madre,38
+2024-03-10,Bufanda de lana,2
+2024-03-10,Café en grano 1 kg,22
+2024-03-10,Helado artesanal,6
+2024-03-10,Pan de masa madre,41
+2024-03-11,Bufanda de lana,4
+2024-03-11,Café en grano 1 kg,8
+2024-03-11,Cuaderno A5,2
+2024-03-11,Helado artesanal,9
+2024-03-11,Pan de masa madre,27
+2024-03-12,Bufanda de lana,4
+2024-03-12,Café en grano 1 kg,10
+2024-03-12,Cuaderno A5,5
+2024-03-12,Helado artesanal,5
+2024-03-12,Pan de masa madre,33
+2024-03-13,Bufanda de lana,5
+2024-03-13,Café en grano 1 kg,14
+2024-03-13,Cuaderno A5,2
+2024-03-13,Funda de móvil,1
+2024-03-13,Helado artesanal,12
+2024-03-13,Pan de masa madre,33
+2024-03-14,Bufanda de lana,4
+2024-03-14,Café en grano 1 kg,20
+2024-03-14,Cuaderno A5,4
+2024-03-14,Helado artesanal,9
+2024-03-14,Pan de masa madre,32
+2024-03-15,Bufanda de lana,7
+2024-03-15,Café en grano 1 kg,11
+2024-03-15,Cuaderno A5,2
+2024-03-15,Funda de móvil,2
+2024-03-15,Helado artesanal,6
+2024-03-15,Pan de masa madre,32
+2024-03-16,Bufanda de lana,5
+2024-03-16,Café en grano 1 kg,15
+2024-03-16,Cuaderno A5,4
+2024-03-16,Helado artesanal,14
+2024-03-16,Pan de masa madre,40
+2024-03-17,Bufanda de lana,6
+2024-03-17,Café en grano 1 kg,19
+2024-03-17,Funda de móvil,1
+2024-03-17,Helado artesanal,10
+2024-03-17,Pan de masa madre,43
+2024-03-18,Bufanda de lana,3
+2024-03-18,Café en grano 1 kg,16
+2024-03-18,Helado artesanal,14
+2024-03-18,Pan de masa madre,22
+2024-03-19,Bufanda de lana,6
+2024-03-19,Café en grano 1 kg,11
+2024-03-19,Cuaderno A5,2
+2024-03-19,Helado artesanal,6
+2024-03-19,Pan de masa madre,26
+2024-03-20,Bufanda de lana,7
+2024-03-20,Café en grano 1 kg,15
+2024-03-20,Cuaderno A5,4
+2024-03-20,Helado artesanal,18
+2024-03-20,Pan de masa madre,27
+2024-03-21,Café en grano 1 kg,12
+2024-03-21,Cuaderno A5,3
+2024-03-21,Helado artesanal,9
+2024-03-21,Pan de masa madre,40
+2024-03-22,Bufanda de lana,4
+2024-03-22,Café en grano 1 kg,12
+2024-03-22,Cuaderno A5,4
+2024-03-22,Funda de móvil,1
+2024-03-22,Helado artesanal,4
+2024-03-22,Pan de masa madre,31
+2024-03-23,Bufanda de lana,7
+2024-03-23,Café en grano 1 kg,20
+2024-03-23,Funda de móvil,1
+2024-03-23,Helado artesanal,18
+2024-03-23,Pan de masa madre,57
+2024-03-24,Bufanda de lana,4
+2024-03-24,Café en grano 1 kg,24
+2024-03-24,Cuaderno A5,2
+2024-03-24,Helado artesanal,9
+2024-03-24,Pan de masa madre,31
+2024-03-25,Bufanda de lana,4
+2024-03-25,Café en grano 1 kg,14
+2024-03-25,Cuaderno A5,3
+2024-03-25,Helado artesanal,8
+2024-03-25,Pan de masa madre,24
+2024-03-26,Bufanda de lana,5
+2024-03-26,Café en grano 1 kg,22
+2024-03-26,Cuaderno A5,1
+2024-03-26,Helado artesanal,17
+2024-03-26,Pan de masa madre,29
+2024-03-27,Bufanda de lana,2
+2024-03-27,Café en grano 1 kg,11
+2024-03-27,Cuaderno A5,4
+2024-03-27,Helado artesanal,15
+2024-03-27,Pan de masa madre,35
+2024-03-28,Bufanda de lana,2
+2024-03-28,Café en grano 1 kg,10
+2024-03-28,Cuaderno A5,4
+2024-03-28,Funda de móvil,1
+2024-03-28,Helado artesanal,9
+2024-03-28,Pan de masa madre,29
+2024-03-29,Bufanda de lana,1
+2024-03-29,Café en grano 1 kg,11
+2024-03-29,Helado artesanal,12
+2024-03-29,Pan de masa madre,32
+2024-03-30,Bufanda de lana,3
+2024-03-30,Café en grano 1 kg,14
+2024-03-30,Helado artesanal,17
+2024-03-30,Pan de masa madre,42
+2024-03-31,Bufanda de lana,4
+2024-03-31,Café en grano 1 kg,13
+2024-03-31,Cuaderno A5,1
+2024-03-31,Helado artesanal,12
+2024-03-31,Pan de masa madre,58
+2024-04-01,Bufanda de lana,3
+2024-04-01,Café en grano 1 kg,19
+2024-04-01,Helado artesanal,15
+2024-04-01,Pan de masa madre,32
+2024-04-02,Bufanda de lana,1
+2024-04-02,Café en grano 1 kg,13
+2024-04-02,Cuaderno A5,5
+2024-04-02,Helado artesanal,14
+2024-04-02,Pan de masa madre,22
+2024-04-03,Bufanda de lana,4
+2024-04-03,Café en grano 1 kg,12
+2024-04-03,Cuaderno A5,5
+2024-04-03,Helado artesanal,17
+2024-04-03,Pan de masa madre,20
+2024-04-04,Bufanda de lana,6
+2024-04-04,Café en grano 1 kg,15
+2024-04-04,Cuaderno A5,2
+2024-04-04,Funda de móvil,2
+2024-04-04,Helado artesanal,18
+2024-04-04,Pan de masa madre,32
+2024-04-05,Bufanda de lana,5
+2024-04-05,Café en grano 1 kg,8
+2024-04-05,Cuaderno A5,2
+2024-04-05,Helado artesanal,8
+2024-04-05,Pan de masa madre,22
+2024-04-06,Bufanda de lana,3
+2024-04-06,Café en grano 1 kg,12
+2024-04-06,Cuaderno A5,2
+2024-04-06,Helado artesanal,14
+2024-04-06,Pan de masa madre,44
+2024-04-07,Bufanda de lana,4
+2024-04-07,Café en grano 1 kg,12
+2024-04-07,Cuaderno A5,2
+2024-04-07,Helado artesanal,18
+2024-04-07,Pan de masa madre,40
+2024-04-08,Bufanda de lana,4
+2024-04-08,Café en grano 1 kg,15
+2024-04-08,Cuaderno A5,3
+2024-04-08,Funda de móvil,1
+2024-04-08,Helado artesanal,10
+2024-04-08,Pan de masa madre,27
+2024-04-09,Bufanda de lana,3
+2024-04-09,Café en grano 1 kg,14
+2024-04-09,Cuaderno A5,4
+2024-04-09,Funda de móvil,1
+2024-04-09,Helado artesanal,21
+2024-04-09,Pan de masa madre,22
+2024-04-10,Bufanda de lana,2
+2024-04-10,Café en grano 1 kg,25
+2024-04-10,Cuaderno A5,4
+2024-04-10,Funda de móvil,2
+2024-04-10,Helado artesanal,16
+2024-04-10,Pan de masa madre,27
+2024-04-11,Bufanda de lana,2
+2024-04-11,Café en grano 1 kg,13
+2024-04-11,Cuaderno A5,3
+2024-04-11,Funda de móvil,1
+2024-04-11,Helado artesanal,10
+2024-04-11,Pan de masa madre,23
+2024-04-12,Bufanda de lana,2
+2024-04-12,Café en grano 1 kg,9
+2024-04-12,Helado artesanal,14
+2024-04-12,Pan de masa madre,29
+2024-04-13,Bufanda de lana,2
+2024-04-13,Café en grano 1 kg,13
+2024-04-13,Cuaderno A5,2
+2024-04-13,Helado artesanal,18
+2024-04-13,Pan de masa madre,47
+2024-04-14,Café en grano 1 kg,23
+2024-04-14,Funda de móvil,2
+2024-04-14,Helado artesanal,25
+2024-04-14,Pan de masa madre,50
+2024-04-15,Café en grano 1 kg,12
+2024-04-15,Cuaderno A5,3
+2024-04-15,Funda de móvil,1
+2024-04-15,Helado artesanal,11
+2024-04-15,Pan de masa madre,32
+2024-04-16,Bufanda de lana,3
+2024-04-16,Café en grano 1 kg,13
+2024-04-16,Cuaderno A5,4
+2024-04-16,Helado artesanal,18
+2024-04-16,Pan de masa madre,31
+2024-04-17,Bufanda de lana,4
+2024-04-17,Café en grano 1 kg,13
+2024-04-17,Cuaderno A5,5
+2024-04-17,Helado artesanal,15
+2024-04-17,Pan de masa madre,25
+2024-04-18,Bufanda de lana,3
+2024-04-18,Café en grano 1 kg,13
+2024-04-18,Cuaderno A5,2
+2024-04-18,Helado artesanal,16
+2024-04-18,Pan de masa madre,27
+2024-04-19,Bufanda de lana,3
+2024-04-19,Café en grano 1 kg,13
+2024-04-19,Cuaderno A5,5
+2024-04-19,Helado artesanal,14
+2024-04-19,Pan de masa madre,42
+2024-04-20,Bufanda de lana,4
+2024-04-20,Café en grano 1 kg,18
+2024-04-20,Cuaderno A5,4
+2024-04-20,Funda de móvil,1
+2024-04-20,Helado artesanal,23
+2024-04-20,Pan de masa madre,44
+2024-04-21,Bufanda de lana,3
+2024-04-21,Café en grano 1 kg,15
+2024-04-21,Cuaderno A5,2
+2024-04-21,Helado artesanal,27
+2024-04-21,Pan de masa madre,37
+2024-04-22,Bufanda de lana,4
+2024-04-22,Café en grano 1 kg,8
+2024-04-22,Cuaderno A5,2
+2024-04-22,Helado artesanal,19
+2024-04-22,Pan de masa madre,22
+2024-04-23,Bufanda de lana,3
+2024-04-23,Café en grano 1 kg,16
+2024-04-23,Cuaderno A5,4
+2024-04-23,Helado artesanal,19
+2024-04-23,Pan de masa madre,26
+2024-04-24,Bufanda de lana,5
+2024-04-24,Café en grano 1 kg,10
+2024-04-24,Cuaderno A5,4
+2024-04-24,Funda de móvil,1
+2024-04-24,Helado artesanal,19
+2024-04-24,Pan de masa madre,28
+2024-04-25,Café en grano 1 kg,17
+2024-04-25,Cuaderno A5,6
+2024-04-25,Helado artesanal,23
+2024-04-25,Pan de masa madre,34
+2024-04-26,Bufanda de lana,2
+2024-04-26,Café en grano 1 kg,15
+2024-04-26,Cuaderno A5,4
+2024-04-26,Funda de móvil,1
+2024-04-26,Helado artesanal,18
+2024-04-26,Pan de masa madre,31
+2024-04-27,Bufanda de lana,3
+2024-04-27,Café en grano 1 kg,16
+2024-04-27,Cuaderno A5,3
+2024-04-27,Funda de móvil,1
+2024-04-27,Helado artesanal,25
+2024-04-27,Pan de masa madre,42
+2024-04-28,Bufanda de lana,1
+2024-04-28,Café en grano 1 kg,18
+2024-04-28,Cuaderno A5,3
+2024-04-28,Helado artesanal,21
+2024-04-28,Pan de masa madre,45
+2024-04-29,Bufanda de lana,1
+2024-04-29,Café en grano 1 kg,14
+2024-04-29,Cuaderno A5,3
+2024-04-29,Funda de móvil,1
+2024-04-29,Helado artesanal,26
+2024-04-29,Pan de masa madre,24
+2024-04-30,Café en grano 1 kg,14
+2024-04-30,Cuaderno A5,4
+2024-04-30,Helado artesanal,27
+2024-04-30,Pan de masa madre,28
+2024-05-01,Bufanda de lana,1
+2024-05-01,Café en grano 1 kg,12
+2024-05-01,Cuaderno A5,2
+2024-05-01,Helado artesanal,23
+2024-05-01,Pan de masa madre,29
+2024-05-02,Bufanda de lana,1
+2024-05-02,Café en grano 1 kg,12
+2024-05-02,Cuaderno A5,3
+2024-05-02,Helado artesanal,24
+2024-05-02,Pan de masa madre,30
+2024-05-03,Bufanda de lana,4
+2024-05-03,Café en grano 1 kg,11
+2024-05-03,Cuaderno A5,9
+2024-05-03,Helado artesanal,23
+2024-05-03,Pan de masa madre,31
+2024-05-04,Bufanda de lana,4
+2024-05-04,Café en grano 1 kg,21
+2024-05-04,Cuaderno A5,2
+2024-05-04,Funda de móvil,1
+2024-05-04,Helado artesanal,26
+2024-05-04,Pan de masa madre,37
+2024-05-05,Bufanda de lana,3
+2024-05-05,Café en grano 1 kg,13
+2024-05-05,Cuaderno A5,2
+2024-05-05,Helado artesanal,30
+2024-05-05,Pan de masa madre,39
+2024-05-06,Café en grano 1 kg,19
+2024-05-06,Cuaderno A5,5
+2024-05-06,Funda de móvil,1
+2024-05-06,Helado artesanal,20
+2024-05-06,Pan de masa madre,43
+2024-05-07,Café en grano 1 kg,8
+2024-05-07,Cuaderno A5,3
+2024-05-07,Helado artesanal,26
+2024-05-07,Pan de masa madre,32
+2024-05-08,Bufanda de lana,1
+2024-05-08,Café en grano 1 kg,13
+2024-05-08,Cuaderno A5,4
+2024-05-08,Funda de móvil,2
+2024-05-08,Helado artesanal,22
+2024-05-08,Pan de masa madre,29
+2024-05-09,Bufanda de lana,1
+2024-05-09,Café en grano 1 kg,13
+2024-05-09,Cuaderno A5,4
+2024-05-09,Helado artesanal,22
+2024-05-09,Pan de masa madre,25
+2024-05-10,Bufanda de lana,1
+2024-05-10,Café en grano 1 kg,13
+2024-05-10,Cuaderno A5,4
+2024-05-10,Helado artesanal,24
+2024-05-10,Pan de masa madre,23
+2024-05-11,Bufanda de lana,2
+2024-05-11,Café en grano 1 kg,14
+2024-05-11,Cuaderno A5,4
+2024-05-11,Funda de móvil,2
+2024-05-11,Helado artesanal,28
+2024-05-11,Pan de masa madre,37
+2024-05-12,Bufanda de lana,5
+2024-05-12,Café en grano 1 kg,22
+2024-05-12,Cuaderno A5,2
+2024-05-12,Funda de móvil,1
+2024-05-12,Helado artesanal,31
+2024-05-12,Pan de masa madre,52
+2024-05-13,Bufanda de lana,2
+2024-05-13,Café en grano 1 kg,14
+2024-05-13,Cuaderno A5,4
+2024-05-13,Helado artesanal,20
+2024-05-13,Pan de masa madre,29
+2024-05-14,Café en grano 1 kg,16
+2024-05-14,Cuaderno A5,8
+2024-05-14,Helado artesanal,17
+2024-05-14,Pan de masa madre,30
+2024-05-15,Café en grano 1 kg,15
+2024-05-15,Cuaderno A5,4
+2024-05-15,Helado artesanal,18
+2024-05-15,Pan de masa madre,33
+2024-05-15,Vela aromática,10
+2024-05-16,Bufanda de lana,2
+2024-05-16,Café en grano 1 kg,15
+2024-05-16,Cuaderno A5,4
+2024-05-16,Funda de móvil,1
+2024-05-16,Helado artesanal,27
+2024-05-16,Pan de masa madre,24
+2024-05-16,Vela aromática,2
+2024-05-17,Bufanda de lana,1
+2024-05-17,Café en grano 1 kg,13
+2024-05-17,Cuaderno A5,8
+2024-05-17,Funda de móvil,1
+2024-05-17,Helado artesanal,18
+2024-05-17,Pan de masa madre,29
+2024-05-17,Vela aromática,5
+2024-05-18,Bufanda de lana,1
+2024-05-18,Café en grano 1 kg,13
+2024-05-18,Cuaderno A5,3
+2024-05-18,Funda de móvil,1
+2024-05-18,Helado artesanal,21
+2024-05-18,Pan de masa madre,46
+2024-05-18,Vela aromática,6
+2024-05-19,Café en grano 1 kg,12
+2024-05-19,Cuaderno A5,2
+2024-05-19,Funda de móvil,1
+2024-05-19,Helado artesanal,17
+2024-05-19,Pan de masa madre,42
+2024-05-19,Vela aromática,9
+2024-05-20,Bufanda de lana,2
+2024-05-20,Café en grano 1 kg,8
+2024-05-20,Cuaderno A5,4
+2024-05-20,Funda de móvil,1
+2024-05-20,Helado artesanal,36
+2024-05-20,Pan de masa madre,31
+2024-05-20,Vela aromática,6
+2024-05-21,Bufanda de lana,2
+2024-05-21,Café en grano 1 kg,12
+2024-05-21,Cuaderno A5,8
+2024-05-21,Helado artesanal,29
+2024-05-21,Pan de masa madre,21
+2024-05-21,Vela aromática,3
+2024-05-22,Bufanda de lana,2
+2024-05-22,Café en grano 1 kg,25
+2024-05-22,Cuaderno A5,5
+2024-05-22,Funda de móvil,1
+2024-05-22,Helado artesanal,22
+2024-05-22,Pan de masa madre,22
+2024-05-22,Vela aromática,7
+2024-05-23,Bufanda de lana,1
+2024-05-23,Café en grano 1 kg,15
+2024-05-23,Cuaderno A5,3
+2024-05-23,Funda de móvil,1
+2024-05-23,Helado artesanal,21
+2024-05-23,Pan de masa madre,37
+2024-05-23,Vela aromática,7
+2024-05-24,Bufanda de lana,1
+2024-05-24,Café en grano 1 kg,12
+2024-05-24,Cuaderno A5,3
+2024-05-24,Helado artesanal,14
+2024-05-24,Pan de masa madre,26
+2024-05-24,Vela aromática,6
+2024-05-25,Bufanda de lana,2
+2024-05-25,Café en grano 1 kg,26
+2024-05-25,Cuaderno A5,3
+2024-05-25,Funda de móvil,2
+2024-05-25,Helado artesanal,35
+2024-05-25,Pan de masa madre,43
+2024-05-25,Vela aromática,7
+2024-05-26,Café en grano 1 kg,19
+2024-05-26,Cuaderno A5,4
+2024-05-26,Helado artesanal,27
+2024-05-26,Pan de masa madre,37
+2024-05-26,Vela aromática,9
+2024-05-27,Café en grano 1 kg,19
+2024-05-27,Cuaderno A5,3
+2024-05-27,Funda de móvil,1
+2024-05-27,Helado artesanal,34
+2024-05-27,Pan de masa madre,32
+2024-05-27,Vela aromática,2
+2024-05-28,Café en grano 1 kg,20
+2024-05-28,Cuaderno A5,7
+2024-05-28,Funda de móvil,1
+2024-05-28,Helado artesanal,22
+2024-05-28,Pan de masa madre,40
+2024-05-28,Vela aromática,7
+2024-05-29,Café en grano 1 kg,8
+2024-05-29,Cuaderno A5,2
+2024-05-29,Helado artesanal,22
+2024-05-29,Pan de masa madre,34
+2024-05-29,Vela aromática,6
+2024-05-30,Bufanda de lana,1
+2024-05-30,Café en grano 1 kg,17
+2024-05-30,Cuaderno A5,4
+2024-05-30,Funda de móvil,1
+2024-05-30,Helado artesanal,25
+2024-05-30,Pan de masa madre,40
+2024-05-30,Vela aromática,9
+2024-05-31,Café en grano 1 kg,13
+2024-05-31,Cuaderno A5,10
+2024-05-31,Helado artesanal,33
+2024-05-31,Pan de masa madre,28
+2024-05-31,Vela aromática,3
+2024-06-01,Bufanda de lana,1
+2024-06-01,Café en grano 1 kg,17
+2024-06-01,Cuaderno A5,3
+2024-06-01,Helado artesanal,36
+2024-06-01,Pan de masa madre,47
+2024-06-01,Vela aromática,9
+2024-06-02,Café en grano 1 kg,16
+2024-06-02,Cuaderno A5,5
+2024-06-02,Funda de móvil,1
+2024-06-02,Helado artesanal,47
+2024-06-02,Pan de masa madre,47
+2024-06-02,Vela aromática,2
+2024-06-03,Bufanda de lana,1
+2024-06-03,Café en grano 1 kg,23
+2024-06-03,Cuaderno A5,7
+2024-06-03,Funda de móvil,1
+2024-06-03,Helado artesanal,24
+2024-06-03,Pan de masa madre,32
+2024-06-03,Vela aromática,3
+2024-06-04,Bufanda de lana,1
+2024-06-04,Café en grano 1 kg,9
+2024-06-04,Cuaderno A5,5
+2024-06-04,Helado artesanal,10
+2024-06-04,Pan de masa madre,28
+2024-06-04,Vela aromática,5
+2024-06-05,Bufanda de lana,2
+2024-06-05,Café en grano 1 kg,23
+2024-06-05,Cuaderno A5,7
+2024-06-05,Helado artesanal,24
+2024-06-05,Pan de masa madre,43
+2024-06-05,Vela aromática,6
+2024-06-06,Bufanda de lana,1
+2024-06-06,Café en grano 1 kg,13
+2024-06-06,Cuaderno A5,1
+2024-06-06,Helado artesanal,33
+2024-06-06,Pan de masa madre,39
+2024-06-06,Vela aromática,10
+2024-06-07,Bufanda de lana,3
+2024-06-07,Café en grano 1 kg,15
+2024-06-07,Cuaderno A5,4
+2024-06-07,Helado artesanal,32
+2024-06-07,Pan de masa madre,31
+2024-06-07,Vela aromática,10
+2024-06-08,Bufanda de lana,1
+2024-06-08,Café en grano 1 kg,16
+2024-06-08,Cuaderno A5,3
+2024-06-08,Helado artesanal,33
+2024-06-08,Pan de masa madre,46
+2024-06-08,Vela aromática,6
+2024-06-09,Bufanda de lana,1
+2024-06-09,Café en grano 1 kg,14
+2024-06-09,Cuaderno A5,7
+2024-06-09,Helado artesanal,34
+2024-06-09,Pan de masa madre,40
+2024-06-09,Vela aromática,12
+2024-06-10,Bufanda de lana,1
+2024-06-10,Café en grano 1 kg,7
+2024-06-10,Cuaderno A5,3
+2024-06-10,Funda de móvil,1
+2024-06-10,Helado artesanal,33
+2024-06-10,Pan de masa madre,31
+2024-06-10,Vela aromática,7
+2024-06-11,Café en grano 1 kg,16
+2024-06-11,Cuaderno A5,4
+2024-06-11,Helado artesanal,35
+2024-06-11,Pan de masa madre,31
+2024-06-11,Vela aromática,7
+2024-06-12,Café en grano 1 kg,20
+2024-06-12,Cuaderno A5,13
+2024-06-12,Helado artesanal,31
+2024-06-12,Pan de masa madre,34
+2024-06-12,Vela aromática,7
+2024-06-13,Café en grano 1 kg,10
+2024-06-13,Cuaderno A5,8
+2024-06-13,Helado artesanal,29
+2024-06-13,Pan de masa madre,29
+2024-06-13,Vela aromática,5
+2024-06-14,Bufanda de lana,1
+2024-06-14,Café en grano 1 kg,10
+2024-06-14,Cuaderno A5,5
+2024-06-14,Funda de móvil,1
+2024-06-14,Helado artesanal,18
+2024-06-14,Pan de masa madre,30
+2024-06-14,Vela aromática,8
+2024-06-15,Bufanda de lana,2
+2024-06-15,Café en grano 1 kg,11
+2024-06-15,Cuaderno A5,6
+2024-06-15,Funda de móvil,1
+2024-06-15,Helado artesanal,45
+2024-06-15,Pan de masa madre,40
+2024-06-15,Vela aromática,8
+2024-06-16,Café en grano 1 kg,12
+2024-06-16,Cuaderno A5,5
+2024-06-16,Helado artesanal,41
+2024-06-16,Pan de masa madre,36
+2024-06-16,Vela aromática,7
+2024-06-17,Café en grano 1 kg,19
+2024-06-17,Cuaderno A5,5
+2024-06-17,Funda de móvil,2
+2024-06-17,Helado artesanal,27
+2024-06-17,Pan de masa madre,30
+2024-06-17,Vela aromática,11
+2024-06-18,Bufanda de lana,1
+2024-06-18,Café en grano 1 kg,14
+2024-06-18,Cuaderno A5,7
+2024-06-18,Helado artesanal,34
+2024-06-18,Pan de masa madre,32
+2024-06-18,Vela aromática,9
+2024-06-19,Bufanda de lana,2
+2024-06-19,Café en grano 1 kg,16
+2024-06-19,Cuaderno A5,3
+2024-06-19,Funda de móvil,2
+2024-06-19,Helado artesanal,31
+2024-06-19,Pan de masa madre,39
+2024-06-19,Vela aromática,4
+2024-06-20,Bufanda de lana,1
+2024-06-20,Café en grano 1 kg,11
+2024-06-20,Cuaderno A5,6
+2024-06-20,Helado artesanal,35
+2024-06-20,Pan de masa madre,30
+2024-06-20,Vela aromática,6
+2024-06-21,Café en grano 1 kg,10
+2024-06-21,Cuaderno A5,5
+2024-06-21,Funda de móvil,1
+2024-06-21,Helado artesanal,33
+2024-06-21,Pan de masa madre,31
+2024-06-21,Vela aromática,7
+2024-06-22,Café en grano 1 kg,25
+2024-06-22,Cuaderno A5,5
+2024-06-22,Helado artesanal,30
+2024-06-22,Pan de masa madre,49
+2024-06-22,Vela aromática,2
+2024-06-23,Café en grano 1 kg,20
+2024-06-23,Cuaderno A5,1
+2024-06-23,Helado artesanal,47
+2024-06-23,Pan de masa madre,44
+2024-06-23,Vela aromática,8
+2024-06-24,Café en grano 1 kg,9
+2024-06-24,Cuaderno A5,7
+2024-06-24,Helado artesanal,35
+2024-06-24,Pan de masa madre,31
+2024-06-24,Vela aromática,2
+2024-06-25,Café en grano 1 kg,14
+2024-06-25,Cuaderno A5,8
+2024-06-25,Funda de móvil,1
+2024-06-25,Helado artesanal,32
+2024-06-25,Pan de masa madre,36
+2024-06-25,Vela aromática,6
+2024-06-26,Café en grano 1 kg,12
+2024-06-26,Cuaderno A5,11
+2024-06-26,Helado artesanal,30
+2024-06-26,Pan de masa madre,33
+2024-06-26,Vela aromática,4
+2024-06-27,Café en grano 1 kg,15
+2024-06-27,Cuaderno A5,4
+2024-06-27,Helado artesanal,41
+2024-06-27,Pan de masa madre,34
+2024-06-27,Vela aromática,15
+2024-06-28,Café en grano 1 kg,20
+2024-06-28,Cuaderno A5,9
+2024-06-28,Funda de móvil,1
+2024-06-28,Helado artesanal,27
+2024-06-28,Pan de masa madre,34
+2024-06-28,Vela aromática,6
+2024-06-29,Café en grano 1 kg,10
+2024-06-29,Cuaderno A5,6
+2024-06-29,Helado artesanal,49
+2024-06-29,Pan de masa madre,52
+2024-06-29,Vela aromática,6
+2024-06-30,Bufanda de lana,1
+2024-06-30,Café en grano 1 kg,16
+2024-06-30,Cuaderno A5,6
+2024-06-30,Helado artesanal,42
+2024-06-30,Pan de masa madre,32
+2024-06-30,Vela aromática,10
+2024-07-01,Café en grano 1 kg,13
+2024-07-01,Cuaderno A5,7
+2024-07-01,Helado artesanal,25
+2024-07-01,Pan de masa madre,20
+2024-07-01,Vela aromática,3
+2024-07-02,Bufanda de lana,2
+2024-07-02,Café en grano 1 kg,12
+2024-07-02,Cuaderno A5,14
+2024-07-02,Funda de móvil,1
+2024-07-02,Helado artesanal,28
+2024-07-02,Pan de masa madre,21
+2024-07-02,Vela aromática,12
+2024-07-03,Bufanda de lana,1
+2024-07-03,Café en grano 1 kg,14
+2024-07-03,Cuaderno A5,8
+2024-07-03,Funda de móvil,1
+2024-07-03,Helado artesanal,33
+2024-07-03,Pan de masa madre,31
+2024-07-03,Vela aromática,21
+2024-07-04,Bufanda de lana,1
+2024-07-04,Café en grano 1 kg,14
+2024-07-04,Cuaderno A5,7
+2024-07-04,Helado artesanal,25
+2024-07-04,Pan de masa madre,27
+2024-07-04,Vela aromática,10
+2024-07-05,Café en grano 1 kg,18
+2024-07-05,Cuaderno A5,5
+2024-07-05,Funda de móvil,1
+2024-07-05,Helado artesanal,16
+2024-07-05,Pan de masa madre,23
+2024-07-05,Vela aromática,5
+2024-07-06,Café en grano 1 kg,18
+2024-07-06,Cuaderno A5,2
+2024-07-06,Funda de móvil,1
+2024-07-06,Helado artesanal,44
+2024-07-06,Pan de masa madre,34
+2024-07-06,Vela aromática,12
+2024-07-07,Bufanda de lana,1
+2024-07-07,Café en grano 1 kg,15
+2024-07-07,Cuaderno A5,7
+2024-07-07,Funda de móvil,1
+2024-07-07,Helado artesanal,44
+2024-07-07,Pan de masa madre,35
+2024-07-07,Vela aromática,7
+2024-07-08,Café en grano 1 kg,17
+2024-07-08,Cuaderno A5,10
+2024-07-08,Helado artesanal,31
+2024-07-08,Pan de masa madre,22
+2024-07-08,Vela aromática,8
+2024-07-09,Café en grano 1 kg,11
+2024-07-09,Cuaderno A5,9
+2024-07-09,Helado artesanal,41
+2024-07-09,Pan de masa madre,35
+2024-07-09,Vela aromática,8
+2024-07-10,Café en grano 1 kg,11
+2024-07-10,Cuaderno A5,8
+2024-07-10,Helado artesanal,29
+2024-07-10,Pan de masa madre,25
+2024-07-10,Vela aromática,7
+2024-07-11,Café en grano 1 kg,16
+2024-07-11,Cuaderno A5,6
+2024-07-11,Helado artesanal,28
+2024-07-11,Pan de masa madre,30
+2024-07-11,Vela aromática,12
+2024-07-12,Café en grano 1 kg,15
+2024-07-12,Cuaderno A5,6
+2024-07-12,Helado artesanal,29
+2024-07-12,Pan de masa madre,34
+2024-07-12,Vela aromática,4
+2024-07-13,Café en grano 1 kg,12
+2024-07-13,Cuaderno A5,8
+2024-07-13,Helado artesanal,40
+2024-07-13,Pan de masa madre,40
+2024-07-13,Vela aromática,9
+2024-07-14,Bufanda de lana,1
+2024-07-14,Café en grano 1 kg,11
+2024-07-14,Cuaderno A5,6
+2024-07-14,Helado artesanal,43
+2024-07-14,Pan de masa madre,43
+2024-07-14,Vela aromática,12
+2024-07-15,Bufanda de lana,1
+2024-07-15,Café en grano 1 kg,14
+2024-07-15,Cuaderno A5,17
+2024-07-15,Funda de móvil,1
+2024-07-15,Helado artesanal,37
+2024-07-15,Pan de masa madre,34
+2024-07-15,Vela aromática,10
+2024-07-16,Café en grano 1 kg,18
+2024-07-16,Cuaderno A5,7
+2024-07-16,Helado artesanal,36
+2024-07-16,Pan de masa madre,25
+2024-07-16,Vela aromática,6
+2024-07-17,Café en grano 1 kg,8
+2024-07-17,Cuaderno A5,7
+2024-07-17,Funda de móvil,1
+2024-07-17,Helado artesanal,33
+2024-07-17,Pan de masa madre,28
+2024-07-17,Vela aromática,5
+2024-07-18,Café en grano 1 kg,8
+2024-07-18,Cuaderno A5,6
+2024-07-18,Helado artesanal,28
+2024-07-18,Pan de masa madre,26
+2024-07-18,Vela aromática,10
+2024-07-19,Café en grano 1 kg,10
+2024-07-19,Cuaderno A5,13
+2024-07-19,Helado artesanal,29
+2024-07-19,Pan de masa madre,32
+2024-07-19,Vela aromática,12
+2024-07-20,Café en grano 1 kg,19
+2024-07-20,Cuaderno A5,7
+2024-07-20,Helado artesanal,34
+2024-07-20,Pan de masa madre,43
+2024-07-20,Vela aromática,8
+2024-07-21,Bufanda de lana,1
+2024-07-21,Café en grano 1 kg,14
+2024-07-21,Cuaderno A5,1
+2024-07-21,Helado artesanal,41
+2024-07-21,Pan de masa madre,65
+2024-07-21,Vela aromática,4
+2024-07-22,Café en grano 1 kg,8
+2024-07-22,Cuaderno A5,11
+2024-07-22,Funda de móvil,1
+2024-07-22,Helado artesanal,36
+2024-07-22,Pan de masa madre,35
+2024-07-22,Vela aromática,9
+2024-07-23,Café en grano 1 kg,11
+2024-07-23,Cuaderno A5,15
+2024-07-23,Funda de móvil,3
+2024-07-23,Helado artesanal,32
+2024-07-23,Pan de masa madre,20
+2024-07-23,Vela aromática,7
+2024-07-24,Café en grano 1 kg,13
+2024-07-24,Cuaderno A5,9
+2024-07-24,Funda de móvil,1
+2024-07-24,Helado artesanal,31
+2024-07-24,Pan de masa madre,29
+2024-07-24,Vela aromática,11
+2024-07-25,Café en grano 1 kg,6
+2024-07-25,Cuaderno A5,9
+2024-07-25,Funda de móvil,1
+2024-07-25,Helado artesanal,33
+2024-07-25,Pan de masa madre,31
+2024-07-25,Vela aromática,5
+2024-07-26,Café en grano 1 kg,17
+2024-07-26,Cuaderno A5,13
+2024-07-26,Helado artesanal,30
+2024-07-26,Pan de masa madre,30
+2024-07-26,Vela aromática,5
+2024-07-27,Café en grano 1 kg,20
+2024-07-27,Cuaderno A5,5
+2024-07-27,Helado artesanal,39
+2024-07-27,Pan de masa madre,46
+2024-07-27,Vela aromática,11
+2024-07-28,Café en grano 1 kg,14
+2024-07-28,Cuaderno A5,7
+2024-07-28,Helado artesanal,42
+2024-07-28,Pan de masa madre,50
+2024-07-28,Vela aromática,10
+2024-07-29,Bufanda de lana,2
+2024-07-29,Café en grano 1 kg,12
+2024-07-29,Cuaderno A5,10
+2024-07-29,Funda de móvil,1
+2024-07-29,Helado artesanal,35
+2024-07-29,Pan de masa madre,25
+2024-07-29,Vela aromática,10
+2024-07-30,Café en grano 1 kg,10
+2024-07-30,Cuaderno A5,10
+2024-07-30,Helado artesanal,25
+2024-07-30,Pan de masa madre,28
+2024-07-30,Vela aromática,12
+2024-07-31,Bufanda de lana,1
+2024-07-31,Café en grano 1 kg,11
+2024-07-31,Cuaderno A5,8
+2024-07-31,Helado artesanal,36
+2024-07-31,Pan de masa madre,25
+2024-07-31,Vela aromática,6
+2024-08-01,Café en grano 1 kg,8
+2024-08-01,Cuaderno A5,14
+2024-08-01,Helado artesanal,29
+2024-08-01,Pan de masa madre,38
+2024-08-01,Vela aromática,11
+2024-08-02,Bufanda de lana,1
+2024-08-02,Café en grano 1 kg,11
+2024-08-02,Cuaderno A5,12
+2024-08-02,Funda de móvil,2
+2024-08-02,Helado artesanal,37
+2024-08-02,Pan de masa madre,44
+2024-08-02,Vela aromática,10
+2024-08-03,Café en grano 1 kg,13
+2024-08-03,Cuaderno A5,6
+2024-08-03,Helado artesanal,37
+2024-08-03,Pan de masa madre,37
+2024-08-03,Vela aromática,8
+2024-08-04,Bufanda de lana,2
+2024-08-04,Café en grano 1 kg,23
+2024-08-04,Cuaderno A5,6
+2024-08-04,Funda de móvil,1
+2024-08-04,Helado artesanal,37
+2024-08-04,Pan de masa madre,45
+2024-08-04,Vela aromática,15
+2024-08-05,Café en grano 1 kg,14
+2024-08-05,Cuaderno A5,10
+2024-08-05,Funda de móvil,1
+2024-08-05,Helado artesanal,26
+2024-08-05,Pan de masa madre,30
+2024-08-05,Vela aromática,7
+2024-08-06,Café en grano 1 kg,16
+2024-08-06,Cuaderno A5,10
+2024-08-06,Helado artesanal,23
+2024-08-06,Pan de masa madre,36
+2024-08-06,Vela aromática,13
+2024-08-07,Bufanda de lana,1
+2024-08-07,Café en grano 1 kg,7
+2024-08-07,Cuaderno A5,12
+2024-08-07,Funda de móvil,1
+2024-08-07,Helado artesanal,29
+2024-08-07,Pan de masa madre,26
+2024-08-07,Vela aromática,2
+2024-08-08,Café en grano 1 kg,13
+2024-08-08,Cuaderno A5,7
+2024-08-08,Funda de móvil,1
+2024-08-08,Helado artesanal,25
+2024-08-08,Pan de masa madre,29
+2024-08-08,Vela aromática,6
+2024-08-09,Café en grano 1 kg,12
+2024-08-09,Cuaderno A5,13
+2024-08-09,Helado artesanal,28
+2024-08-09,Pan de masa madre,27
+2024-08-09,Vela aromática,9
+2024-08-10,Bufanda de lana,2
+2024-08-10,Café en grano 1 kg,17
+2024-08-10,Cuaderno A5,7
+2024-08-10,Helado artesanal,37
+2024-08-10,Pan de masa madre,44
+2024-08-10,Vela aromática,13
+2024-08-11,Bufanda de lana,1
+2024-08-11,Café en grano 1 kg,10
+2024-08-11,Cuaderno A5,12
+2024-08-11,Funda de móvil,2
+2024-08-11,Helado artesanal,37
+2024-08-11,Pan de masa madre,52
+2024-08-11,Vela aromática,7
+2024-08-12,Bufanda de lana,1
+2024-08-12,Café en grano 1 kg,18
+2024-08-12,Cuaderno A5,13
+2024-08-12,Funda de móvil,1
+2024-08-12,Helado artesanal,29
+2024-08-12,Pan de masa madre,40
+2024-08-12,Vela aromática,6
+2024-08-13,Café en grano 1 kg,12
+2024-08-13,Cuaderno A5,9
+2024-08-13,Funda de móvil,1
+2024-08-13,Helado artesanal,38
+2024-08-13,Pan de masa madre,22
+2024-08-13,Vela aromática,8
+2024-08-14,Café en grano 1 kg,11
+2024-08-14,Cuaderno A5,12
+2024-08-14,Helado artesanal,30
+2024-08-14,Pan de masa madre,21
+2024-08-14,Vela aromática,4
+2024-08-15,Bufanda de lana,3
+2024-08-15,Café en grano 1 kg,11
+2024-08-15,Cuaderno A5,16
+2024-08-15,Funda de móvil,1
+2024-08-15,Helado artesanal,31
+2024-08-15,Pan de masa madre,37
+2024-08-15,Vela aromática,7
+2024-08-16,Café en grano 1 kg,9
+2024-08-16,Cuaderno A5,14
+2024-08-16,Funda de móvil,1
+2024-08-16,Helado artesanal,25
+2024-08-16,Pan de masa madre,30
+2024-08-16,Vela aromática,2
+2024-08-17,Bufanda de lana,1
+2024-08-17,Café en grano 1 kg,25
+2024-08-17,Cuaderno A5,3
+2024-08-17,Funda de móvil,1
+2024-08-17,Helado artesanal,45
+2024-08-17,Pan de masa madre,43
+2024-08-17,Vela aromática,15
+2024-08-18,Café en grano 1 kg,21
+2024-08-18,Cuaderno A5,5
+2024-08-18,Helado artesanal,47
+2024-08-18,Pan de masa madre,42
+2024-08-18,Vela aromática,9
+2024-08-19,Bufanda de lana,3
+2024-08-19,Café en grano 1 kg,9
+2024-08-19,Cuaderno A5,14
+2024-08-19,Helado artesanal,29
+2024-08-19,Pan de masa madre,32
+2024-08-19,Vela aromática,10
+2024-08-20,Bufanda de lana,1
+2024-08-20,Café en grano 1 kg,17
+2024-08-20,Cuaderno A5,6
+2024-08-20,Funda de móvil,1
+2024-08-20,Helado artesanal,39
+2024-08-20,Pan de masa madre,43
+2024-08-20,Vela aromática,5
+2024-08-21,Café en grano 1 kg,19
+2024-08-21,Cuaderno A5,15
+2024-08-21,Helado artesanal,25
+2024-08-21,Pan de masa madre,32
+2024-08-21,Vela aromática,9
+2024-08-22,Bufanda de lana,2
+2024-08-22,Café en grano 1 kg,15
+2024-08-22,Cuaderno A5,5
+2024-08-22,Funda de móvil,1
+2024-08-22,Helado artesanal,31
+2024-08-22,Pan de masa madre,27
+2024-08-22,Vela aromática,7
+2024-08-23,Bufanda de lana,1
+2024-08-23,Café en grano 1 kg,10
+2024-08-23,Cuaderno A5,10
+2024-08-23,Funda de móvil,1
+2024-08-23,Helado artesanal,20
+2024-08-23,Pan de masa madre,42
+2024-08-23,Vela aromática,11
+2024-08-24,Bufanda de lana,2
+2024-08-24,Café en grano 1 kg,27
+2024-08-24,Cuaderno A5,8
+2024-08-24,Helado artesanal,50
+2024-08-24,Pan de masa madre,50
+2024-08-24,Vela aromática,12
+2024-08-25,Bufanda de lana,1
+2024-08-25,Café en grano 1 kg,16
+2024-08-25,Cuaderno A5,11
+2024-08-25,Funda de móvil,2
+2024-08-25,Helado artesanal,35
+2024-08-25,Pan de masa madre,50
+2024-08-25,Vela aromática,12
+2024-08-26,Bufanda de lana,2
+2024-08-26,Café en grano 1 kg,10
+2024-08-26,Cuaderno A5,11
+2024-08-26,Funda de móvil,3
+2024-08-26,Helado artesanal,35
+2024-08-26,Pan de masa madre,33
+2024-08-26,Vela aromática,10
+2024-08-27,Café en grano 1 kg,16
+2024-08-27,Cuaderno A5,11
+2024-08-27,Helado artesanal,31
+2024-08-27,Pan de masa madre,26
+2024-08-27,Vela aromática,11
+2024-08-28,Bufanda de lana,2
+2024-08-28,Café en grano 1 kg,17
+2024-08-28,Cuaderno A5,16
+2024-08-28,Funda de móvil,2
+2024-08-28,Helado artesanal,24
+2024-08-28,Pan de masa madre,21
+2024-08-28,Vela aromática,10
+2024-08-29,Bufanda de lana,2
+2024-08-29,Café en grano 1 kg,10
+2024-08-29,Cuaderno A5,8
+2024-08-29,Helado artesanal,22
+2024-08-29,Pan de masa madre,38
+2024-08-29,Vela aromática,10
+2024-08-30,Café en grano 1 kg,17
+2024-08-30,Cuaderno A5,6
+2024-08-30,Helado artesanal,33
+2024-08-30,Pan de masa madre,32
+2024-08-30,Vela aromática,10
+2024-08-31,Café en grano 1 kg,15
+2024-08-31,Cuaderno A5,7
+2024-08-31,Helado artesanal,30
+2024-08-31,Pan de masa madre,34
+2024-08-31,Vela aromática,12
+2024-09-01,Bufanda de lana,3
+2024-09-01,Café en grano 1 kg,15
+2024-09-01,Cuaderno A5,6
+2024-09-01,Helado artesanal,35
+2024-09-01,Pan de masa madre,44
+2024-09-01,Vela aromática,6
+2024-09-02,Bufanda de lana,2
+2024-09-02,Café en grano 1 kg,10
+2024-09-02,Cuaderno A5,15
+2024-09-02,Helado artesanal,25
+2024-09-02,Pan de masa madre,32
+2024-09-02,Vela aromática,12
+2024-09-03,Café en grano 1 kg,13
+2024-09-03,Cuaderno A5,7
+2024-09-03,Helado artesanal,30
+2024-09-03,Pan de masa madre,26
+2024-09-03,Vela aromática,12
+2024-09-04,Bufanda de lana,3
+2024-09-04,Café en grano 1 kg,15
+2024-09-04,Cuaderno A5,16
+2024-09-04,Helado artesanal,33
+2024-09-04,Pan de masa madre,34
+2024-09-04,Vela aromática,7
+2024-09-05,Bufanda de lana,1
+2024-09-05,Café en grano 1 kg,12
+2024-09-05,Cuaderno A5,9
+2024-09-05,Helado artesanal,22
+2024-09-05,Pan de masa madre,40
+2024-09-05,Vela aromática,12
+2024-09-06,Bufanda de lana,1
+2024-09-06,Café en grano 1 kg,10
+2024-09-06,Cuaderno A5,10
+2024-09-06,Funda de móvil,1
+2024-09-06,Helado artesanal,31
+2024-09-06,Pan de masa madre,45
+2024-09-06,Vela aromática,9
+2024-09-07,Bufanda de lana,2
+2024-09-07,Café en grano 1 kg,20
+2024-09-07,Cuaderno A5,10
+2024-09-07,Helado artesanal,33
+2024-09-07,Pan de masa madre,43
+2024-09-07,Vela aromática,13
+2024-09-08,Bufanda de lana,1
+2024-09-08,Café en grano 1 kg,16
+2024-09-08,Cuaderno A5,8
+2024-09-08,Helado artesanal,36
+2024-09-08,Pan de masa madre,38
+2024-09-08,Vela aromática,13
+2024-09-09,Bufanda de lana,4
+2024-09-09,Café en grano 1 kg,10
+2024-09-09,Cuaderno A5,7
+2024-09-09,Helado artesanal,23
+2024-09-09,Pan de masa madre,36
+2024-09-09,Vela aromática,7
+2024-09-10,Bufanda de lana,3
+2024-09-10,Café en grano 1 kg,11
+2024-09-10,Cuaderno A5,13
+2024-09-10,Helado artesanal,26
+2024-09-10,Pan de masa madre,31
+2024-09-10,Vela aromática,14
+2024-09-11,Bufanda de lana,4
+2024-09-11,Café en grano 1 kg,19
+2024-09-11,Cuaderno A5,9
+2024-09-11,Funda de móvil,1
+2024-09-11,Helado artesanal,21
+2024-09-11,Pan de masa madre,25
+2024-09-11,Vela aromática,17
+2024-09-12,Café en grano 1 kg,11
+2024-09-12,Cuaderno A5,6
+2024-09-12,Helado artesanal,22
+2024-09-12,Pan de masa madre,28
+2024-09-12,Vela aromática,15
+2024-09-13,Bufanda de lana,2
+2024-09-13,Café en grano 1 kg,11
+2024-09-13,Cuaderno A5,7
+2024-09-13,Funda de móvil,2
+2024-09-13,Helado artesanal,24
+2024-09-13,Pan de masa madre,32
+2024-09-13,Vela aromática,5
+2024-09-14,Bufanda de lana,2
+2024-09-14,Café en grano 1 kg,26
+2024-09-14,Cuaderno A5,9
+2024-09-14,Helado artesanal,33
+2024-09-14,Pan de masa madre,45
+2024-09-14,Vela aromática,14
+2024-09-15,Bufanda de lana,2
+2024-09-15,Café en grano 1 kg,16
+2024-09-15,Cuaderno A5,7
+2024-09-15,Helado artesanal,26
+2024-09-15,Pan de masa madre,48
+2024-09-15,Vela aromática,15
+2024-09-16,Bufanda de lana,2
+2024-09-16,Café en grano 1 kg,9
+2024-09-16,Cuaderno A5,10
+2024-09-16,Helado artesanal,18
+2024-09-16,Pan de masa madre,41
+2024-09-16,Vela aromática,9
+2024-09-17,Bufanda de lana,2
+2024-09-17,Café en grano 1 kg,17
+2024-09-17,Cuaderno A5,8
+2024-09-17,Helado artesanal,27
+2024-09-17,Pan de masa madre,32
+2024-09-17,Vela aromática,14
+2024-09-18,Bufanda de lana,3
+2024-09-18,Café en grano 1 kg,18
+2024-09-18,Cuaderno A5,11
+2024-09-18,Funda de móvil,1
+2024-09-18,Helado artesanal,26
+2024-09-18,Pan de masa madre,27
+2024-09-18,Vela aromática,6
+2024-09-19,Bufanda de lana,1
+2024-09-19,Café en grano 1 kg,11
+2024-09-19,Cuaderno A5,7
+2024-09-19,Helado artesanal,21
+2024-09-19,Pan de masa madre,29
+2024-09-19,Vela aromática,10
+2024-09-20,Bufanda de lana,3
+2024-09-20,Café en grano 1 kg,17
+2024-09-20,Cuaderno A5,19
+2024-09-20,Funda de móvil,1
+2024-09-20,Helado artesanal,26
+2024-09-20,Pan de masa madre,36
+2024-09-20,Vela aromática,9
+2024-09-21,Bufanda de lana,2
+2024-09-21,Café en grano 1 kg,20
+2024-09-21,Cuaderno A5,9
+2024-09-21,Helado artesanal,27
+2024-09-21,Pan de masa madre,37
+2024-09-21,Vela aromática,11
+2024-09-22,Bufanda de lana,1
+2024-09-22,Café en grano 1 kg,23
+2024-09-22,Cuaderno A5,8
+2024-09-22,Funda de móvil,1
+2024-09-22,Helado artesanal,26
+2024-09-22,Pan de masa madre,44
+2024-09-22,Vela aromática,6
+2024-09-23,Bufanda de lana,3
+2024-09-23,Café en grano 1 kg,17
+2024-09-23,Cuaderno A5,8
+2024-09-23,Helado artesanal,24
+2024-09-23,Pan de masa madre,30
+2024-09-23,Vela aromática,3
+2024-09-24,Bufanda de lana,5
+2024-09-24,Café en grano 1 kg,9
+2024-09-24,Cuaderno A5,9
+2024-09-24,Helado artesanal,19
+2024-09-24,Pan de masa madre,26
+2024-09-24,Vela aromática,12
+2024-09-25,Bufanda de lana,3
+2024-09-25,Café en grano 1 kg,14
+2024-09-25,Cuaderno A5,13
+2024-09-25,Helado artesanal,19
+2024-09-25,Pan de masa madre,26
+2024-09-25,Vela aromática,8
+2024-09-26,Bufanda de lana,7
+2024-09-26,Café en grano 1 kg,15
+2024-09-26,Cuaderno A5,12
+2024-09-26,Helado artesanal,25
+2024-09-26,Pan de masa madre,38
+2024-09-26,Vela aromática,16
+2024-09-27,Bufanda de lana,3
+2024-09-27,Café en grano 1 kg,11
+2024-09-27,Cuaderno A5,13
+2024-09-27,Helado artesanal,27
+2024-09-27,Pan de masa madre,32
+2024-09-27,Vela aromática,9
+2024-09-28,Bufanda de lana,1
+2024-09-28,Café en grano 1 kg,20
+2024-09-28,Cuaderno A5,5
+2024-09-28,Helado artesanal,28
+2024-09-28,Pan de masa madre,55
+2024-09-28,Vela aromática,18
+2024-09-29,Bufanda de lana,3
+2024-09-29,Café en grano 1 kg,13
+2024-09-29,Cuaderno A5,9
+2024-09-29,Helado artesanal,33
+2024-09-29,Pan de masa madre,53
+2024-09-29,Vela aromática,13
+2024-09-30,Bufanda de lana,4
+2024-09-30,Café en grano 1 kg,23
+2024-09-30,Cuaderno A5,11
+2024-09-30,Helado artesanal,17
+2024-09-30,Pan de masa madre,30
+2024-09-30,Vela aromática,7
+2024-10-01,Bufanda de lana,4
+2024-10-01,Café en grano 1 kg,12
+2024-10-01,Cuaderno A5,5
+2024-10-01,Funda de móvil,2
+2024-10-01,Helado artesanal,24
+2024-10-01,Pan de masa madre,37
+2024-10-01,Vela aromática,10
+2024-10-02,Bufanda de lana,3
+2024-10-02,Café en grano 1 kg,8
+2024-10-02,Cuaderno A5,9
+2024-10-02,Helado artesanal,9
+2024-10-02,Pan de masa madre,28
+2024-10-02,Vela aromática,14
+2024-10-03,Bufanda de lana,1
+2024-10-03,Café en grano 1 kg,19
+2024-10-03,Cuaderno A5,9
+2024-10-03,Funda de móvil,1
+2024-10-03,Helado artesanal,20
+2024-10-03,Pan de masa madre,33
+2024-10-03,Vela aromática,13
+2024-10-04,Bufanda de lana,5
+2024-10-04,Café en grano 1 kg,18
+2024-10-04,Cuaderno A5,8
+2024-10-04,Helado artesanal,20
+2024-10-04,Pan de masa madre,29
+2024-10-04,Vela aromática,9
+2024-10-05,Bufanda de lana,5
+2024-10-05,Café en grano 1 kg,15
+2024-10-05,Cuaderno A5,2
+2024-10-05,Funda de móvil,1
+2024-10-05,Helado artesanal,21
+2024-10-05,Pan de masa madre,46
+2024-10-05,Vela aromática,16
+2024-10-06,Bufanda de lana,5
+2024-10-06,Café en grano 1 kg,16
+2024-10-06,Cuaderno A5,4
+2024-10-06,Helado artesanal,29
+2024-10-06,Pan de masa madre,46
+2024-10-06,Vela aromática,16
+2024-10-07,Bufanda de lana,1
+2024-10-07,Café en grano 1 kg,16
+2024-10-07,Cuaderno A5,13
+2024-10-07,Helado artesanal,9
+2024-10-07,Pan de masa madre,27
+2024-10-07,Vela aromática,10
+2024-10-08,Bufanda de lana,1
+2024-10-08,Café en grano 1 kg,17
+2024-10-08,Cuaderno A5,14
+2024-10-08,Helado artesanal,12
+2024-10-08,Pan de masa madre,28
+2024-10-08,Vela aromática,11
+2024-10-09,Bufanda de lana,2
+2024-10-09,Café en grano 1 kg,14
+2024-10-09,Cuaderno A5,6
+2024-10-09,Helado artesanal,13
+2024-10-09,Pan de masa madre,39
+2024-10-09,Vela aromática,9
+2024-10-10,Bufanda de lana,1
+2024-10-10,Café en grano 1 kg,12
+2024-10-10,Cuaderno A5,9
+2024-10-10,Helado artesanal,28
+2024-10-10,Pan de masa madre,34
+2024-10-10,Vela aromática,12
+2024-10-11,Bufanda de lana,1
+2024-10-11,Café en grano 1 kg,22
+2024-10-11,Cuaderno A5,10
+2024-10-11,Funda de móvil,1
+2024-10-11,Helado artesanal,21
+2024-10-11,Pan de masa madre,39
+2024-10-11,Vela aromática,23
+2024-10-12,Bufanda de lana,2
+2024-10-12,Café en grano 1 kg,21
+2024-10-12,Cuaderno A5,4
+2024-10-12,Funda de móvil,1
+2024-10-12,Helado artesanal,22
+2024-10-12,Pan de masa madre,40
+2024-10-12,Vela aromática,9
+2024-10-13,Bufanda de lana,8
+2024-10-13,Café en grano 1 kg,23
+2024-10-13,Cuaderno A5,8
+2024-10-13,Helado artesanal,19
+2024-10-13,Pan de masa madre,28
+2024-10-13,Vela aromática,14
+2024-10-14,Bufanda de lana,3
+2024-10-14,Café en grano 1 kg,20
+2024-10-14,Cuaderno A5,14
+2024-10-14,Helado artesanal,20
+2024-10-14,Pan de masa madre,25
+2024-10-14,Vela aromática,13
+2024-10-15,Bufanda de lana,3
+2024-10-15,Café en grano 1 kg,15
+2024-10-15,Cuaderno A5,8
+2024-10-15,Helado artesanal,24
+2024-10-15,Pan de masa madre,31
+2024-10-15,Vela aromática,15
+2024-10-16,Bufanda de lana,6
+2024-10-16,Café en grano 1 kg,11
+2024-10-16,Cuaderno A5,10
+2024-10-16,Helado artesanal,12
+2024-10-16,Pan de masa madre,34
+2024-10-16,Vela aromática,10
+2024-10-17,Bufanda de lana,2
+2024-10-17,Café en grano 1 kg,17
+2024-10-17,Cuaderno A5,12
+2024-10-17,Helado artesanal,19
+2024-10-17,Pan de masa madre,36
+2024-10-17,Vela aromática,11
+2024-10-18,Café en grano 1 kg,17
+2024-10-18,Cuaderno A5,10
+2024-10-18,Helado artesanal,14
+2024-10-18,Pan de masa madre,34
+2024-10-18,Vela aromática,8
+2024-10-19,Bufanda de lana,6
+2024-10-19,Café en grano 1 kg,18
+2024-10-19,Cuaderno A5,3
+2024-10-19,Helado artesanal,17
+2024-10-19,Pan de masa madre,37
+2024-10-19,Vela aromática,17
+2024-10-20,Bufanda de lana,7
+2024-10-20,Café en grano 1 kg,20
+2024-10-20,Cuaderno A5,4
+2024-10-20,Helado artesanal,27
+2024-10-20,Pan de masa madre,43
+2024-10-20,Vela aromática,9
+2024-10-21,Bufanda de lana,7
+2024-10-21,Café en grano 1 kg,13
+2024-10-21,Cuaderno A5,10
+2024-10-21,Helado artesanal,11
+2024-10-21,Pan de masa madre,27
+2024-10-21,Vela aromática,17
+2024-10-22,Bufanda de lana,1
+2024-10-22,Café en grano 1 kg,13
+2024-10-22,Cuaderno A5,12
+2024-10-22,Helado artesanal,15
+2024-10-22,Pan de masa madre,27
+2024-10-22,Vela aromática,12
+2024-10-23,Bufanda de lana,1
+2024-10-23,Café en grano 1 kg,11
+2024-10-23,Cuaderno A5,9
+2024-10-23,Helado artesanal,14
+2024-10-23,Pan de masa madre,42
+2024-10-23,Vela aromática,8
+2024-10-24,Bufanda de lana,3
+2024-10-24,Café en grano 1 kg,9
+2024-10-24,Cuaderno A5,3
+2024-10-24,Funda de móvil,1
+2024-10-24,Helado artesanal,16
+2024-10-24,Pan de masa madre,36
+2024-10-24,Vela aromática,11
+2024-10-25,Bufanda de lana,5
+2024-10-25,Café en grano 1 kg,10
+2024-10-25,Cuaderno A5,8
+2024-10-25,Helado artesanal,11
+2024-10-25,Pan de masa madre,33
+2024-10-25,Vela aromática,11
+2024-10-26,Bufanda de lana,3
+2024-10-26,Café en grano 1 kg,19
+2024-10-26,Cuaderno A5,5
+2024-10-26,Helado artesanal,19
+2024-10-26,Pan de masa madre,46
+2024-10-26,Vela aromática,17
+2024-10-27,Bufanda de lana,1
+2024-10-27,Café en grano 1 kg,20
+2024-10-27,Cuaderno A5,7
+2024-10-27,Helado artesanal,22
+2024-10-27,Pan de masa madre,44
+2024-10-27,Vela aromática,21
+2024-10-28,Bufanda de lana,3
+2024-10-28,Café en grano 1 kg,16
+2024-10-28,Cuaderno A5,10
+2024-10-28,Helado artesanal,15
+2024-10-28,Pan de masa madre,39
+2024-10-28,Vela aromática,17
+2024-10-29,Bufanda de lana,6
+2024-10-29,Café en grano 1 kg,17
+2024-10-29,Cuaderno A5,9
+2024-10-29,Helado artesanal,10
+2024-10-29,Pan de masa madre,41
+2024-10-29,Vela aromática,13
+2024-10-30,Bufanda de lana,6
+2024-10-30,Café en grano 1 kg,13
+2024-10-30,Cuaderno A5,9
+2024-10-30,Helado artesanal,12
+2024-10-30,Pan de masa madre,39
+2024-10-30,Vela aromática,12
+2024-10-31,Bufanda de lana,6
+2024-10-31,Café en grano 1 kg,11
+2024-10-31,Cuaderno A5,6
+2024-10-31,Funda de móvil,2
+2024-10-31,Helado artesanal,11
+2024-10-31,Pan de masa madre,30
+2024-10-31,Vela aromática,15
+2024-11-01,Bufanda de lana,3
+2024-11-01,Café en grano 1 kg,12
+2024-11-01,Cuaderno A5,9
+2024-11-01,Helado artesanal,15
+2024-11-01,Pan de masa madre,34
+2024-11-01,Vela aromática,9
+2024-11-02,Bufanda de lana,3
+2024-11-02,Café en grano 1 kg,15
+2024-11-02,Cuaderno A5,8
+2024-11-02,Helado artesanal,16
+2024-11-02,Pan de masa madre,41
+2024-11-02,Vela aromática,21
+2024-11-03,Bufanda de lana,6
+2024-11-03,Café en grano 1 kg,16
+2024-11-03,Cuaderno A5,5
+2024-11-03,Helado artesanal,17
+2024-11-03,Pan de masa madre,45
+2024-11-03,Vela aromática,12
+2024-11-04,Bufanda de lana,5
+2024-11-04,Café en grano 1 kg,20
+2024-11-04,Cuaderno A5,11
+2024-11-04,Helado artesanal,12
+2024-11-04,Pan de masa madre,36
+2024-11-04,Vela aromática,16
+2024-11-05,Bufanda de lana,6
+2024-11-05,Café en grano 1 kg,18
+2024-11-05,Cuaderno A5,9
+2024-11-05,Helado artesanal,18
+2024-11-05,Pan de masa madre,26
+2024-11-05,Vela aromática,11
+2024-11-06,Bufanda de lana,4
+2024-11-06,Café en grano 1 kg,11
+2024-11-06,Cuaderno A5,13
+2024-11-06,Helado artesanal,15
+2024-11-06,Pan de masa madre,32
+2024-11-06,Vela aromática,7
+2024-11-07,Bufanda de lana,5
+2024-11-07,Café en grano 1 kg,21
+2024-11-07,Cuaderno A5,10
+2024-11-07,Helado artesanal,10
+2024-11-07,Pan de masa madre,38
+2024-11-07,Vela aromática,12
+2024-11-08,Bufanda de lana,2
+2024-11-08,Café en grano 1 kg,16
+2024-11-08,Cuaderno A5,10
+2024-11-08,Helado artesanal,19
+2024-11-08,Pan de masa madre,35
+2024-11-08,Vela aromática,13
+2024-11-09,Bufanda de lana,8
+2024-11-09,Café en grano 1 kg,20
+2024-11-09,Cuaderno A5,10
+2024-11-09,Helado artesanal,12
+2024-11-09,Pan de masa madre,55
+2024-11-09,Vela aromática,15
+2024-11-10,Bufanda de lana,3
+2024-11-10,Café en grano 1 kg,20
+2024-11-10,Cuaderno A5,8
+2024-11-10,Funda de móvil,1
+2024-11-10,Helado artesanal,18
+2024-11-10,Pan de masa madre,36
+2024-11-10,Vela aromática,14
+2024-11-11,Bufanda de lana,7
+2024-11-11,Café en grano 1 kg,10
+2024-11-11,Cuaderno A5,5
+2024-11-11,Helado artesanal,15
+2024-11-11,Pan de masa madre,33
+2024-11-11,Vela aromática,15
+2024-11-12,Bufanda de lana,4
+2024-11-12,Café en grano 1 kg,17
+2024-11-12,Cuaderno A5,9
+2024-11-12,Helado artesanal,15
+2024-11-12,Pan de masa madre,39
+2024-11-12,Vela aromática,14
+2024-11-13,Bufanda de lana,8
+2024-11-13,Café en grano 1 kg,8
+2024-11-13,Cuaderno A5,12
+2024-11-13,Helado artesanal,7
+2024-11-13,Pan de masa madre,24
+2024-11-13,Vela aromática,15
+2024-11-14,Bufanda de lana,1
+2024-11-14,Café en grano 1 kg,14
+2024-11-14,Cuaderno A5,10
+2024-11-14,Helado artesanal,10
+2024-11-14,Pan de masa madre,38
+2024-11-14,Vela aromática,15
+2024-11-15,Bufanda de lana,2
+2024-11-15,Café en grano 1 kg,12
+2024-11-15,Cuaderno A5,13
+2024-11-15,Helado artesanal,15
+2024-11-15,Pan de masa madre,38
+2024-11-15,Vela aromática,8
+2024-11-16,Bufanda de lana,8
+2024-11-16,Café en grano 1 kg,23
+2024-11-16,Cuaderno A5,7
+2024-11-16,Helado artesanal,21
+2024-11-16,Pan de masa madre,40
+2024-11-16,Vela aromática,12
+2024-11-17,Bufanda de lana,7
+2024-11-17,Café en grano 1 kg,24
+2024-11-17,Cuaderno A5,1
+2024-11-17,Helado artesanal,18
+2024-11-17,Pan de masa madre,52
+2024-11-17,Vela aromática,13
+2024-11-18,Bufanda de lana,2
+2024-11-18,Café en grano 1 kg,19
+2024-11-18,Cuaderno A5,2
+2024-11-18,Helado artesanal,8
+2024-11-18,Pan de masa madre,37
+2024-11-18,Vela aromática,14
+2024-11-19,Bufanda de lana,5
+2024-11-19,Café en grano 1 kg,15
+2024-11-19,Cuaderno A5,4
+2024-11-19,Funda de móvil,1
+2024-11-19,Helado artesanal,12
+2024-11-19,Pan de masa madre,34
+2024-11-19,Vela aromática,16
+2024-11-20,Bufanda de lana,8
+2024-11-20,Café en grano 1 kg,23
+2024-11-20,Cuaderno A5,6
+2024-11-20,Helado artesanal,7
+2024-11-20,Pan de masa madre,37
+2024-11-20,Vela aromática,11
+2024-11-21,Bufanda de lana,5
+2024-11-21,Café en grano 1 kg,16
+2024-11-21,Cuaderno A5,12
+2024-11-21,Funda de móvil,1
+2024-11-21,Helado artesanal,12
+2024-11-21,Pan de masa madre,27
+2024-11-21,Vela aromática,9
+2024-11-22,Bufanda de lana,4
+2024-11-22,Café en grano 1 kg,18
+2024-11-22,Cuaderno A5,5
+2024-11-22,Funda de móvil,1
+2024-11-22,Helado artesanal,3
+2024-11-22,Pan de masa madre,21
+2024-11-22,Vela aromática,10
+2024-11-23,Bufanda de lana,1
+2024-11-23,Café en grano 1 kg,20
+2024-11-23,Cuaderno A5,2
+2024-11-23,Helado artesanal,16
+2024-11-23,Pan de masa madre,43
+2024-11-23,Vela aromática,19
+2024-11-24,Bufanda de lana,5
+2024-11-24,Café en grano 1 kg,27
+2024-11-24,Cuaderno A5,5
+2024-11-24,Helado artesanal,11
+2024-11-24,Pan de masa madre,51
+2024-11-24,Vela aromática,15
+2024-11-25,Bufanda de lana,5
+2024-11-25,Café en grano 1 kg,15
+2024-11-25,Cuaderno A5,10
+2024-11-25,Helado artesanal,16
+2024-11-25,Pan de masa madre,23
+2024-11-25,Vela aromática,16
+2024-11-26,Bufanda de lana,2
+2024-11-26,Café en grano 1 kg,12
+2024-11-26,Cuaderno A5,7
+2024-11-26,Helado artesanal,10
+2024-11-26,Pan de masa madre,30
+2024-11-26,Vela aromática,18
+2024-11-27,Bufanda de lana,5
+2024-11-27,Café en grano 1 kg,19
+2024-11-27,Cuaderno A5,10
+2024-11-27,Helado artesanal,9
+2024-11-27,Pan de masa madre,39
+2024-11-27,Vela aromática,17
+2024-11-28,Bufanda de lana,10
+2024-11-28,Café en grano 1 kg,11
+2024-11-28,Cuaderno A5,8
+2024-11-28,Helado artesanal,7
+2024-11-28,Pan de masa madre,30
+2024-11-28,Vela aromática,12
+2024-11-29,Bufanda de lana,5
+2024-11-29,Café en grano 1 kg,13
+2024-11-29,Cuaderno A5,7
+2024-11-29,Helado artesanal,6
+2024-11-29,Pan de masa madre,27
+2024-11-29,Vela aromática,12
+2024-11-30,Bufanda de lana,4
+2024-11-30,Café en grano 1 kg,18
+2024-11-30,Cuaderno A5,4
+2024-11-30,Funda de móvil,1
+2024-11-30,Helado artesanal,5
+2024-11-30,Pan de masa madre,52
+2024-11-30,Vela aromática,13
+2024-12-01,Bufanda de lana,4
+2024-12-01,Café en grano 1 kg,59
+2024-12-01,Cuaderno A5,5
+2024-12-01,Helado artesanal,8
+2024-12-01,Pan de masa madre,47
+2024-12-01,Vela aromática,15
+2024-12-02,Bufanda de lana,4
+2024-12-02,Café en grano 1 kg,41
+2024-12-02,Cuaderno A5,5
+2024-12-02,Helado artesanal,10
+2024-12-02,Pan de masa madre,31
+2024-12-02,Vela aromática,7
+2024-12-03,Bufanda de lana,8
+2024-12-03,Café en grano 1 kg,42
+2024-12-03,Cuaderno A5,9
+2024-12-03,Funda de móvil,2
+2024-12-03,Helado artesanal,10
+2024-12-03,Pan de masa madre,28
+2024-12-03,Vela aromática,10
+2024-12-04,Bufanda de lana,3
+2024-12-04,Café en grano 1 kg,50
+2024-12-04,Cuaderno A5,7
+2024-12-04,Helado artesanal,8
+2024-12-04,Pan de masa madre,41
+2024-12-04,Vela aromática,10
+2024-12-05,Bufanda de lana,7
+2024-12-05,Café en grano 1 kg,23
+2024-12-05,Cuaderno A5,6
+2024-12-05,Helado artesanal,7
+2024-12-05,Pan de masa madre,41
+2024-12-05,Vela aromática,11
+2024-12-06,Bufanda de lana,3
+2024-12-06,Café en grano 1 kg,16
+2024-12-06,Cuaderno A5,11
+2024-12-06,Helado artesanal,6
+2024-12-06,Pan de masa madre,34
+2024-12-06,Vela aromática,10
+2024-12-07,Bufanda de lana,7
+2024-12-07,Café en grano 1 kg,17
+2024-12-07,Cuaderno A5,3
+2024-12-07,Funda de móvil,1
+2024-12-07,Helado artesanal,10
+2024-12-07,Pan de masa madre,50
+2024-12-07,Vela aromática,19
+2024-12-08,Bufanda de lana,6
+2024-12-08,Café en grano 1 kg,17
+2024-12-08,Cuaderno A5,3
+2024-12-08,Funda de móvil,1
+2024-12-08,Helado artesanal,11
+2024-12-08,Pan de masa madre,50
+2024-12-08,Vela aromática,19
+2024-12-09,Bufanda de lana,4
+2024-12-09,Café en grano 1 kg,16
+2024-12-09,Cuaderno A5,7
+2024-12-09,Funda de móvil,1
+2024-12-09,Helado artesanal,7
+2024-12-09,Pan de masa madre,34
+2024-12-09,Vela aromática,10
+2024-12-10,Bufanda de lana,4
+2024-12-10,Café en grano 1 kg,16
+2024-12-10,Cuaderno A5,5
+2024-12-10,Helado artesanal,8
+2024-12-10,Pan de masa madre,37
+2024-12-10,Vela aromática,14
+2024-12-11,Bufanda de lana,4
+2024-12-11,Café en grano 1 kg,15
+2024-12-11,Cuaderno A5,5
+2024-12-11,Helado artesanal,7
+2024-12-11,Pan de masa madre,29
+2024-12-11,Vela aromática,14
+2024-12-12,Bufanda de lana,7
+2024-12-12,Café en grano 1 kg,14
+2024-12-12,Cuaderno A5,4
+2024-12-12,Helado artesanal,6
+2024-12-12,Pan de masa madre,39
+2024-12-12,Vela aromática,13
+2024-12-13,Bufanda de lana,6
+2024-12-13,Café en grano 1 kg,11
+2024-12-13,Cuaderno A5,9
+2024-12-13,Funda de móvil,1
+2024-12-13,Helado artesanal,7
+2024-12-13,Pan de masa madre,33
+2024-12-13,Vela aromática,13
+2024-12-14,Bufanda de lana,5
+2024-12-14,Café en grano 1 kg,25
+2024-12-14,Cuaderno A5,3
+2024-12-14,Funda de móvil,1
+2024-12-14,Helado artesanal,9
+2024-12-14,Pan de masa madre,43
+2024-12-14,Vela aromática,18
+2024-12-15,Bufanda de lana,5
+2024-12-15,Café en grano 1 kg,16
+2024-12-15,Cuaderno A5,4
+2024-12-15,Helado artesanal,9
+2024-12-15,Pan de masa madre,49
+2024-12-15,Vela aromática,10
+2024-12-16,Bufanda de lana,6
+2024-12-16,Café en grano 1 kg,17
+2024-12-16,Cuaderno A5,3
+2024-12-16,Helado artesanal,7
+2024-12-16,Pan de masa madre,38
+2024-12-16,Vela aromática,17
+2024-12-17,Bufanda de lana,9
+2024-12-17,Café en grano 1 kg,14
+2024-12-17,Cuaderno A5,11
+2024-12-17,Helado artesanal,3
+2024-12-17,Pan de masa madre,42
+2024-12-17,Vela aromática,16
+2024-12-18,Bufanda de lana,4
+2024-12-18,Café en grano 1 kg,18
+2024-12-18,Cuaderno A5,2
+2024-12-18,Funda de móvil,1
+2024-12-18,Helado artesanal,3
+2024-12-18,Pan de masa madre,42
+2024-12-18,Vela aromática,14
+2024-12-19,Bufanda de lana,5
+2024-12-19,Café en grano 1 kg,8
+2024-12-19,Cuaderno A5,4
+2024-12-19,Helado artesanal,8
+2024-12-19,Pan de masa madre,38
+2024-12-19,Vela aromática,16
+2024-12-20,Bufanda de lana,11
+2024-12-20,Café en grano 1 kg,17
+2024-12-20,Cuaderno A5,9
+2024-12-20,Helado artesanal,7
+2024-12-20,Pan de masa madre,31
+2024-12-20,Vela aromática,7
+2024-12-21,Bufanda de lana,10
+2024-12-21,Café en grano 1 kg,26
+2024-12-21,Cuaderno A5,6
+2024-12-21,Funda de móvil,2
+2024-12-21,Helado artesanal,7
+2024-12-21,Pan de masa madre,38
+2024-12-21,Vela aromática,13
+2024-12-22,Bufanda de lana,5
+2024-12-22,Café en grano 1 kg,22
+2024-12-22,Cuaderno A5,8
+2024-12-22,Helado artesanal,7
+2024-12-22,Pan de masa madre,46
+2024-12-22,Vela aromática,23
+2024-12-23,Bufanda de lana,10
+2024-12-23,Café en grano 1 kg,15
+2024-12-23,Cuaderno A5,4
+2024-12-23,Helado artesanal,4
+2024-12-23,Pan de masa madre,37
+2024-12-23,Vela aromática,12
+2024-12-24,Bufanda de lana,6
+2024-12-24,Café en grano 1 kg,22
+2024-12-24,Cuaderno A5,5
+2024-12-24,Helado artesanal,3
+2024-12-24,Pan de masa madre,26
+2024-12-24,Vela aromática,15
+2024-12-25,Bufanda de lana,3
+2024-12-25,Café en grano 1 kg,11
+2024-12-25,Cuaderno A5,7
+2024-12-25,Funda de móvil,1
+2024-12-25,Helado artesanal,4
+2024-12-25,Pan de masa madre,42
+2024-12-25,Vela aromática,14
+2024-12-26,Bufanda de lana,7
+2024-12-26,Café en grano 1 kg,18
+2024-12-26,Cuaderno A5,8
+2024-12-26,Funda de móvil,2
+2024-12-26,Helado artesanal,4
+2024-12-26,Pan de masa madre,29
+2024-12-26,Vela aromática,15
+2024-12-27,Bufanda de lana,4
+2024-12-27,Café en grano 1 kg,16
+2024-12-27,Cuaderno A5,6
+2024-12-27,Funda de móvil,1
+2024-12-27,Helado artesanal,7
+2024-12-27,Pan de masa madre,30
+2024-12-27,Vela aromática,15
+2024-12-28,Bufanda de lana,4
+2024-12-28,Café en grano 1 kg,20
+2024-12-28,Cuaderno A5,2
+2024-12-28,Helado artesanal,2
+2024-12-28,Pan de masa madre,43
+2024-12-28,Vela aromática,18
+2024-12-29,Bufanda de lana,8
+2024-12-29,Café en grano 1 kg,16
+2024-12-29,Cuaderno A5,3
+2024-12-29,Helado artesanal,5
+2024-12-29,Pan de masa madre,50
+2024-12-29,Vela aromática,16
+2024-12-30,Bufanda de lana,6
+2024-12-30,Café en grano 1 kg,14
+2024-12-30,Cuaderno A5,1
+2024-12-30,Helado artesanal,4
+2024-12-30,Pan de masa madre,32
+2024-12-30,Vela aromática,15
+2024-12-31,Bufanda de lana,3
+2024-12-31,Café en grano 1 kg,18
+2024-12-31,Cuaderno A5,6
+2024-12-31,Funda de móvil,1
+2024-12-31,Helado artesanal,6
+2024-12-31,Pan de masa madre,28
+2024-12-31,Vela aromática,17
+2025-01-01,Bufanda de lana,5
+2025-01-01,Café en grano 1 kg,19
+2025-01-01,Cuaderno A5,5
+2025-01-01,Funda de móvil,2
+2025-01-01,Helado artesanal,4
+2025-01-01,Pan de masa madre,29
+2025-01-01,Vela aromática,14
+2025-01-02,Bufanda de lana,4
+2025-01-02,Café en grano 1 kg,16
+2025-01-02,Cuaderno A5,10
+2025-01-02,Helado artesanal,4
+2025-01-02,Pan de masa madre,34
+2025-01-02,Vela aromática,21
+2025-01-03,Bufanda de lana,6
+2025-01-03,Café en grano 1 kg,13
+2025-01-03,Cuaderno A5,4
+2025-01-03,Helado artesanal,4
+2025-01-03,Pan de masa madre,45
+2025-01-03,Vela aromática,10
+2025-01-04,Bufanda de lana,12
+2025-01-04,Café en grano 1 kg,16
+2025-01-04,Cuaderno A5,2
+2025-01-04,Helado artesanal,1
+2025-01-04,Pan de masa madre,43
+2025-01-04,Vela aromática,17
+2025-01-05,Bufanda de lana,6
+2025-01-05,Café en grano 1 kg,19
+2025-01-05,Cuaderno A5,1
+2025-01-05,Funda de móvil,1
+2025-01-05,Helado artesanal,7
+2025-01-05,Pan de masa madre,38
+2025-01-05,Vela aromática,17
+2025-01-06,Bufanda de lana,5
+2025-01-06,Café en grano 1 kg,25
+2025-01-06,Cuaderno A5,6
+2025-01-06,Funda de móvil,1
+2025-01-06,Helado artesanal,3
+2025-01-06,Pan de masa madre,33
+2025-01-06,Vela aromática,17
+2025-01-07,Bufanda de lana,1
+2025-01-07,Café en grano 1 kg,17
+2025-01-07,Cuaderno A5,4
+2025-01-07,Funda de móvil,1
+2025-01-07,Helado artesanal,4
+2025-01-07,Pan de masa madre,43
+2025-01-07,Vela aromática,9
+2025-01-08,Bufanda de lana,5
+2025-01-08,Café en grano 1 kg,21
+2025-01-08,Cuaderno A5,5
+2025-01-08,Funda de móvil,2
+2025-01-08,Helado artesanal,3
+2025-01-08,Pan de masa madre,36
+2025-01-08,Vela aromática,12
+2025-01-09,Bufanda de lana,7
+2025-01-09,Café en grano 1 kg,18
+2025-01-09,Cuaderno A5,8
+2025-01-09,Helado artesanal,4
+2025-01-09,Pan de masa madre,34
+2025-01-09,Vela aromática,19
+2025-01-10,Bufanda de lana,8
+2025-01-10,Café en grano 1 kg,17
+2025-01-10,Cuaderno A5,4
+2025-01-10,Funda de móvil,1
+2025-01-10,Helado artesanal,6
+2025-01-10,Pan de masa madre,36
+2025-01-10,Vela aromática,15
+2025-01-11,Bufanda de lana,7
+2025-01-11,Café en grano 1 kg,24
+2025-01-11,Cuaderno A5,4
+2025-01-11,Helado artesanal,5
+2025-01-11,Pan de masa madre,54
+2025-01-11,Vela aromática,22
+2025-01-12,Bufanda de lana,8
+2025-01-12,Café en grano 1 kg,20
+2025-01-12,Cuaderno A5,4
+2025-01-12,Helado artesanal,5
+2025-01-12,Pan de masa madre,56
+2025-01-12,Vela aromática,11
+2025-01-13,Bufanda de lana,4
+2025-01-13,Café en grano 1 kg,19
+2025-01-13,Cuaderno A5,3
+2025-01-13,Helado artesanal,6
+2025-01-13,Pan de masa madre,28
+2025-01-13,Vela aromática,15
+2025-01-14,Bufanda de lana,5
+2025-01-14,Café en grano 1 kg,12
+2025-01-14,Cuaderno A5,3
+2025-01-14,Helado artesanal,8
+2025-01-14,Pan de masa madre,37
+2025-01-14,Vela aromática,17
+2025-01-15,Bufanda de lana,3
+2025-01-15,Café en grano 1 kg,16
+2025-01-15,Cuaderno A5,7
+2025-01-15,Helado artesanal,3
+2025-01-15,Pan de masa madre,26
+2025-01-15,Vela aromática,10
+2025-01-16,Bufanda de lana,7
+2025-01-16,Café en grano 1 kg,19
+2025-01-16,Cuaderno A5,2
+2025-01-16,Funda de móvil,1
+2025-01-16,Helado artesanal,4
+2025-01-16,Pan de masa madre,47
+2025-01-16,Vela aromática,12
+2025-01-17,Bufanda de lana,7
+2025-01-17,Café en grano 1 kg,22
+2025-01-17,Cuaderno A5,2
+2025-01-17,Funda de móvil,2
+2025-01-17,Helado artesanal,5
+2025-01-17,Pan de masa madre,39
+2025-01-17,Vela aromática,13
+2025-01-18,Bufanda de lana,5
+2025-01-18,Café en grano 1 kg,26
+2025-01-18,Cuaderno A5,2
+2025-01-18,Funda de móvil,1
+2025-01-18,Helado artesanal,4
+2025-01-18,Pan de masa madre,42
+2025-01-18,Vela aromática,9
+2025-01-19,Bufanda de lana,5
+2025-01-19,Café en grano 1 kg,17
+2025-01-19,Cuaderno A5,3
+2025-01-19,Helado artesanal,4
+2025-01-19,Pan de masa madre,55
+2025-01-19,Vela aromática,19
+2025-01-20,Bufanda de lana,7
+2025-01-20,Café en grano 1 kg,10
+2025-01-20,Funda de móvil,2
+2025-01-20,Helado artesanal,5
+2025-01-20,Pan de masa madre,34
+2025-01-20,Vela aromática,14
+2025-01-21,Bufanda de lana,6
+2025-01-21,Café en grano 1 kg,14
+2025-01-21,Cuaderno A5,3
+2025-01-21,Funda de móvil,1
+2025-01-21,Helado artesanal,3
+2025-01-21,Pan de masa madre,33
+2025-01-21,Vela aromática,6
+2025-01-22,Bufanda de lana,6
+2025-01-22,Café en grano 1 kg,16
+2025-01-22,Cuaderno A5,4
+2025-01-22,Funda de móvil,1
+2025-01-22,Helado artesanal,3
+2025-01-22,Pan de masa madre,33
+2025-01-22,Vela aromática,20
+2025-01-23,Bufanda de lana,4
+2025-01-23,Café en grano 1 kg,14
+2025-01-23,Cuaderno A5,7
+2025-01-23,Helado artesanal,2
+2025-01-23,Pan de masa madre,35
+2025-01-23,Vela aromática,19
+2025-01-24,Bufanda de lana,4
+2025-01-24,Café en grano 1 kg,21
+2025-01-24,Cuaderno A5,7
+2025-01-24,Funda de móvil,1
+2025-01-24,Helado artesanal,2
+2025-01-24,Pan de masa madre,32
+2025-01-24,Vela aromática,12
+2025-01-25,Bufanda de lana,8
+2025-01-25,Café en grano 1 kg,26
+2025-01-25,Cuaderno A5,1
+2025-01-25,Helado artesanal,11
+2025-01-25,Pan de masa madre,38
+2025-01-25,Vela aromática,12
+2025-01-26,Bufanda de lana,5
+2025-01-26,Café en grano 1 kg,31
+2025-01-26,Cuaderno A5,3
+2025-01-26,Funda de móvil,1
+2025-01-26,Helado artesanal,5
+2025-01-26,Pan de masa madre,35
+2025-01-26,Vela aromática,16
+2025-01-27,Bufanda de lana,4
+2025-01-27,Café en grano 1 kg,11
+2025-01-27,Cuaderno A5,3
+2025-01-27,Helado artesanal,3
+2025-01-27,Pan de masa madre,28
+2025-01-27,Vela aromática,17
+2025-01-28,Bufanda de lana,8
+2025-01-28,Café en grano 1 kg,16
+2025-01-28,Cuaderno A5,6
+2025-01-28,Funda de móvil,1
+2025-01-28,Helado artesanal,2
+2025-01-28,Pan de masa madre,40
+2025-01-28,Vela aromática,13
+2025-01-29,Bufanda de lana,4
+2025-01-29,Café en grano 1 kg,12
+2025-01-29,Cuaderno A5,1
+2025-01-29,Helado artesanal,6
+2025-01-29,Pan de masa madre,36
+2025-01-29,Vela aromática,11
+2025-01-30,Bufanda de lana,3
+2025-01-30,Café en grano 1 kg,7
+2025-01-30,Funda de móvil,1
+2025-01-30,Helado artesanal,7
+2025-01-30,Pan de masa madre,36
+2025-01-30,Vela aromática,16
+2025-01-31,Bufanda de lana,4
+2025-01-31,Café en grano 1 kg,11
+2025-01-31,Cuaderno A5,8
+2025-01-31,Helado artesanal,3
+2025-01-31,Pan de masa madre,32
+2025-01-31,Vela aromática,14
+2025-02-01,Bufanda de lana,11
+2025-02-01,Café en grano 1 kg,19
+2025-02-01,Cuaderno A5,3
+2025-02-01,Funda de móvil,2
+2025-02-01,Helado artesanal,2
+2025-02-01,Pan de masa madre,47
+2025-02-01,Vela aromática,22
+2025-02-02,Bufanda de lana,6
+2025-02-02,Café en grano 1 kg,17
+2025-02-02,Cuaderno A5,3
+2025-02-02,Helado artesanal,7
+2025-02-02,Pan de masa madre,46
+2025-02-02,Vela aromática,19
+2025-02-03,Bufanda de lana,8
+2025-02-03,Café en grano 1 kg,18
+2025-02-03,Cuaderno A5,4
+2025-02-03,Funda de móvil,2
+2025-02-03,Helado artesanal,6
+2025-02-03,Pan de masa madre,30
+2025-02-03,Vela aromática,13
+2025-02-04,Bufanda de lana,2
+2025-02-04,Café en grano 1 kg,18
+2025-02-04,Cuaderno A5,3
+2025-02-04,Helado artesanal,3
+2025-02-04,Pan de masa madre,24
+2025-02-04,Vela aromática,8
+2025-02-05,Bufanda de lana,6
+2025-02-05,Café en grano 1 kg,16
+2025-02-05,Cuaderno A5,4
+2025-02-05,Helado artesanal,7
+2025-02-05,Pan de masa madre,40
+2025-02-05,Vela aromática,14
+2025-02-06,Bufanda de lana,6
+2025-02-06,Café en grano 1 kg,21
+2025-02-06,Cuaderno A5,6
+2025-02-06,Helado artesanal,2
+2025-02-06,Pan de masa madre,36
+2025-02-06,Vela aromática,19
+2025-02-07,Bufanda de lana,2
+2025-02-07,Café en grano 1 kg,17
+2025-02-07,Cuaderno A5,7
+2025-02-07,Helado artesanal,5
+2025-02-07,Pan de masa madre,31
+2025-02-07,Vela aromática,10
+2025-02-08,Bufanda de lana,8
+2025-02-08,Café en grano 1 kg,18
+2025-02-08,Helado artesanal,2
+2025-02-08,Pan de masa madre,43
+2025-02-08,Vela aromática,18
+2025-02-09,Bufanda de lana,8
+2025-02-09,Café en grano 1 kg,14
+2025-02-09,Cuaderno A5,2
+2025-02-09,Funda de móvil,2
+2025-02-09,Helado artesanal,11
+2025-02-09,Pan de masa madre,57
+2025-02-09,Vela aromática,18
+2025-02-10,Bufanda de lana,5
+2025-02-10,Café en grano 1 kg,25
+2025-02-10,Cuaderno A5,3
+2025-02-10,Helado artesanal,6
+2025-02-10,Pan de masa madre,38
+2025-02-10,Vela aromática,18
+2025-02-11,Bufanda de lana,7
+2025-02-11,Café en grano 1 kg,18
+2025-02-11,Cuaderno A5,3
+2025-02-11,Helado artesanal,4
+2025-02-11,Pan de masa madre,27
+2025-02-11,Vela aromática,17
+2025-02-12,Bufanda de lana,7
+2025-02-12,Café en grano 1 kg,14
+2025-02-12,Cuaderno A5,4
+2025-02-12,Helado artesanal,10
+2025-02-12,Pan de masa madre,29
+2025-02-12,Vela aromática,13
+2025-02-13,Bufanda de lana,5
+2025-02-13,Café en grano 1 kg,33
+2025-02-13,Cuaderno A5,1
+2025-02-13,Helado artesanal,4
+2025-02-13,Pan de masa madre,40
+2025-02-13,Vela aromática,8
+2025-02-14,Bufanda de lana,3
+2025-02-14,Café en grano 1 kg,16
+2025-02-14,Cuaderno A5,2
+2025-02-14,Funda de móvil,1
+2025-02-14,Helado artesanal,1
+2025-02-14,Pan de masa madre,24
+2025-02-14,Vela aromática,13
+2025-02-15,Bufanda de lana,5
+2025-02-15,Café en grano 1 kg,15
+2025-02-15,Cuaderno A5,1
+2025-02-15,Funda de móvil,1
+2025-02-15,Helado artesanal,7
+2025-02-15,Pan de masa madre,45
+2025-02-15,Vela aromática,8
+2025-02-16,Bufanda de lana,4
+2025-02-16,Café en grano 1 kg,20
+2025-02-16,Cuaderno A5,1
+2025-02-16,Helado artesanal,8
+2025-02-16,Pan de masa madre,55
+2025-02-16,Vela aromática,17
+2025-02-17,Bufanda de lana,5
+2025-02-17,Café en grano 1 kg,14
+2025-02-17,Cuaderno A5,3
+2025-02-17,Funda de móvil,2
+2025-02-17,Helado artesanal,4
+2025-02-17,Pan de masa madre,28
+2025-02-17,Vela aromática,8
+2025-02-18,Bufanda de lana,8
+2025-02-18,Café en grano 1 kg,11
+2025-02-18,Cuaderno A5,2
+2025-02-18,Funda de móvil,1
+2025-02-18,Helado artesanal,4
+2025-02-18,Pan de masa madre,32
+2025-02-18,Vela aromática,16
+2025-02-19,Bufanda de lana,8
+2025-02-19,Café en grano 1 kg,25
+2025-02-19,Cuaderno A5,2
+2025-02-19,Funda de móvil,1
+2025-02-19,Helado artesanal,4
+2025-02-19,Pan de masa madre,45
+2025-02-19,Vela aromática,12
+2025-02-20,Bufanda de lana,4
+2025-02-20,Café en grano 1 kg,16
+2025-02-20,Cuaderno A5,3
+2025-02-20,Helado artesanal,8
+2025-02-20,Pan de masa madre,34
+2025-02-20,Vela aromática,11
+2025-02-21,Bufanda de lana,4
+2025-02-21,Café en grano 1 kg,15
+2025-02-21,Cuaderno A5,1
+2025-02-21,Funda de móvil,1
+2025-02-21,Helado artesanal,5
+2025-02-21,Pan de masa madre,44
+2025-02-21,Vela aromática,15
+2025-02-22,Bufanda de lana,2
+2025-02-22,Café en grano 1 kg,17
+2025-02-22,Cuaderno A5,2
+2025-02-22,Funda de móvil,1
+2025-02-22,Helado artesanal,3
+2025-02-22,Pan de masa madre,45
+2025-02-22,Vela aromática,10
+2025-02-23,Bufanda de lana,3
+2025-02-23,Café en grano 1 kg,26
+2025-02-23,Cuaderno A5,1
+2025-02-23,Funda de móvil,1
+2025-02-23,Helado artesanal,5
+2025-02-23,Pan de masa madre,49
+2025-02-23,Vela aromática,21
+2025-02-24,Bufanda de lana,2
+2025-02-24,Café en grano 1 kg,15
+2025-02-24,Cuaderno A5,1
+2025-02-24,Helado artesanal,5
+2025-02-24,Pan de masa madre,29
+2025-02-24,Vela aromática,14
+2025-02-25,Café en grano 1 kg,30
+2025-02-25,Cuaderno A5,2
+2025-02-25,Helado artesanal,7
+2025-02-25,Pan de masa madre,37
+2025-02-25,Vela aromática,19
+2025-02-26,Bufanda de lana,7
+2025-02-26,Café en grano 1 kg,14
+2025-02-26,Cuaderno A5,2
+2025-02-26,Helado artesanal,5
+2025-02-26,Pan de masa madre,33
+2025-02-26,Vela aromática,10
+2025-02-27,Bufanda de lana,7
+2025-02-27,Café en grano 1 kg,15
+2025-02-27,Cuaderno A5,4
+2025-02-27,Helado artesanal,9
+2025-02-27,Pan de masa madre,30
+2025-02-27,Vela aromática,12
+2025-02-28,Bufanda de lana,4
+2025-02-28,Café en grano 1 kg,18
+2025-02-28,Cuaderno A5,3
+2025-02-28,Funda de móvil,1
+2025-02-28,Helado artesanal,9
+2025-02-28,Pan de masa madre,44
+2025-02-28,Vela aromática,11
+2025-03-01,Bufanda de lana,2
+2025-03-01,Café en grano 1 kg,23
+2025-03-01,Cuaderno A5,3
+2025-03-01,Helado artesanal,7
+2025-03-01,Pan de masa madre,42
+2025-03-01,Vela aromática,17
+2025-03-02,Bufanda de lana,6
+2025-03-02,Café en grano 1 kg,18
+2025-03-02,Cuaderno A5,5
+2025-03-02,Helado artesanal,4
+2025-03-02,Pan de masa madre,37
+2025-03-02,Vela aromática,14
+2025-03-03,Bufanda de lana,5
+2025-03-03,Café en grano 1 kg,19
+2025-03-03,Cuaderno A5,1
+2025-03-03,Funda de móvil,1
+2025-03-03,Helado artesanal,5
+2025-03-03,Pan de masa madre,34
+2025-03-03,Vela aromática,5
+2025-03-04,Bufanda de lana,2
+2025-03-04,Café en grano 1 kg,14
+2025-03-04,Cuaderno A5,4
+2025-03-04,Helado artesanal,6
+2025-03-04,Pan de masa madre,31
+2025-03-04,Vela aromática,16
+2025-03-05,Bufanda de lana,8
+2025-03-05,Café en grano 1 kg,17
+2025-03-05,Cuaderno A5,2
+2025-03-05,Helado artesanal,3
+2025-03-05,Pan de masa madre,28
+2025-03-05,Vela aromática,18
+2025-03-06,Bufanda de lana,5
+2025-03-06,Café en grano 1 kg,22
+2025-03-06,Cuaderno A5,3
+2025-03-06,Funda de móvil,2
+2025-03-06,Helado artesanal,3
+2025-03-06,Pan de masa madre,41
+2025-03-06,Vela aromática,15
+2025-03-07,Bufanda de lana,6
+2025-03-07,Café en grano 1 kg,11
+2025-03-07,Cuaderno A5,2
+2025-03-07,Funda de móvil,1
+2025-03-07,Helado artesanal,3
+2025-03-07,Pan de masa madre,33
+2025-03-07,Vela aromática,13
+2025-03-08,Bufanda de lana,3
+2025-03-08,Café en grano 1 kg,24
+2025-03-08,Cuaderno A5,4
+2025-03-08,Funda de móvil,1
+2025-03-08,Helado artesanal,11
+2025-03-08,Pan de masa madre,30
+2025-03-08,Vela aromática,9
+2025-03-09,Bufanda de lana,6
+2025-03-09,Café en grano 1 kg,22
+2025-03-09,Cuaderno A5,2
+2025-03-09,Helado artesanal,14
+2025-03-09,Pan de masa madre,53
+2025-03-09,Vela aromática,19
+2025-03-10,Bufanda de lana,3
+2025-03-10,Café en grano 1 kg,14
+2025-03-10,Cuaderno A5,3
+2025-03-10,Helado artesanal,10
+2025-03-10,Pan de masa madre,32
+2025-03-10,Vela aromática,11
+2025-03-11,Bufanda de lana,1
+2025-03-11,Café en grano 1 kg,16
+2025-03-11,Cuaderno A5,3
+2025-03-11,Funda de móvil,1
+2025-03-11,Helado artesanal,6
+2025-03-11,Pan de masa madre,33
+2025-03-11,Vela aromática,15
+2025-03-12,Bufanda de lana,5
+2025-03-12,Café en grano 1 kg,12
+2025-03-12,Cuaderno A5,3
+2025-03-12,Helado artesanal,13
+2025-03-12,Pan de masa madre,34
+2025-03-12,Vela aromática,16
+2025-03-13,Bufanda de lana,5
+2025-03-13,Café en grano 1 kg,13
+2025-03-13,Cuaderno A5,6
+2025-03-13,Helado artesanal,7
+2025-03-13,Pan de masa madre,34
+2025-03-13,Vela aromática,20
+2025-03-14,Bufanda de lana,5
+2025-03-14,Café en grano 1 kg,10
+2025-03-14,Cuaderno A5,3
+2025-03-14,Funda de móvil,1
+2025-03-14,Helado artesanal,11
+2025-03-14,Pan de masa madre,33
+2025-03-14,Vela aromática,6
+2025-03-15,Bufanda de lana,4
+2025-03-15,Café en grano 1 kg,17
+2025-03-15,Cuaderno A5,3
+2025-03-15,Funda de móvil,1
+2025-03-15,Helado artesanal,10
+2025-03-15,Pan de masa madre,40
+2025-03-15,Vela aromática,12
+2025-03-16,Bufanda de lana,4
+2025-03-16,Café en grano 1 kg,17
+2025-03-16,Cuaderno A5,2
+2025-03-16,Funda de móvil,1
+2025-03-16,Helado artesanal,10
+2025-03-16,Pan de masa madre,46
+2025-03-16,Vela aromática,15
+2025-03-17,Bufanda de lana,3
+2025-03-17,Café en grano 1 kg,14
+2025-03-17,Cuaderno A5,2
+2025-03-17,Helado artesanal,7
+2025-03-17,Pan de masa madre,38
+2025-03-17,Vela aromática,9
+2025-03-18,Bufanda de lana,3
+2025-03-18,Café en grano 1 kg,14
+2025-03-18,Cuaderno A5,4
+2025-03-18,Helado artesanal,12
+2025-03-18,Pan de masa madre,37
+2025-03-18,Vela aromática,13
+2025-03-19,Bufanda de lana,7
+2025-03-19,Café en grano 1 kg,9
+2025-03-19,Cuaderno A5,7
+2025-03-19,Helado artesanal,15
+2025-03-19,Pan de masa madre,32
+2025-03-19,Vela aromática,8
+2025-03-20,Bufanda de lana,2
+2025-03-20,Café en grano 1 kg,12
+2025-03-20,Cuaderno A5,1
+2025-03-20,Helado artesanal,13
+2025-03-20,Pan de masa madre,27
+2025-03-20,Vela aromática,12
+2025-03-21,Bufanda de lana,3
+2025-03-21,Café en grano 1 kg,16
+2025-03-21,Cuaderno A5,2
+2025-03-21,Funda de móvil,1
+2025-03-21,Helado artesanal,12
+2025-03-21,Pan de masa madre,35
+2025-03-21,Vela aromática,9
+2025-03-22,Bufanda de lana,3
+2025-03-22,Café en grano 1 kg,17
+2025-03-22,Cuaderno A5,1
+2025-03-22,Helado artesanal,16
+2025-03-22,Pan de masa madre,49
+2025-03-22,Vela aromática,16
+2025-03-23,Bufanda de lana,4
+2025-03-23,Café en grano 1 kg,27
+2025-03-23,Cuaderno A5,2
+2025-03-23,Helado artesanal,14
+2025-03-23,Pan de masa madre,42
+2025-03-23,Vela aromática,12
+2025-03-24,Bufanda de lana,1
+2025-03-24,Café en grano 1 kg,19
+2025-03-24,Cuaderno A5,5
+2025-03-24,Helado artesanal,9
+2025-03-24,Pan de masa madre,23
+2025-03-24,Vela aromática,9
+2025-03-25,Bufanda de lana,4
+2025-03-25,Café en grano 1 kg,19
+2025-03-25,Cuaderno A5,3
+2025-03-25,Funda de móvil,1
+2025-03-25,Helado artesanal,9
+2025-03-25,Pan de masa madre,26
+2025-03-25,Vela aromática,9
+2025-03-26,Bufanda de lana,2
+2025-03-26,Café en grano 1 kg,18
+2025-03-26,Cuaderno A5,5
+2025-03-26,Helado artesanal,13
+2025-03-26,Pan de masa madre,41
+2025-03-26,Vela aromática,9
+2025-03-27,Bufanda de lana,2
+2025-03-27,Café en grano 1 kg,19
+2025-03-27,Helado artesanal,10
+2025-03-27,Pan de masa madre,29
+2025-03-27,Vela aromática,12
+2025-03-28,Bufanda de lana,1
+2025-03-28,Café en grano 1 kg,17
+2025-03-28,Cuaderno A5,2
+2025-03-28,Funda de móvil,1
+2025-03-28,Helado artesanal,18
+2025-03-28,Pan de masa madre,32
+2025-03-28,Vela aromática,12
+2025-03-29,Bufanda de lana,4
+2025-03-29,Café en grano 1 kg,13
+2025-03-29,Cuaderno A5,1
+2025-03-29,Funda de móvil,1
+2025-03-29,Helado artesanal,15
+2025-03-29,Pan de masa madre,37
+2025-03-29,Vela aromática,10
+2025-03-30,Bufanda de lana,4
+2025-03-30,Café en grano 1 kg,19
+2025-03-30,Cuaderno A5,2
+2025-03-30,Helado artesanal,22
+2025-03-30,Pan de masa madre,37
+2025-03-30,Vela aromática,10
+2025-03-31,Bufanda de lana,2
+2025-03-31,Café en grano 1 kg,15
+2025-03-31,Helado artesanal,22
+2025-03-31,Pan de masa madre,28
+2025-03-31,Vela aromática,11
+2025-04-01,Bufanda de lana,3
+2025-04-01,Café en grano 1 kg,14
+2025-04-01,Cuaderno A5,3
+2025-04-01,Funda de móvil,1
+2025-04-01,Helado artesanal,22
+2025-04-01,Pan de masa madre,39
+2025-04-01,Vela aromática,14
+2025-04-02,Bufanda de lana,6
+2025-04-02,Café en grano 1 kg,21
+2025-04-02,Cuaderno A5,4
+2025-04-02,Funda de móvil,1
+2025-04-02,Helado artesanal,14
+2025-04-02,Pan de masa madre,33
+2025-04-02,Vela aromática,8
+2025-04-03,Bufanda de lana,4
+2025-04-03,Café en grano 1 kg,22
+2025-04-03,Cuaderno A5,4
+2025-04-03,Funda de móvil,1
+2025-04-03,Helado artesanal,15
+2025-04-03,Pan de masa madre,33
+2025-04-03,Vela aromática,12
+2025-04-04,Bufanda de lana,5
+2025-04-04,Café en grano 1 kg,14
+2025-04-04,Funda de móvil,1
+2025-04-04,Helado artesanal,8
+2025-04-04,Pan de masa madre,29
+2025-04-04,Vela aromática,13
+2025-04-05,Bufanda de lana,4
+2025-04-05,Café en grano 1 kg,18
+2025-04-05,Funda de móvil,1
+2025-04-05,Helado artesanal,22
+2025-04-05,Pan de masa madre,48
+2025-04-05,Vela aromática,12
+2025-04-06,Bufanda de lana,6
+2025-04-06,Café en grano 1 kg,20
+2025-04-06,Cuaderno A5,2
+2025-04-06,Helado artesanal,22
+2025-04-06,Pan de masa madre,41
+2025-04-06,Vela aromática,9
+2025-04-07,Bufanda de lana,2
+2025-04-07,Café en grano 1 kg,14
+2025-04-07,Funda de móvil,1
+2025-04-07,Helado artesanal,10
+2025-04-07,Pan de masa madre,32
+2025-04-07,Vela aromática,12
+2025-04-08,Bufanda de lana,1
+2025-04-08,Café en grano 1 kg,15
+2025-04-08,Helado artesanal,16
+2025-04-08,Pan de masa madre,32
+2025-04-08,Vela aromática,8
+2025-04-09,Bufanda de lana,2
+2025-04-09,Café en grano 1 kg,20
+2025-04-09,Cuaderno A5,4
+2025-04-09,Helado artesanal,16
+2025-04-09,Pan de masa madre,37
+2025-04-09,Vela aromática,15
+2025-04-10,Bufanda de lana,4
+2025-04-10,Café en grano 1 kg,16
+2025-04-10,Cuaderno A5,4
+2025-04-10,Helado artesanal,17
+2025-04-10,Pan de masa madre,33
+2025-04-10,Vela aromática,18
+2025-04-11,Bufanda de lana,2
+2025-04-11,Café en grano 1 kg,20
+2025-04-11,Cuaderno A5,2
+2025-04-11,Helado artesanal,11
+2025-04-11,Pan de masa madre,28
+2025-04-11,Vela aromática,13
+2025-04-12,Bufanda de lana,3
+2025-04-12,Café en grano 1 kg,13
+2025-04-12,Helado artesanal,22
+2025-04-12,Pan de masa madre,42
+2025-04-12,Vela aromática,11
+2025-04-13,Bufanda de lana,2
+2025-04-13,Café en grano 1 kg,22
+2025-04-13,Cuaderno A5,2
+2025-04-13,Helado artesanal,32
+2025-04-13,Pan de masa madre,37
+2025-04-13,Vela aromática,10
+2025-04-14,Bufanda de lana,2
+2025-04-14,Café en grano 1 kg,17
+2025-04-14,Cuaderno A5,2
+2025-04-14,Helado artesanal,13
+2025-04-14,Pan de masa madre,35
+2025-04-14,Vela aromática,7
+2025-04-15,Bufanda de lana,2
+2025-04-15,Café en grano 1 kg,8
+2025-04-15,Cuaderno A5,8
+2025-04-15,Helado artesanal,15
+2025-04-15,Pan de masa madre,25
+2025-04-15,Vela aromática,3
+2025-04-16,Bufanda de lana,3
+2025-04-16,Café en grano 1 kg,12
+2025-04-16,Cuaderno A5,1
+2025-04-16,Helado artesanal,18
+2025-04-16,Pan de masa madre,28
+2025-04-16,Vela aromática,9
+2025-04-17,Bufanda de lana,4
+2025-04-17,Café en grano 1 kg,21
+2025-04-17,Cuaderno A5,3
+2025-04-17,Funda de móvil,1
+2025-04-17,Helado artesanal,17
+2025-04-17,Pan de masa madre,32
+2025-04-17,Vela aromática,10
+2025-04-18,Bufanda de lana,5
+2025-04-18,Café en grano 1 kg,13
+2025-04-18,Cuaderno A5,3
+2025-04-18,Funda de móvil,2
+2025-04-18,Helado artesanal,16
+2025-04-18,Pan de masa madre,36
+2025-04-18,Vela aromática,8
+2025-04-19,Bufanda de lana,1
+2025-04-19,Café en grano 1 kg,22
+2025-04-19,Cuaderno A5,1
+2025-04-19,Funda de móvil,1
+2025-04-19,Helado artesanal,25
+2025-04-19,Pan de masa madre,39
+2025-04-19,Vela aromática,16
+2025-04-20,Bufanda de lana,8
+2025-04-20,Café en grano 1 kg,14
+2025-04-20,Cuaderno A5,2
+2025-04-20,Helado artesanal,30
+2025-04-20,Pan de masa madre,54
+2025-04-20,Vela aromática,15
+2025-04-21,Bufanda de lana,2
+2025-04-21,Café en grano 1 kg,21
+2025-04-21,Cuaderno A5,4
+2025-04-21,Helado artesanal,22
+2025-04-21,Pan de masa madre,33
+2025-04-21,Vela aromática,11
+2025-04-22,Café en grano 1 kg,22
+2025-04-22,Cuaderno A5,1
+2025-04-22,Helado artesanal,16
+2025-04-22,Pan de masa madre,27
+2025-04-22,Vela aromática,18
+2025-04-23,Bufanda de lana,2
+2025-04-23,Café en grano 1 kg,10
+2025-04-23,Cuaderno A5,6
+2025-04-23,Helado artesanal,21
+2025-04-23,Pan de masa madre,37
+2025-04-23,Vela aromática,15
+2025-04-24,Bufanda de lana,6
+2025-04-24,Café en grano 1 kg,24
+2025-04-24,Cuaderno A5,6
+2025-04-24,Helado artesanal,19
+2025-04-24,Pan de masa madre,41
+2025-04-24,Vela aromática,7
+2025-04-25,Bufanda de lana,2
+2025-04-25,Café en grano 1 kg,13
+2025-04-25,Cuaderno A5,5
+2025-04-25,Helado artesanal,28
+2025-04-25,Pan de masa madre,36
+2025-04-25,Vela aromática,13
+2025-04-26,Bufanda de lana,1
+2025-04-26,Café en grano 1 kg,18
+2025-04-26,Cuaderno A5,3
+2025-04-26,Helado artesanal,19
+2025-04-26,Pan de masa madre,35
+2025-04-26,Vela aromática,16
+2025-04-27,Bufanda de lana,2
+2025-04-27,Café en grano 1 kg,26
+2025-04-27,Cuaderno A5,3
+2025-04-27,Helado artesanal,27
+2025-04-27,Pan de masa madre,42
+2025-04-27,Vela aromática,13
+2025-04-28,Bufanda de lana,2
+2025-04-28,Café en grano 1 kg,18
+2025-04-28,Cuaderno A5,1
+2025-04-28,Helado artesanal,23
+2025-04-28,Pan de masa madre,30
+2025-04-28,Vela aromática,14
+2025-04-29,Bufanda de lana,1
+2025-04-29,Café en grano 1 kg,13
+2025-04-29,Cuaderno A5,6
+2025-04-29,Helado artesanal,17
+2025-04-29,Pan de masa madre,37
+2025-04-29,Vela aromática,10
+2025-04-30,Bufanda de lana,1
+2025-04-30,Café en grano 1 kg,10
+2025-04-30,Cuaderno A5,9
+2025-04-30,Funda de móvil,1
+2025-04-30,Helado artesanal,14
+2025-04-30,Pan de masa madre,43
+2025-04-30,Vela aromática,15
+2025-05-01,Bufanda de lana,1
+2025-05-01,Café en grano 1 kg,13
+2025-05-01,Cuaderno A5,5
+2025-05-01,Helado artesanal,18
+2025-05-01,Pan de masa madre,31
+2025-05-01,Vela aromática,7
+2025-05-02,Bufanda de lana,5
+2025-05-02,Café en grano 1 kg,13
+2025-05-02,Cuaderno A5,3
+2025-05-02,Helado artesanal,16
+2025-05-02,Pan de masa madre,29
+2025-05-02,Vela aromática,12
+2025-05-03,Café en grano 1 kg,17
+2025-05-03,Cuaderno A5,4
+2025-05-03,Funda de móvil,1
+2025-05-03,Helado artesanal,25
+2025-05-03,Pan de masa madre,44
+2025-05-03,Vela aromática,12
+2025-05-04,Bufanda de lana,1
+2025-05-04,Café en grano 1 kg,17
+2025-05-04,Cuaderno A5,1
+2025-05-04,Helado artesanal,24
+2025-05-04,Pan de masa madre,38
+2025-05-04,Vela aromática,8
+2025-05-05,Bufanda de lana,2
+2025-05-05,Café en grano 1 kg,12
+2025-05-05,Cuaderno A5,5
+2025-05-05,Funda de móvil,1
+2025-05-05,Helado artesanal,27
+2025-05-05,Pan de masa madre,36
+2025-05-05,Vela aromática,2
+2025-05-06,Bufanda de lana,1
+2025-05-06,Café en grano 1 kg,14
+2025-05-06,Cuaderno A5,9
+2025-05-06,Funda de móvil,1
+2025-05-06,Helado artesanal,18
+2025-05-06,Pan de masa madre,37
+2025-05-06,Vela aromática,9
+2025-05-07,Café en grano 1 kg,15
+2025-05-07,Cuaderno A5,5
+2025-05-07,Funda de móvil,1
+2025-05-07,Helado artesanal,22
+2025-05-07,Pan de masa madre,38
+2025-05-07,Vela aromática,10
+2025-05-08,Bufanda de lana,2
+2025-05-08,Café en grano 1 kg,13
+2025-05-08,Cuaderno A5,4
+2025-05-08,Helado artesanal,21
+2025-05-08,Pan de masa madre,35
+2025-05-08,Vela aromática,14
+2025-05-09,Café en grano 1 kg,21
+2025-05-09,Cuaderno A5,9
+2025-05-09,Helado artesanal,19
+2025-05-09,Pan de masa madre,30
+2025-05-09,Vela aromática,7
+2025-05-10,Café en grano 1 kg,10
+2025-05-10,Cuaderno A5,4
+2025-05-10,Helado artesanal,25
+2025-05-10,Pan de masa madre,46
+2025-05-10,Vela aromática,10
+2025-05-11,Café en grano 1 kg,18
+2025-05-11,Cuaderno A5,5
+2025-05-11,Helado artesanal,34
+2025-05-11,Pan de masa madre,52
+2025-05-11,Vela aromática,18
+2025-05-12,Café en grano 1 kg,16
+2025-05-12,Cuaderno A5,1
+2025-05-12,Funda de móvil,2
+2025-05-12,Helado artesanal,27
+2025-05-12,Pan de masa madre,33
+2025-05-12,Vela aromática,10
+2025-05-13,Café en grano 1 kg,18
+2025-05-13,Cuaderno A5,4
+2025-05-13,Helado artesanal,21
+2025-05-13,Pan de masa madre,34
+2025-05-13,Vela aromática,16
+2025-05-14,Bufanda de lana,4
+2025-05-14,Café en grano 1 kg,16
+2025-05-14,Cuaderno A5,5
+2025-05-14,Funda de móvil,1
+2025-05-14,Helado artesanal,23
+2025-05-14,Pan de masa madre,35
+2025-05-14,Vela aromática,8
+2025-05-15,Bufanda de lana,5
+2025-05-15,Café en grano 1 kg,20
+2025-05-15,Cuaderno A5,6
+2025-05-15,Helado artesanal,37
+2025-05-15,Pan de masa madre,27
+2025-05-15,Vela aromática,8
+2025-05-16,Café en grano 1 kg,15
+2025-05-16,Cuaderno A5,3
+2025-05-16,Helado artesanal,22
+2025-05-16,Pan de masa madre,27
+2025-05-16,Vela aromática,10
+2025-05-17,Café en grano 1 kg,24
+2025-05-17,Cuaderno A5,2
+2025-05-17,Helado artesanal,28
+2025-05-17,Pan de masa madre,52
+2025-05-17,Vela aromática,7
+2025-05-18,Bufanda de lana,1
+2025-05-18,Café en grano 1 kg,17
+2025-05-18,Cuaderno A5,5
+2025-05-18,Helado artesanal,46
+2025-05-18,Pan de masa madre,41
+2025-05-18,Vela aromática,11
+2025-05-19,Café en grano 1 kg,13
+2025-05-19,Cuaderno A5,4
+2025-05-19,Helado artesanal,34
+2025-05-19,Pan de masa madre,26
+2025-05-19,Vela aromática,8
+2025-05-20,Café en grano 1 kg,11
+2025-05-20,Cuaderno A5,6
+2025-05-20,Helado artesanal,18
+2025-05-20,Pan de masa madre,32
+2025-05-20,Vela aromática,9
+2025-05-21,Café en grano 1 kg,20
+2025-05-21,Cuaderno A5,7
+2025-05-21,Helado artesanal,28
+2025-05-21,Pan de masa madre,27
+2025-05-21,Vela aromática,11
+2025-05-22,Bufanda de lana,2
+2025-05-22,Café en grano 1 kg,11
+2025-05-22,Cuaderno A5,5
+2025-05-22,Helado artesanal,29
+2025-05-22,Pan de masa madre,30
+2025-05-22,Vela aromática,8
+2025-05-23,Bufanda de lana,1
+2025-05-23,Café en grano 1 kg,16
+2025-05-23,Cuaderno A5,9
+2025-05-23,Funda de móvil,1
+2025-05-23,Helado artesanal,20
+2025-05-23,Pan de masa madre,34
+2025-05-23,Vela aromática,7
+2025-05-24,Bufanda de lana,2
+2025-05-24,Café en grano 1 kg,16
+2025-05-24,Cuaderno A5,5
+2025-05-24,Funda de móvil,1
+2025-05-24,Helado artesanal,34
+2025-05-24,Pan de masa madre,40
+2025-05-24,Vela aromática,8
+2025-05-25,Bufanda de lana,1
+2025-05-25,Café en grano 1 kg,21
+2025-05-25,Cuaderno A5,1
+2025-05-25,Funda de móvil,3
+2025-05-25,Helado artesanal,32
+2025-05-25,Pan de masa madre,45
+2025-05-25,Vela aromática,10
+2025-05-26,Bufanda de lana,3
+2025-05-26,Café en grano 1 kg,14
+2025-05-26,Cuaderno A5,5
+2025-05-26,Helado artesanal,29
+2025-05-26,Pan de masa madre,32
+2025-05-26,Vela aromática,5
+2025-05-27,Bufanda de lana,3
+2025-05-27,Café en grano 1 kg,14
+2025-05-27,Cuaderno A5,8
+2025-05-27,Helado artesanal,28
+2025-05-27,Pan de masa madre,41
+2025-05-27,Vela aromática,11
+2025-05-28,Bufanda de lana,1
+2025-05-28,Café en grano 1 kg,15
+2025-05-28,Cuaderno A5,7
+2025-05-28,Helado artesanal,25
+2025-05-28,Pan de masa madre,29
+2025-05-28,Vela aromática,6
+2025-05-29,Café en grano 1 kg,13
+2025-05-29,Cuaderno A5,4
+2025-05-29,Funda de móvil,1
+2025-05-29,Helado artesanal,28
+2025-05-29,Pan de masa madre,29
+2025-05-29,Vela aromática,4
+2025-05-30,Bufanda de lana,1
+2025-05-30,Café en grano 1 kg,13
+2025-05-30,Cuaderno A5,6
+2025-05-30,Helado artesanal,21
+2025-05-30,Pan de masa madre,34
+2025-05-30,Vela aromática,6
+2025-05-31,Café en grano 1 kg,18
+2025-05-31,Cuaderno A5,3
+2025-05-31,Funda de móvil,1
+2025-05-31,Helado artesanal,32
+2025-05-31,Pan de masa madre,55
+2025-05-31,Vela aromática,11
+2025-06-01,Bufanda de lana,2
+2025-06-01,Café en grano 1 kg,6
+2025-06-01,Funda de móvil,1
+2025-06-01,Helado artesanal,36
+2025-06-01,Pan de masa madre,47
+2025-06-01,Vela aromática,7
+2025-06-02,Bufanda de lana,3
+2025-06-02,Café en grano 1 kg,13
+2025-06-02,Cuaderno A5,3
+2025-06-02,Helado artesanal,26
+2025-06-02,Pan de masa madre,34
+2025-06-02,Vela aromática,14
+2025-06-03,Café en grano 1 kg,11
+2025-06-03,Cuaderno A5,3
+2025-06-03,Helado artesanal,17
+2025-06-03,Pan de masa madre,26
+2025-06-03,Vela aromática,13
+2025-06-04,Bufanda de lana,1
+2025-06-04,Café en grano 1 kg,15
+2025-06-04,Cuaderno A5,12
+2025-06-04,Helado artesanal,19
+2025-06-04,Pan de masa madre,30
+2025-06-04,Vela aromática,7
+2025-06-05,Café en grano 1 kg,15
+2025-06-05,Cuaderno A5,3
+2025-06-05,Funda de móvil,2
+2025-06-05,Helado artesanal,37
+2025-06-05,Pan de masa madre,27
+2025-06-05,Vela aromática,6
+2025-06-06,Bufanda de lana,1
+2025-06-06,Café en grano 1 kg,19
+2025-06-06,Cuaderno A5,4
+2025-06-06,Helado artesanal,30
+2025-06-06,Pan de masa madre,37
+2025-06-06,Vela aromática,8
+2025-06-07,Café en grano 1 kg,17
+2025-06-07,Cuaderno A5,3
+2025-06-07,Funda de móvil,1
+2025-06-07,Helado artesanal,38
+2025-06-07,Pan de masa madre,49
+2025-06-07,Vela aromática,6
+2025-06-08,Café en grano 1 kg,23
+2025-06-08,Cuaderno A5,6
+2025-06-08,Helado artesanal,44
+2025-06-08,Pan de masa madre,47
+2025-06-08,Vela aromática,9
+2025-06-09,Café en grano 1 kg,15
+2025-06-09,Cuaderno A5,10
+2025-06-09,Helado artesanal,33
+2025-06-09,Pan de masa madre,27
+2025-06-09,Vela aromática,8
+2025-06-10,Bufanda de lana,1
+2025-06-10,Café en grano 1 kg,10
+2025-06-10,Cuaderno A5,5
+2025-06-10,Funda de móvil,1
+2025-06-10,Helado artesanal,48
+2025-06-10,Pan de masa madre,27
+2025-06-10,Vela aromática,7
+2025-06-11,Café en grano 1 kg,17
+2025-06-11,Cuaderno A5,8
+2025-06-11,Helado artesanal,27
+2025-06-11,Pan de masa madre,26
+2025-06-11,Vela aromática,6
+2025-06-12,Café en grano 1 kg,17
+2025-06-12,Cuaderno A5,1
+2025-06-12,Funda de móvil,2
+2025-06-12,Helado artesanal,24
+2025-06-12,Pan de masa madre,32
+2025-06-12,Vela aromática,13
+2025-06-13,Bufanda de lana,1
+2025-06-13,Café en grano 1 kg,8
+2025-06-13,Cuaderno A5,13
+2025-06-13,Funda de móvil,1
+2025-06-13,Helado artesanal,27
+2025-06-13,Pan de masa madre,34
+2025-06-13,Vela aromática,11
+2025-06-14,Café en grano 1 kg,14
+2025-06-14,Cuaderno A5,3
+2025-06-14,Helado artesanal,50
+2025-06-14,Pan de masa madre,52
+2025-06-14,Vela aromática,8
+2025-06-15,Bufanda de lana,1
+2025-06-15,Café en grano 1 kg,17
+2025-06-15,Cuaderno A5,3
+2025-06-15,Funda de móvil,1
+2025-06-15,Helado artesanal,41
+2025-06-15,Pan de masa madre,46
+2025-06-15,Vela aromática,11
+2025-06-16,Bufanda de lana,1
+2025-06-16,Café en grano 1 kg,14
+2025-06-16,Cuaderno A5,2
+2025-06-16,Helado artesanal,26
+2025-06-16,Pan de masa madre,31
+2025-06-16,Vela aromática,11
+2025-06-17,Café en grano 1 kg,18
+2025-06-17,Cuaderno A5,8
+2025-06-17,Funda de móvil,1
+2025-06-17,Helado artesanal,13
+2025-06-17,Pan de masa madre,34
+2025-06-17,Vela aromática,7
+2025-06-18,Café en grano 1 kg,14
+2025-06-18,Cuaderno A5,9
+2025-06-18,Helado artesanal,34
+2025-06-18,Pan de masa madre,19
+2025-06-18,Vela aromática,6
+2025-06-19,Bufanda de lana,1
+2025-06-19,Café en grano 1 kg,16
+2025-06-19,Cuaderno A5,6
+2025-06-19,Helado artesanal,31
+2025-06-19,Pan de masa madre,34
+2025-06-19,Vela aromática,8
+2025-06-20,Café en grano 1 kg,11
+2025-06-20,Cuaderno A5,8
+2025-06-20,Funda de móvil,1
+2025-06-20,Helado artesanal,37
+2025-06-20,Pan de masa madre,40
+2025-06-20,Vela aromática,11
+2025-06-21,Café en grano 1 kg,16
+2025-06-21,Cuaderno A5,6
+2025-06-21,Funda de móvil,1
+2025-06-21,Helado artesanal,38
+2025-06-21,Pan de masa madre,52
+2025-06-21,Vela aromática,9
+2025-06-22,Café en grano 1 kg,17
+2025-06-22,Cuaderno A5,4
+2025-06-22,Helado artesanal,47
+2025-06-22,Pan de masa madre,38
+2025-06-22,Vela aromática,13
+2025-06-23,Bufanda de lana,2
+2025-06-23,Café en grano 1 kg,12
+2025-06-23,Cuaderno A5,5
+2025-06-23,Funda de móvil,3
+2025-06-23,Helado artesanal,31
+2025-06-23,Pan de masa madre,29
+2025-06-23,Vela aromática,9
+2025-06-24,Café en grano 1 kg,13
+2025-06-24,Cuaderno A5,7
+2025-06-24,Helado artesanal,31
+2025-06-24,Pan de masa madre,27
+2025-06-24,Vela aromática,8
+2025-06-25,Café en grano 1 kg,19
+2025-06-25,Cuaderno A5,8
+2025-06-25,Funda de móvil,1
+2025-06-25,Helado artesanal,37
+2025-06-25,Pan de masa madre,27
+2025-06-25,Vela aromática,7
+2025-06-26,Bufanda de lana,1
+2025-06-26,Café en grano 1 kg,9
+2025-06-26,Cuaderno A5,7
+2025-06-26,Helado artesanal,21
+2025-06-26,Pan de masa madre,33
+2025-06-26,Vela aromática,3
+2025-06-27,Café en grano 1 kg,19
+2025-06-27,Cuaderno A5,11
+2025-06-27,Helado artesanal,41
+2025-06-27,Pan de masa madre,38
+2025-06-27,Vela aromática,9
+2025-06-28,Bufanda de lana,2
+2025-06-28,Café en grano 1 kg,13
+2025-06-28,Cuaderno A5,4
+2025-06-28,Helado artesanal,50
+2025-06-28,Pan de masa madre,44
+2025-06-28,Vela aromática,14
+2025-06-29,Café en grano 1 kg,21
+2025-06-29,Cuaderno A5,4
+2025-06-29,Helado artesanal,37
+2025-06-29,Pan de masa madre,45
+2025-06-29,Vela aromática,13
+2025-06-30,Café en grano 1 kg,15
+2025-06-30,Cuaderno A5,9
+2025-06-30,Helado artesanal,33
+2025-06-30,Pan de masa madre,26
+2025-06-30,Vela aromática,9
+2025-07-01,Bufanda de lana,1
+2025-07-01,Café en grano 1 kg,12
+2025-07-01,Cuaderno A5,8
+2025-07-01,Helado artesanal,18
+2025-07-01,Pan de masa madre,29
+2025-07-01,Vela aromática,10
+2025-07-02,Café en grano 1 kg,11
+2025-07-02,Cuaderno A5,4
+2025-07-02,Helado artesanal,25
+2025-07-02,Pan de masa madre,42
+2025-07-02,Vela aromática,10
+2025-07-03,Café en grano 1 kg,9
+2025-07-03,Cuaderno A5,4
+2025-07-03,Helado artesanal,34
+2025-07-03,Pan de masa madre,34
+2025-07-03,Vela aromática,14
+2025-07-04,Café en grano 1 kg,15
+2025-07-04,Cuaderno A5,9
+2025-07-04,Helado artesanal,21
+2025-07-04,Pan de masa madre,28
+2025-07-04,Vela aromática,8
+2025-07-05,Café en grano 1 kg,22
+2025-07-05,Cuaderno A5,5
+2025-07-05,Funda de móvil,1
+2025-07-05,Helado artesanal,39
+2025-07-05,Pan de masa madre,39
+2025-07-05,Vela aromática,8
+2025-07-06,Bufanda de lana,1
+2025-07-06,Café en grano 1 kg,18
+2025-07-06,Cuaderno A5,7
+2025-07-06,Funda de móvil,1
+2025-07-06,Helado artesanal,43
+2025-07-06,Pan de masa madre,42
+2025-07-06,Vela aromática,7
+2025-07-07,Café en grano 1 kg,13
+2025-07-07,Cuaderno A5,6
+2025-07-07,Funda de móvil,1
+2025-07-07,Helado artesanal,37
+2025-07-07,Pan de masa madre,32
+2025-07-07,Vela aromática,10
+2025-07-08,Bufanda de lana,1
+2025-07-08,Café en grano 1 kg,14
+2025-07-08,Cuaderno A5,10
+2025-07-08,Funda de móvil,2
+2025-07-08,Helado artesanal,42
+2025-07-08,Pan de masa madre,29
+2025-07-08,Vela aromática,7
+2025-07-09,Café en grano 1 kg,11
+2025-07-09,Cuaderno A5,10
+2025-07-09,Helado artesanal,42
+2025-07-09,Pan de masa madre,26
+2025-07-09,Vela aromática,10
+2025-07-10,Bufanda de lana,1
+2025-07-10,Café en grano 1 kg,9
+2025-07-10,Cuaderno A5,16
+2025-07-10,Helado artesanal,37
+2025-07-10,Pan de masa madre,31
+2025-07-10,Vela aromática,7
+2025-07-11,Bufanda de lana,1
+2025-07-11,Café en grano 1 kg,17
+2025-07-11,Cuaderno A5,10
+2025-07-11,Helado artesanal,34
+2025-07-11,Pan de masa madre,43
+2025-07-11,Vela aromática,10
+2025-07-12,Café en grano 1 kg,24
+2025-07-12,Cuaderno A5,12
+2025-07-12,Funda de móvil,2
+2025-07-12,Helado artesanal,44
+2025-07-12,Pan de masa madre,49
+2025-07-12,Vela aromática,12
+2025-07-13,Café en grano 1 kg,10
+2025-07-13,Cuaderno A5,6
+2025-07-13,Funda de móvil,1
+2025-07-13,Helado artesanal,39
+2025-07-13,Pan de masa madre,56
+2025-07-13,Vela aromática,15
+2025-07-14,Café en grano 1 kg,16
+2025-07-14,Cuaderno A5,5
+2025-07-14,Funda de móvil,1
+2025-07-14,Helado artesanal,29
+2025-07-14,Pan de masa madre,31
+2025-07-14,Vela aromática,10
+2025-07-15,Café en grano 1 kg,18
+2025-07-15,Cuaderno A5,11
+2025-07-15,Helado artesanal,35
+2025-07-15,Pan de masa madre,29
+2025-07-15,Vela aromática,9
+2025-07-16,Café en grano 1 kg,15
+2025-07-16,Cuaderno A5,11
+2025-07-16,Funda de móvil,1
+2025-07-16,Helado artesanal,25
+2025-07-16,Pan de masa madre,35
+2025-07-16,Vela aromática,11
+2025-07-17,Café en grano 1 kg,15
+2025-07-17,Cuaderno A5,7
+2025-07-17,Funda de móvil,1
+2025-07-17,Helado artesanal,36
+2025-07-17,Pan de masa madre,33
+2025-07-17,Vela aromática,6
+2025-07-18,Café en grano 1 kg,13
+2025-07-18,Cuaderno A5,12
+2025-07-18,Helado artesanal,30
+2025-07-18,Pan de masa madre,38
+2025-07-18,Vela aromática,5
+2025-07-19,Bufanda de lana,1
+2025-07-19,Café en grano 1 kg,13
+2025-07-19,Cuaderno A5,5
+2025-07-19,Helado artesanal,39
+2025-07-19,Pan de masa madre,36
+2025-07-19,Vela aromática,16
+2025-07-20,Café en grano 1 kg,17
+2025-07-20,Cuaderno A5,6
+2025-07-20,Helado artesanal,36
+2025-07-20,Pan de masa madre,44
+2025-07-20,Vela aromática,10
+2025-07-21,Café en grano 1 kg,6
+2025-07-21,Cuaderno A5,11
+2025-07-21,Helado artesanal,23
+2025-07-21,Pan de masa madre,26
+2025-07-21,Vela aromática,13
+2025-07-22,Café en grano 1 kg,15
+2025-07-22,Cuaderno A5,9
+2025-07-22,Funda de móvil,1
+2025-07-22,Helado artesanal,38
+2025-07-22,Pan de masa madre,34
+2025-07-22,Vela aromática,10
+2025-07-23,Café en grano 1 kg,16
+2025-07-23,Cuaderno A5,7
+2025-07-23,Helado artesanal,31
+2025-07-23,Pan de masa madre,20
+2025-07-23,Vela aromática,13
+2025-07-24,Café en grano 1 kg,16
+2025-07-24,Cuaderno A5,13
+2025-07-24,Helado artesanal,33
+2025-07-24,Pan de masa madre,34
+2025-07-24,Vela aromática,13
+2025-07-25,Bufanda de lana,1
+2025-07-25,Café en grano 1 kg,15
+2025-07-25,Cuaderno A5,10
+2025-07-25,Helado artesanal,27
+2025-07-25,Pan de masa madre,31
+2025-07-25,Vela aromática,9
+2025-07-26,Café en grano 1 kg,19
+2025-07-26,Cuaderno A5,6
+2025-07-26,Helado artesanal,44
+2025-07-26,Pan de masa madre,45
+2025-07-26,Vela aromática,14
+2025-07-27,Bufanda de lana,1
+2025-07-27,Café en grano 1 kg,15
+2025-07-27,Cuaderno A5,7
+2025-07-27,Helado artesanal,40
+2025-07-27,Pan de masa madre,42
+2025-07-27,Vela aromática,9
+2025-07-28,Café en grano 1 kg,19
+2025-07-28,Cuaderno A5,8
+2025-07-28,Helado artesanal,33
+2025-07-28,Pan de masa madre,29
+2025-07-28,Vela aromática,14
+2025-07-29,Bufanda de lana,1
+2025-07-29,Café en grano 1 kg,8
+2025-07-29,Cuaderno A5,9
+2025-07-29,Funda de móvil,1
+2025-07-29,Helado artesanal,36
+2025-07-29,Pan de masa madre,27
+2025-07-29,Vela aromática,7
+2025-07-30,Café en grano 1 kg,11
+2025-07-30,Cuaderno A5,9
+2025-07-30,Helado artesanal,36
+2025-07-30,Pan de masa madre,40
+2025-07-30,Vela aromática,7
+2025-07-31,Café en grano 1 kg,18
+2025-07-31,Cuaderno A5,9
+2025-07-31,Helado artesanal,31
+2025-07-31,Pan de masa madre,20
+2025-07-31,Vela aromática,10
+2025-08-01,Café en grano 1 kg,15
+2025-08-01,Cuaderno A5,8
+2025-08-01,Helado artesanal,30
+2025-08-01,Pan de masa madre,34
+2025-08-01,Vela aromática,8
+2025-08-02,Bufanda de lana,1
+2025-08-02,Café en grano 1 kg,17
+2025-08-02,Cuaderno A5,5
+2025-08-02,Helado artesanal,41
+2025-08-02,Pan de masa madre,40
+2025-08-02,Vela aromática,19
+2025-08-03,Bufanda de lana,1
+2025-08-03,Café en grano 1 kg,21
+2025-08-03,Cuaderno A5,5
+2025-08-03,Funda de móvil,2
+2025-08-03,Helado artesanal,49
+2025-08-03,Pan de masa madre,40
+2025-08-03,Vela aromática,10
+2025-08-04,Bufanda de lana,1
+2025-08-04,Café en grano 1 kg,13
+2025-08-04,Cuaderno A5,8
+2025-08-04,Helado artesanal,33
+2025-08-04,Pan de masa madre,41
+2025-08-04,Vela aromática,11
+2025-08-05,Café en grano 1 kg,9
+2025-08-05,Cuaderno A5,19
+2025-08-05,Helado artesanal,39
+2025-08-05,Pan de masa madre,41
+2025-08-05,Vela aromática,8
+2025-08-06,Café en grano 1 kg,13
+2025-08-06,Cuaderno A5,9
+2025-08-06,Helado artesanal,29
+2025-08-06,Pan de masa madre,35
+2025-08-06,Vela aromática,8
+2025-08-07,Café en grano 1 kg,14
+2025-08-07,Cuaderno A5,10
+2025-08-07,Funda de móvil,1
+2025-08-07,Helado artesanal,46
+2025-08-07,Pan de masa madre,32
+2025-08-07,Vela aromática,10
+2025-08-08,Café en grano 1 kg,9
+2025-08-08,Cuaderno A5,7
+2025-08-08,Funda de móvil,1
+2025-08-08,Helado artesanal,34
+2025-08-08,Pan de masa madre,21
+2025-08-08,Vela aromática,5
+2025-08-09,Bufanda de lana,1
+2025-08-09,Café en grano 1 kg,22
+2025-08-09,Cuaderno A5,4
+2025-08-09,Helado artesanal,44
+2025-08-09,Pan de masa madre,40
+2025-08-09,Vela aromática,14
+2025-08-10,Café en grano 1 kg,21
+2025-08-10,Cuaderno A5,8
+2025-08-10,Funda de móvil,1
+2025-08-10,Helado artesanal,46
+2025-08-10,Pan de masa madre,43
+2025-08-10,Vela aromática,6
+2025-08-11,Bufanda de lana,2
+2025-08-11,Café en grano 1 kg,9
+2025-08-11,Cuaderno A5,15
+2025-08-11,Funda de móvil,1
+2025-08-11,Helado artesanal,33
+2025-08-11,Pan de masa madre,25
+2025-08-11,Vela aromática,8
+2025-08-12,Bufanda de lana,2
+2025-08-12,Café en grano 1 kg,24
+2025-08-12,Cuaderno A5,9
+2025-08-12,Helado artesanal,35
+2025-08-12,Pan de masa madre,35
+2025-08-12,Vela aromática,12
+2025-08-13,Bufanda de lana,1
+2025-08-13,Café en grano 1 kg,20
+2025-08-13,Cuaderno A5,12
+2025-08-13,Helado artesanal,33
+2025-08-13,Pan de masa madre,30
+2025-08-13,Vela aromática,11
+2025-08-14,Café en grano 1 kg,15
+2025-08-14,Cuaderno A5,9
+2025-08-14,Helado artesanal,24
+2025-08-14,Pan de masa madre,25
+2025-08-14,Vela aromática,10
+2025-08-15,Bufanda de lana,1
+2025-08-15,Café en grano 1 kg,18
+2025-08-15,Cuaderno A5,10
+2025-08-15,Helado artesanal,43
+2025-08-15,Pan de masa madre,36
+2025-08-15,Vela aromática,19
+2025-08-16,Bufanda de lana,2
+2025-08-16,Café en grano 1 kg,27
+2025-08-16,Cuaderno A5,9
+2025-08-16,Helado artesanal,44
+2025-08-16,Pan de masa madre,52
+2025-08-16,Vela aromática,10
+2025-08-17,Bufanda de lana,1
+2025-08-17,Café en grano 1 kg,15
+2025-08-17,Cuaderno A5,6
+2025-08-17,Helado artesanal,44
+2025-08-17,Pan de masa madre,37
+2025-08-17,Vela aromática,7
+2025-08-18,Café en grano 1 kg,15
+2025-08-18,Cuaderno A5,4
+2025-08-18,Helado artesanal,30
+2025-08-18,Pan de masa madre,27
+2025-08-18,Vela aromática,9
+2025-08-19,Bufanda de lana,1
+2025-08-19,Café en grano 1 kg,14
+2025-08-19,Cuaderno A5,10
+2025-08-19,Funda de móvil,1
+2025-08-19,Helado artesanal,23
+2025-08-19,Pan de masa madre,33
+2025-08-19,Vela aromática,16
+2025-08-20,Bufanda de lana,1
+2025-08-20,Café en grano 1 kg,9
+2025-08-20,Cuaderno A5,14
+2025-08-20,Funda de móvil,1
+2025-08-20,Helado artesanal,28
+2025-08-20,Pan de masa madre,35
+2025-08-20,Vela aromática,9
+2025-08-21,Bufanda de lana,1
+2025-08-21,Café en grano 1 kg,11
+2025-08-21,Cuaderno A5,13
+2025-08-21,Helado artesanal,40
+2025-08-21,Pan de masa madre,41
+2025-08-21,Vela aromática,15
+2025-08-22,Bufanda de lana,1
+2025-08-22,Café en grano 1 kg,10
+2025-08-22,Cuaderno A5,10
+2025-08-22,Helado artesanal,22
+2025-08-22,Pan de masa madre,35
+2025-08-22,Vela aromática,10
+2025-08-23,Bufanda de lana,1
+2025-08-23,Café en grano 1 kg,19
+2025-08-23,Cuaderno A5,12
+2025-08-23,Funda de móvil,1
+2025-08-23,Helado artesanal,37
+2025-08-23,Pan de masa madre,35
+2025-08-23,Vela aromática,8
+2025-08-24,Bufanda de lana,2
+2025-08-24,Café en grano 1 kg,13
+2025-08-24,Cuaderno A5,6
+2025-08-24,Funda de móvil,1
+2025-08-24,Helado artesanal,47
+2025-08-24,Pan de masa madre,43
+2025-08-24,Vela aromática,14
+2025-08-25,Bufanda de lana,1
+2025-08-25,Café en grano 1 kg,13
+2025-08-25,Cuaderno A5,9
+2025-08-25,Funda de móvil,1
+2025-08-25,Helado artesanal,31
+2025-08-25,Pan de masa madre,37
+2025-08-25,Vela aromática,15
+2025-08-26,Bufanda de lana,2
+2025-08-26,Café en grano 1 kg,21
+2025-08-26,Cuaderno A5,19
+2025-08-26,Helado artesanal,28
+2025-08-26,Pan de masa madre,29
+2025-08-26,Vela aromática,8
+2025-08-27,Café en grano 1 kg,19
+2025-08-27,Cuaderno A5,10
+2025-08-27,Helado artesanal,22
+2025-08-27,Pan de masa madre,27
+2025-08-27,Vela aromática,14
+2025-08-28,Café en grano 1 kg,16
+2025-08-28,Cuaderno A5,16
+2025-08-28,Helado artesanal,26
+2025-08-28,Pan de masa madre,27
+2025-08-28,Vela aromática,8
+2025-08-29,Café en grano 1 kg,17
+2025-08-29,Cuaderno A5,14
+2025-08-29,Helado artesanal,32
+2025-08-29,Pan de masa madre,23
+2025-08-29,Vela aromática,14
+2025-08-30,Bufanda de lana,1
+2025-08-30,Café en grano 1 kg,22
+2025-08-30,Cuaderno A5,8
+2025-08-30,Helado artesanal,31
+2025-08-30,Pan de masa madre,44
+2025-08-30,Vela aromática,14
+2025-08-31,Bufanda de lana,3
+2025-08-31,Café en grano 1 kg,18
+2025-08-31,Cuaderno A5,9
+2025-08-31,Helado artesanal,37
+2025-08-31,Pan de masa madre,43
+2025-08-31,Vela aromática,16
+2025-09-01,Café en grano 1 kg,13
+2025-09-01,Cuaderno A5,11
+2025-09-01,Helado artesanal,20
+2025-09-01,Pan de masa madre,31
+2025-09-01,Vela aromática,11
+2025-09-02,Bufanda de lana,3
+2025-09-02,Café en grano 1 kg,15
+2025-09-02,Cuaderno A5,9
+2025-09-02,Funda de móvil,2
+2025-09-02,Helado artesanal,30
+2025-09-02,Pan de masa madre,29
+2025-09-02,Vela aromática,13
+2025-09-03,Bufanda de lana,3
+2025-09-03,Café en grano 1 kg,26
+2025-09-03,Cuaderno A5,12
+2025-09-03,Funda de móvil,1
+2025-09-03,Helado artesanal,31
+2025-09-03,Pan de masa madre,24
+2025-09-03,Vela aromática,11
+2025-09-04,Bufanda de lana,1
+2025-09-04,Café en grano 1 kg,12
+2025-09-04,Cuaderno A5,20
+2025-09-04,Funda de móvil,1
+2025-09-04,Helado artesanal,25
+2025-09-04,Pan de masa madre,24
+2025-09-04,Vela aromática,11
+2025-09-05,Bufanda de lana,1
+2025-09-05,Café en grano 1 kg,15
+2025-09-05,Cuaderno A5,8
+2025-09-05,Funda de móvil,2
+2025-09-05,Helado artesanal,24
+2025-09-05,Pan de masa madre,33
+2025-09-05,Vela aromática,13
+2025-09-06,Bufanda de lana,3
+2025-09-06,Café en grano 1 kg,15
+2025-09-06,Cuaderno A5,10
+2025-09-06,Helado artesanal,29
+2025-09-06,Pan de masa madre,36
+2025-09-06,Vela aromática,15
+2025-09-07,Bufanda de lana,1
+2025-09-07,Café en grano 1 kg,18
+2025-09-07,Cuaderno A5,13
+2025-09-07,Helado artesanal,31
+2025-09-07,Pan de masa madre,38
+2025-09-07,Vela aromática,21
+2025-09-08,Bufanda de lana,1
+2025-09-08,Café en grano 1 kg,16
+2025-09-08,Cuaderno A5,12
+2025-09-08,Helado artesanal,27
+2025-09-08,Pan de masa madre,32
+2025-09-08,Vela aromática,9
+2025-09-09,Bufanda de lana,2
+2025-09-09,Café en grano 1 kg,18
+2025-09-09,Cuaderno A5,11
+2025-09-09,Helado artesanal,41
+2025-09-09,Pan de masa madre,37
+2025-09-09,Vela aromática,15
+2025-09-10,Bufanda de lana,4
+2025-09-10,Café en grano 1 kg,16
+2025-09-10,Cuaderno A5,7
+2025-09-10,Helado artesanal,25
+2025-09-10,Pan de masa madre,27
+2025-09-10,Vela aromática,15
+2025-09-11,Café en grano 1 kg,5
+2025-09-11,Cuaderno A5,12
+2025-09-11,Helado artesanal,33
+2025-09-11,Pan de masa madre,32
+2025-09-11,Vela aromática,13
+2025-09-12,Bufanda de lana,4
+2025-09-12,Café en grano 1 kg,15
+2025-09-12,Cuaderno A5,4
+2025-09-12,Helado artesanal,25
+2025-09-12,Pan de masa madre,26
+2025-09-12,Vela aromática,15
+2025-09-13,Bufanda de lana,1
+2025-09-13,Café en grano 1 kg,21
+2025-09-13,Cuaderno A5,6
+2025-09-13,Funda de móvil,1
+2025-09-13,Helado artesanal,32
+2025-09-13,Pan de masa madre,41
+2025-09-13,Vela aromática,14
+2025-09-14,Bufanda de lana,2
+2025-09-14,Café en grano 1 kg,11
+2025-09-14,Cuaderno A5,3
+2025-09-14,Funda de móvil,1
+2025-09-14,Helado artesanal,26
+2025-09-14,Pan de masa madre,44
+2025-09-14,Vela aromática,15
+2025-09-15,Bufanda de lana,4
+2025-09-15,Café en grano 1 kg,13
+2025-09-15,Cuaderno A5,8
+2025-09-15,Helado artesanal,23
+2025-09-15,Pan de masa madre,34
+2025-09-15,Vela aromática,13
+2025-09-16,Bufanda de lana,3
+2025-09-16,Café en grano 1 kg,14
+2025-09-16,Cuaderno A5,14
+2025-09-16,Helado artesanal,29
+2025-09-16,Pan de masa madre,25
+2025-09-16,Vela aromática,14
+2025-09-17,Bufanda de lana,2
+2025-09-17,Café en grano 1 kg,17
+2025-09-17,Cuaderno A5,5
+2025-09-17,Funda de móvil,1
+2025-09-17,Helado artesanal,30
+2025-09-17,Pan de masa madre,33
+2025-09-17,Vela aromática,10
+2025-09-18,Bufanda de lana,5
+2025-09-18,Café en grano 1 kg,9
+2025-09-18,Cuaderno A5,13
+2025-09-18,Funda de móvil,1
+2025-09-18,Helado artesanal,24
+2025-09-18,Pan de masa madre,29
+2025-09-18,Vela aromática,13
+2025-09-19,Café en grano 1 kg,14
+2025-09-19,Cuaderno A5,14
+2025-09-19,Helado artesanal,30
+2025-09-19,Pan de masa madre,35
+2025-09-19,Vela aromática,13
+2025-09-20,Bufanda de lana,2
+2025-09-20,Café en grano 1 kg,18
+2025-09-20,Cuaderno A5,4
+2025-09-20,Helado artesanal,42
+2025-09-20,Pan de masa madre,44
+2025-09-20,Vela aromática,9
+2025-09-21,Bufanda de lana,4
+2025-09-21,Café en grano 1 kg,20
+2025-09-21,Cuaderno A5,10
+2025-09-21,Helado artesanal,29
+2025-09-21,Pan de masa madre,49
+2025-09-21,Vela aromática,15
+2025-09-22,Bufanda de lana,2
+2025-09-22,Café en grano 1 kg,17
+2025-09-22,Cuaderno A5,10
+2025-09-22,Helado artesanal,27
+2025-09-22,Pan de masa madre,27
+2025-09-22,Vela aromática,21
+2025-09-23,Bufanda de lana,2
+2025-09-23,Café en grano 1 kg,15
+2025-09-23,Cuaderno A5,5
+2025-09-23,Funda de móvil,1
+2025-09-23,Helado artesanal,37
+2025-09-23,Pan de masa madre,31
+2025-09-23,Vela aromática,10
+2025-09-24,Bufanda de lana,1
+2025-09-24,Café en grano 1 kg,12
+2025-09-24,Cuaderno A5,9
+2025-09-24,Helado artesanal,24
+2025-09-24,Pan de masa madre,31
+2025-09-24,Vela aromática,19
+2025-09-25,Bufanda de lana,4
+2025-09-25,Café en grano 1 kg,16
+2025-09-25,Cuaderno A5,17
+2025-09-25,Helado artesanal,20
+2025-09-25,Pan de masa madre,44
+2025-09-25,Vela aromática,21
+2025-09-26,Bufanda de lana,3
+2025-09-26,Café en grano 1 kg,16
+2025-09-26,Cuaderno A5,13
+2025-09-26,Funda de móvil,1
+2025-09-26,Helado artesanal,25
+2025-09-26,Pan de masa madre,32
+2025-09-26,Vela aromática,13
+2025-09-27,Bufanda de lana,2
+2025-09-27,Café en grano 1 kg,16
+2025-09-27,Cuaderno A5,4
+2025-09-27,Helado artesanal,28
+2025-09-27,Pan de masa madre,47
+2025-09-27,Vela aromática,17
+2025-09-28,Bufanda de lana,5
+2025-09-28,Café en grano 1 kg,12
+2025-09-28,Cuaderno A5,9
+2025-09-28,Helado artesanal,36
+2025-09-28,Pan de masa madre,39
+2025-09-28,Vela aromática,16
+2025-09-29,Bufanda de lana,4
+2025-09-29,Café en grano 1 kg,21
+2025-09-29,Cuaderno A5,10
+2025-09-29,Funda de móvil,1
+2025-09-29,Helado artesanal,21
+2025-09-29,Pan de masa madre,48
+2025-09-29,Vela aromática,11
+2025-09-30,Bufanda de lana,3
+2025-09-30,Café en grano 1 kg,16
+2025-09-30,Cuaderno A5,14
+2025-09-30,Funda de móvil,1
+2025-09-30,Helado artesanal,18
+2025-09-30,Pan de masa madre,28
+2025-09-30,Vela aromática,10
+2025-10-01,Bufanda de lana,2
+2025-10-01,Café en grano 1 kg,15
+2025-10-01,Cuaderno A5,12
+2025-10-01,Helado artesanal,30
+2025-10-01,Pan de masa madre,39
+2025-10-01,Vela aromática,12
+2025-10-02,Bufanda de lana,2
+2025-10-02,Café en grano 1 kg,20
+2025-10-02,Cuaderno A5,14
+2025-10-02,Helado artesanal,16
+2025-10-02,Pan de masa madre,31
+2025-10-02,Vela aromática,21
+2025-10-03,Bufanda de lana,2
+2025-10-03,Café en grano 1 kg,18
+2025-10-03,Cuaderno A5,8
+2025-10-03,Helado artesanal,28
+2025-10-03,Pan de masa madre,31
+2025-10-03,Vela aromática,9
+2025-10-04,Bufanda de lana,1
+2025-10-04,Café en grano 1 kg,20
+2025-10-04,Cuaderno A5,6
+2025-10-04,Helado artesanal,32
+2025-10-04,Pan de masa madre,55
+2025-10-04,Vela aromática,20
+2025-10-05,Bufanda de lana,3
+2025-10-05,Café en grano 1 kg,24
+2025-10-05,Cuaderno A5,9
+2025-10-05,Helado artesanal,35
+2025-10-05,Pan de masa madre,52
+2025-10-05,Vela aromática,12
+2025-10-06,Bufanda de lana,3
+2025-10-06,Café en grano 1 kg,15
+2025-10-06,Cuaderno A5,14
+2025-10-06,Helado artesanal,23
+2025-10-06,Pan de masa madre,30
+2025-10-06,Vela aromática,15
+2025-10-07,Bufanda de lana,2
+2025-10-07,Café en grano 1 kg,14
+2025-10-07,Cuaderno A5,9
+2025-10-07,Helado artesanal,10
+2025-10-07,Pan de masa madre,35
+2025-10-07,Vela aromática,14
+2025-10-08,Bufanda de lana,3
+2025-10-08,Café en grano 1 kg,10
+2025-10-08,Cuaderno A5,4
+2025-10-08,Funda de móvil,1
+2025-10-08,Helado artesanal,16
+2025-10-08,Pan de masa madre,38
+2025-10-08,Vela aromática,20
+2025-10-09,Bufanda de lana,5
+2025-10-09,Café en grano 1 kg,20
+2025-10-09,Cuaderno A5,8
+2025-10-09,Helado artesanal,14
+2025-10-09,Pan de masa madre,28
+2025-10-09,Vela aromática,10
+2025-10-10,Bufanda de lana,6
+2025-10-10,Café en grano 1 kg,14
+2025-10-10,Cuaderno A5,16
+2025-10-10,Helado artesanal,21
+2025-10-10,Pan de masa madre,33
+2025-10-10,Vela aromática,18
+2025-10-11,Bufanda de lana,4
+2025-10-11,Café en grano 1 kg,19
+2025-10-11,Cuaderno A5,5
+2025-10-11,Helado artesanal,17
+2025-10-11,Pan de masa madre,43
+2025-10-11,Vela aromática,24
+2025-10-12,Bufanda de lana,2
+2025-10-12,Café en grano 1 kg,26
+2025-10-12,Cuaderno A5,8
+2025-10-12,Helado artesanal,32
+2025-10-12,Pan de masa madre,43
+2025-10-12,Vela aromática,26
+2025-10-13,Bufanda de lana,1
+2025-10-13,Café en grano 1 kg,17
+2025-10-13,Cuaderno A5,10
+2025-10-13,Funda de móvil,1
+2025-10-13,Helado artesanal,12
+2025-10-13,Pan de masa madre,33
+2025-10-13,Vela aromática,16
+2025-10-14,Bufanda de lana,3
+2025-10-14,Café en grano 1 kg,17
+2025-10-14,Cuaderno A5,13
+2025-10-14,Helado artesanal,18
+2025-10-14,Pan de masa madre,25
+2025-10-14,Vela aromática,18
+2025-10-15,Bufanda de lana,3
+2025-10-15,Café en grano 1 kg,15
+2025-10-15,Cuaderno A5,14
+2025-10-15,Funda de móvil,1
+2025-10-15,Helado artesanal,27
+2025-10-15,Pan de masa madre,42
+2025-10-15,Vela aromática,15
+2025-10-16,Bufanda de lana,2
+2025-10-16,Café en grano 1 kg,17
+2025-10-16,Cuaderno A5,10
+2025-10-16,Helado artesanal,12
+2025-10-16,Pan de masa madre,27
+2025-10-16,Vela aromática,12
+2025-10-17,Bufanda de lana,2
+2025-10-17,Café en grano 1 kg,16
+2025-10-17,Cuaderno A5,14
+2025-10-17,Helado artesanal,17
+2025-10-17,Pan de masa madre,36
+2025-10-17,Vela aromática,10
+2025-10-18,Bufanda de lana,2
+2025-10-18,Café en grano 1 kg,23
+2025-10-18,Cuaderno A5,5
+2025-10-18,Helado artesanal,25
+2025-10-18,Pan de masa madre,45
+2025-10-18,Vela aromática,18
+2025-10-19,Bufanda de lana,3
+2025-10-19,Café en grano 1 kg,15
+2025-10-19,Cuaderno A5,4
+2025-10-19,Funda de móvil,1
+2025-10-19,Helado artesanal,23
+2025-10-19,Pan de masa madre,53
+2025-10-19,Vela aromática,19
+2025-10-20,Bufanda de lana,2
+2025-10-20,Café en grano 1 kg,13
+2025-10-20,Cuaderno A5,11
+2025-10-20,Funda de móvil,1
+2025-10-20,Helado artesanal,26
+2025-10-20,Pan de masa madre,30
+2025-10-20,Vela aromática,27
+2025-10-21,Bufanda de lana,3
+2025-10-21,Café en grano 1 kg,13
+2025-10-21,Cuaderno A5,12
+2025-10-21,Funda de móvil,1
+2025-10-21,Helado artesanal,19
+2025-10-21,Pan de masa madre,32
+2025-10-21,Vela aromática,17
+2025-10-22,Bufanda de lana,4
+2025-10-22,Café en grano 1 kg,13
+2025-10-22,Cuaderno A5,7
+2025-10-22,Funda de móvil,2
+2025-10-22,Helado artesanal,18
+2025-10-22,Pan de masa madre,38
+2025-10-22,Vela aromática,21
+2025-10-23,Bufanda de lana,3
+2025-10-23,Café en grano 1 kg,25
+2025-10-23,Cuaderno A5,14
+2025-10-23,Funda de móvil,1
+2025-10-23,Helado artesanal,18
+2025-10-23,Pan de masa madre,41
+2025-10-23,Vela aromática,9
+2025-10-24,Bufanda de lana,7
+2025-10-24,Café en grano 1 kg,22
+2025-10-24,Cuaderno A5,13
+2025-10-24,Helado artesanal,25
+2025-10-24,Pan de masa madre,32
+2025-10-24,Vela aromática,18
+2025-10-25,Bufanda de lana,2
+2025-10-25,Café en grano 1 kg,25
+2025-10-25,Cuaderno A5,7
+2025-10-25,Helado artesanal,19
+2025-10-25,Pan de masa madre,56
+2025-10-25,Vela aromática,17
+2025-10-26,Bufanda de lana,8
+2025-10-26,Café en grano 1 kg,19
+2025-10-26,Cuaderno A5,11
+2025-10-26,Helado artesanal,14
+2025-10-26,Pan de masa madre,43
+2025-10-26,Vela aromática,22
+2025-10-27,Bufanda de lana,8
+2025-10-27,Café en grano 1 kg,19
+2025-10-27,Cuaderno A5,16
+2025-10-27,Helado artesanal,13
+2025-10-27,Pan de masa madre,39
+2025-10-27,Vela aromática,10
+2025-10-28,Bufanda de lana,4
+2025-10-28,Café en grano 1 kg,15
+2025-10-28,Cuaderno A5,10
+2025-10-28,Funda de móvil,1
+2025-10-28,Helado artesanal,18
+2025-10-28,Pan de masa madre,38
+2025-10-28,Vela aromática,15
+2025-10-29,Bufanda de lana,5
+2025-10-29,Café en grano 1 kg,19
+2025-10-29,Cuaderno A5,11
+2025-10-29,Funda de móvil,1
+2025-10-29,Helado artesanal,16
+2025-10-29,Pan de masa madre,45
+2025-10-29,Vela aromática,10
+2025-10-30,Bufanda de lana,4
+2025-10-30,Café en grano 1 kg,22
+2025-10-30,Cuaderno A5,6
+2025-10-30,Funda de móvil,1
+2025-10-30,Helado artesanal,7
+2025-10-30,Pan de masa madre,38
+2025-10-30,Vela aromática,12
+2025-10-31,Bufanda de lana,6
+2025-10-31,Café en grano 1 kg,12
+2025-10-31,Cuaderno A5,11
+2025-10-31,Funda de móvil,1
+2025-10-31,Helado artesanal,16
+2025-10-31,Pan de masa madre,37
+2025-10-31,Vela aromática,15
+2025-11-01,Bufanda de lana,6
+2025-11-01,Café en grano 1 kg,35
+2025-11-01,Cuaderno A5,4
+2025-11-01,Funda de móvil,1
+2025-11-01,Helado artesanal,21
+2025-11-01,Pan de masa madre,45
+2025-11-01,Vela aromática,16
+2025-11-02,Bufanda de lana,4
+2025-11-02,Café en grano 1 kg,17
+2025-11-02,Cuaderno A5,8
+2025-11-02,Funda de móvil,1
+2025-11-02,Helado artesanal,24
+2025-11-02,Pan de masa madre,50
+2025-11-02,Vela aromática,24
+2025-11-03,Bufanda de lana,4
+2025-11-03,Café en grano 1 kg,22
+2025-11-03,Cuaderno A5,6
+2025-11-03,Helado artesanal,15
+2025-11-03,Pan de masa madre,28
+2025-11-03,Vela aromática,13
+2025-11-04,Bufanda de lana,5
+2025-11-04,Café en grano 1 kg,17
+2025-11-04,Cuaderno A5,11
+2025-11-04,Helado artesanal,12
+2025-11-04,Pan de masa madre,34
+2025-11-04,Vela aromática,13
+2025-11-05,Bufanda de lana,2
+2025-11-05,Café en grano 1 kg,15
+2025-11-05,Cuaderno A5,14
+2025-11-05,Helado artesanal,10
+2025-11-05,Pan de masa madre,42
+2025-11-05,Vela aromática,18
+2025-11-06,Bufanda de lana,4
+2025-11-06,Café en grano 1 kg,12
+2025-11-06,Cuaderno A5,6
+2025-11-06,Helado artesanal,15
+2025-11-06,Pan de masa madre,38
+2025-11-06,Vela aromática,20
+2025-11-07,Bufanda de lana,2
+2025-11-07,Café en grano 1 kg,20
+2025-11-07,Cuaderno A5,6
+2025-11-07,Helado artesanal,14
+2025-11-07,Pan de masa madre,31
+2025-11-07,Vela aromática,13
+2025-11-08,Bufanda de lana,2
+2025-11-08,Café en grano 1 kg,19
+2025-11-08,Cuaderno A5,3
+2025-11-08,Helado artesanal,20
+2025-11-08,Pan de masa madre,41
+2025-11-08,Vela aromática,23
+2025-11-09,Bufanda de lana,7
+2025-11-09,Café en grano 1 kg,21
+2025-11-09,Cuaderno A5,12
+2025-11-09,Funda de móvil,1
+2025-11-09,Helado artesanal,19
+2025-11-09,Pan de masa madre,41
+2025-11-09,Vela aromática,19
+2025-11-10,Bufanda de lana,7
+2025-11-10,Café en grano 1 kg,14
+2025-11-10,Cuaderno A5,10
+2025-11-10,Helado artesanal,6
+2025-11-10,Pan de masa madre,41
+2025-11-10,Vela aromática,11
+2025-11-11,Bufanda de lana,4
+2025-11-11,Café en grano 1 kg,12
+2025-11-11,Cuaderno A5,11
+2025-11-11,Funda de móvil,1
+2025-11-11,Helado artesanal,12
+2025-11-11,Pan de masa madre,30
+2025-11-11,Vela aromática,20
+2025-11-12,Bufanda de lana,1
+2025-11-12,Café en grano 1 kg,19
+2025-11-12,Cuaderno A5,10
+2025-11-12,Funda de móvil,1
+2025-11-12,Helado artesanal,12
+2025-11-12,Pan de masa madre,25
+2025-11-12,Vela aromática,10
+2025-11-13,Bufanda de lana,8
+2025-11-13,Café en grano 1 kg,12
+2025-11-13,Cuaderno A5,8
+2025-11-13,Helado artesanal,9
+2025-11-13,Pan de masa madre,35
+2025-11-13,Vela aromática,10
+2025-11-14,Bufanda de lana,6
+2025-11-14,Café en grano 1 kg,15
+2025-11-14,Cuaderno A5,9
+2025-11-14,Helado artesanal,6
+2025-11-14,Pan de masa madre,36
+2025-11-14,Vela aromática,21
+2025-11-15,Bufanda de lana,5
+2025-11-15,Café en grano 1 kg,17
+2025-11-15,Cuaderno A5,5
+2025-11-15,Funda de móvil,1
+2025-11-15,Helado artesanal,26
+2025-11-15,Pan de masa madre,46
+2025-11-15,Vela aromática,20
+2025-11-16,Bufanda de lana,7
+2025-11-16,Café en grano 1 kg,21
+2025-11-16,Cuaderno A5,9
+2025-11-16,Funda de móvil,1
+2025-11-16,Helado artesanal,11
+2025-11-16,Pan de masa madre,44
+2025-11-16,Vela aromática,26
+2025-11-17,Bufanda de lana,3
+2025-11-17,Café en grano 1 kg,13
+2025-11-17,Cuaderno A5,9
+2025-11-17,Funda de móvil,1
+2025-11-17,Helado artesanal,7
+2025-11-17,Pan de masa madre,39
+2025-11-17,Vela aromática,18
+2025-11-18,Bufanda de lana,7
+2025-11-18,Café en grano 1 kg,22
+2025-11-18,Cuaderno A5,9
+2025-11-18,Funda de móvil,1
+2025-11-18,Helado artesanal,10
+2025-11-18,Pan de masa madre,39
+2025-11-18,Vela aromática,11
+2025-11-19,Bufanda de lana,3
+2025-11-19,Café en grano 1 kg,22
+2025-11-19,Cuaderno A5,15
+2025-11-19,Funda de móvil,2
+2025-11-19,Helado artesanal,17
+2025-11-19,Pan de masa madre,33
+2025-11-19,Vela aromática,20
+2025-11-20,Bufanda de lana,5
+2025-11-20,Café en grano 1 kg,19
+2025-11-20,Cuaderno A5,11
+2025-11-20,Funda de móvil,1
+2025-11-20,Helado artesanal,14
+2025-11-20,Pan de masa madre,36
+2025-11-20,Vela aromática,26
+2025-11-21,Bufanda de lana,10
+2025-11-21,Café en grano 1 kg,11
+2025-11-21,Cuaderno A5,6
+2025-11-21,Helado artesanal,14
+2025-11-21,Pan de masa madre,33
+2025-11-21,Vela aromática,22
+2025-11-22,Bufanda de lana,7
+2025-11-22,Café en grano 1 kg,20
+2025-11-22,Cuaderno A5,10
+2025-11-22,Helado artesanal,10
+2025-11-22,Pan de masa madre,42
+2025-11-22,Vela aromática,19
+2025-11-23,Bufanda de lana,5
+2025-11-23,Café en grano 1 kg,16
+2025-11-23,Cuaderno A5,5
+2025-11-23,Funda de móvil,1
+2025-11-23,Helado artesanal,15
+2025-11-23,Pan de masa madre,43
+2025-11-23,Vela aromática,19
+2025-11-24,Bufanda de lana,2
+2025-11-24,Café en grano 1 kg,23
+2025-11-24,Cuaderno A5,8
+2025-11-24,Helado artesanal,15
+2025-11-24,Pan de masa madre,33
+2025-11-24,Vela aromática,22
+2025-11-25,Bufanda de lana,4
+2025-11-25,Café en grano 1 kg,20
+2025-11-25,Cuaderno A5,7
+2025-11-25,Funda de móvil,1
+2025-11-25,Helado artesanal,10
+2025-11-25,Pan de masa madre,40
+2025-11-25,Vela aromática,22
+2025-11-26,Bufanda de lana,9
+2025-11-26,Café en grano 1 kg,19
+2025-11-26,Cuaderno A5,7
+2025-11-26,Funda de móvil,1
+2025-11-26,Helado artesanal,12
+2025-11-26,Pan de masa madre,28
+2025-11-26,Vela aromática,19
+2025-11-27,Bufanda de lana,8
+2025-11-27,Café en grano 1 kg,14
+2025-11-27,Cuaderno A5,14
+2025-11-27,Helado artesanal,12
+2025-11-27,Pan de masa madre,34
+2025-11-27,Vela aromática,19
+2025-11-28,Bufanda de lana,8
+2025-11-28,Café en grano 1 kg,11
+2025-11-28,Cuaderno A5,10
+2025-11-28,Funda de móvil,1
+2025-11-28,Helado artesanal,11
+2025-11-28,Pan de masa madre,41
+2025-11-28,Vela aromática,14
+2025-11-29,Bufanda de lana,8
+2025-11-29,Café en grano 1 kg,23
+2025-11-29,Cuaderno A5,5
+2025-11-29,Helado artesanal,9
+2025-11-29,Pan de masa madre,61
+2025-11-29,Vela aromática,13
+2025-11-30,Bufanda de lana,7
+2025-11-30,Café en grano 1 kg,17
+2025-11-30,Cuaderno A5,7
+2025-11-30,Helado artesanal,22
+2025-11-30,Pan de masa madre,61
+2025-11-30,Vela aromática,23
+2025-12-01,Bufanda de lana,9
+2025-12-01,Café en grano 1 kg,20
+2025-12-01,Cuaderno A5,12
+2025-12-01,Funda de móvil,1
+2025-12-01,Helado artesanal,6
+2025-12-01,Pan de masa madre,33
+2025-12-01,Vela aromática,16
+2025-12-02,Bufanda de lana,2
+2025-12-02,Café en grano 1 kg,25
+2025-12-02,Cuaderno A5,9
+2025-12-02,Funda de móvil,2
+2025-12-02,Helado artesanal,12
+2025-12-02,Pan de masa madre,39
+2025-12-02,Vela aromática,24
+2025-12-03,Bufanda de lana,11
+2025-12-03,Café en grano 1 kg,22
+2025-12-03,Cuaderno A5,9
+2025-12-03,Helado artesanal,10
+2025-12-03,Pan de masa madre,40
+2025-12-03,Vela aromática,17
+2025-12-04,Bufanda de lana,4
+2025-12-04,Café en grano 1 kg,22
+2025-12-04,Cuaderno A5,8
+2025-12-04,Helado artesanal,9
+2025-12-04,Pan de masa madre,42
+2025-12-04,Vela aromática,17
+2025-12-05,Bufanda de lana,5
+2025-12-05,Café en grano 1 kg,19
+2025-12-05,Cuaderno A5,7
+2025-12-05,Helado artesanal,7
+2025-12-05,Pan de masa madre,48
+2025-12-05,Vela aromática,17
+2025-12-06,Bufanda de lana,6
+2025-12-06,Café en grano 1 kg,24
+2025-12-06,Cuaderno A5,3
+2025-12-06,Helado artesanal,9
+2025-12-06,Pan de masa madre,39
+2025-12-06,Vela aromática,24
+2025-12-07,Bufanda de lana,13
+2025-12-07,Café en grano 1 kg,15
+2025-12-07,Cuaderno A5,2
+2025-12-07,Helado artesanal,12
+2025-12-07,Pan de masa madre,56
+2025-12-07,Vela aromática,19
+2025-12-08,Bufanda de lana,7
+2025-12-08,Café en grano 1 kg,15
+2025-12-08,Cuaderno A5,4
+2025-12-08,Helado artesanal,10
+2025-12-08,Pan de masa madre,51
+2025-12-08,Vela aromática,9
+2025-12-09,Bufanda de lana,10
+2025-12-09,Café en grano 1 kg,13
+2025-12-09,Cuaderno A5,8
+2025-12-09,Funda de móvil,1
+2025-12-09,Helado artesanal,5
+2025-12-09,Pan de masa madre,42
+2025-12-09,Vela aromática,16
+2025-12-10,Bufanda de lana,11
+2025-12-10,Café en grano 1 kg,20
+2025-12-10,Cuaderno A5,5
+2025-12-10,Helado artesanal,6
+2025-12-10,Pan de masa madre,37
+2025-12-10,Vela aromática,18
+2025-12-11,Bufanda de lana,6
+2025-12-11,Café en grano 1 kg,15
+2025-12-11,Cuaderno A5,6
+2025-12-11,Helado artesanal,6
+2025-12-11,Pan de masa madre,41
+2025-12-11,Vela aromática,18
+2025-12-12,Bufanda de lana,3
+2025-12-12,Café en grano 1 kg,17
+2025-12-12,Cuaderno A5,6
+2025-12-12,Helado artesanal,5
+2025-12-12,Pan de masa madre,47
+2025-12-12,Vela aromática,18
+2025-12-13,Bufanda de lana,11
+2025-12-13,Café en grano 1 kg,19
+2025-12-13,Cuaderno A5,4
+2025-12-13,Helado artesanal,6
+2025-12-13,Pan de masa madre,41
+2025-12-13,Vela aromática,19
+2025-12-14,Bufanda de lana,7
+2025-12-14,Café en grano 1 kg,21
+2025-12-14,Cuaderno A5,4
+2025-12-14,Funda de móvil,1
+2025-12-14,Helado artesanal,9
+2025-12-14,Pan de masa madre,42
+2025-12-14,Vela aromática,19
+2025-12-15,Bufanda de lana,4
+2025-12-15,Café en grano 1 kg,14
+2025-12-15,Cuaderno A5,4
+2025-12-15,Helado artesanal,8
+2025-12-15,Pan de masa madre,39
+2025-12-15,Vela aromática,13
+2025-12-16,Bufanda de lana,1
+2025-12-16,Café en grano 1 kg,17
+2025-12-16,Cuaderno A5,4
+2025-12-16,Funda de móvil,1
+2025-12-16,Helado artesanal,6
+2025-12-16,Pan de masa madre,27
+2025-12-16,Vela aromática,10
+2025-12-17,Bufanda de lana,6
+2025-12-17,Café en grano 1 kg,20
+2025-12-17,Cuaderno A5,3
+2025-12-17,Funda de móvil,1
+2025-12-17,Helado artesanal,6
+2025-12-17,Pan de masa madre,42
+2025-12-17,Vela aromática,19
+2025-12-18,Bufanda de lana,5
+2025-12-18,Café en grano 1 kg,19
+2025-12-18,Cuaderno A5,11
+2025-12-18,Funda de móvil,3
+2025-12-18,Helado artesanal,2
+2025-12-18,Pan de masa madre,36
+2025-12-18,Vela aromática,15
+2025-12-19,Bufanda de lana,8
+2025-12-19,Café en grano 1 kg,16
+2025-12-19,Cuaderno A5,11
+2025-12-19,Helado artesanal,9
+2025-12-19,Pan de masa madre,38
+2025-12-19,Vela aromática,17
+2025-12-20,Bufanda de lana,5
+2025-12-20,Café en grano 1 kg,26
+2025-12-20,Cuaderno A5,1
+2025-12-20,Funda de móvil,1
+2025-12-20,Helado artesanal,7
+2025-12-20,Pan de masa madre,63
+2025-12-20,Vela aromática,30
+2025-12-21,Bufanda de lana,4
+2025-12-21,Café en grano 1 kg,21
+2025-12-21,Cuaderno A5,6
+2025-12-21,Helado artesanal,7
+2025-12-21,Pan de masa madre,53
+2025-12-21,Vela aromática,21
+2025-12-22,Bufanda de lana,8
+2025-12-22,Café en grano 1 kg,14
+2025-12-22,Cuaderno A5,6
+2025-12-22,Helado artesanal,8
+2025-12-22,Pan de masa madre,30
+2025-12-22,Vela aromática,9
+2025-12-23,Bufanda de lana,11
+2025-12-23,Café en grano 1 kg,14
+2025-12-23,Cuaderno A5,7
+2025-12-23,Helado artesanal,6
+2025-12-23,Pan de masa madre,16
+2025-12-23,Vela aromática,24
+2025-12-24,Bufanda de lana,11
+2025-12-24,Café en grano 1 kg,21
+2025-12-24,Cuaderno A5,10
+2025-12-24,Helado artesanal,4
+2025-12-24,Pan de masa madre,33
+2025-12-24,Vela aromática,21
+2025-12-25,Bufanda de lana,10
+2025-12-25,Café en grano 1 kg,16
+2025-12-25,Cuaderno A5,6
+2025-12-25,Helado artesanal,10
+2025-12-25,Pan de masa madre,44
+2025-12-25,Vela aromática,13
+2025-12-26,Bufanda de lana,9
+2025-12-26,Café en grano 1 kg,22
+2025-12-26,Cuaderno A5,9
+2025-12-26,Helado artesanal,5
+2025-12-26,Pan de masa madre,35
+2025-12-26,Vela aromática,8
+2025-12-27,Bufanda de lana,7
+2025-12-27,Café en grano 1 kg,24
+2025-12-27,Cuaderno A5,6
+2025-12-27,Helado artesanal,3
+2025-12-27,Pan de masa madre,45
+2025-12-27,Vela aromática,21
+2025-12-28,Bufanda de lana,7
+2025-12-28,Café en grano 1 kg,26
+2025-12-28,Cuaderno A5,8
+2025-12-28,Helado artesanal,5
+2025-12-28,Pan de masa madre,43
+2025-12-28,Vela aromática,28
+2025-12-29,Bufanda de lana,13
+2025-12-29,Café en grano 1 kg,17
+2025-12-29,Cuaderno A5,6
+2025-12-29,Helado artesanal,3
+2025-12-29,Pan de masa madre,44
+2025-12-29,Vela aromática,17
+2025-12-30,Bufanda de lana,4
+2025-12-30,Café en grano 1 kg,15
+2025-12-30,Cuaderno A5,9
+2025-12-30,Funda de móvil,1
+2025-12-30,Helado artesanal,3
+2025-12-30,Pan de masa madre,53
+2025-12-30,Vela aromática,17

@@ -1,0 +1,582 @@
+fecha;producto;cantidad
+03/03/2025;Café molido (kg);2,2
+03/03/2025;Croissant;31
+03/03/2025;Té verde;3
+04/03/2025;Café molido (kg);2,9
+04/03/2025;Croissant;29
+04/03/2025;Té verde;3
+05/03/2025;Café molido (kg);2,2
+05/03/2025;Croissant;29
+05/03/2025;Té verde;4
+06/03/2025;Café molido (kg);2,3
+06/03/2025;Croissant;24
+06/03/2025;Té verde;5
+07/03/2025;Café molido (kg);1,7
+07/03/2025;Croissant;27
+07/03/2025;Té verde;1
+08/03/2025;Café molido (kg);3,3
+08/03/2025;Croissant;29
+08/03/2025;Té verde;5
+09/03/2025;Café molido (kg);3,3
+09/03/2025;Croissant;36
+09/03/2025;Té verde;2
+10/03/2025;Café molido (kg);2,2
+10/03/2025;Croissant;21
+10/03/2025;Té verde;7
+11/03/2025;Café molido (kg);1,6
+11/03/2025;Croissant;20
+11/03/2025;Té verde;2
+12/03/2025;Café molido (kg);1,8
+12/03/2025;Croissant;21
+12/03/2025;Té verde;6
+13/03/2025;Café molido (kg);3,0
+13/03/2025;Croissant;33
+13/03/2025;Té verde;5
+14/03/2025;Café molido (kg);2,8
+14/03/2025;Croissant;23
+14/03/2025;Té verde;2
+15/03/2025;Café molido (kg);2,2
+15/03/2025;Croissant;35
+15/03/2025;Té verde;6
+16/03/2025;Café molido (kg);3,2
+16/03/2025;Croissant;42
+16/03/2025;Té verde;2
+17/03/2025;Café molido (kg);2,2
+17/03/2025;Croissant;29
+17/03/2025;Té verde;3
+18/03/2025;Café molido (kg);2,6
+18/03/2025;Croissant;22
+18/03/2025;Té verde;6
+19/03/2025;Café molido (kg);2,1
+19/03/2025;Croissant;31
+19/03/2025;Té verde;5
+20/03/2025;Café molido (kg);2,8
+20/03/2025;Croissant;20
+20/03/2025;Té verde;6
+21/03/2025;Café molido (kg);1,8
+21/03/2025;Croissant;30
+21/03/2025;Té verde;6
+22/03/2025;Café molido (kg);2,8
+22/03/2025;Croissant;38
+22/03/2025;Té verde;2
+23/03/2025;Café molido (kg);2,3
+23/03/2025;Croissant;40
+23/03/2025;Té verde;5
+24/03/2025;Café molido (kg);2,0
+24/03/2025;Croissant;20
+24/03/2025;Té verde;1
+25/03/2025;Café molido (kg);1,5
+25/03/2025;Croissant;18
+26/03/2025;Café molido (kg);2,5
+26/03/2025;Croissant;34
+26/03/2025;Té verde;5
+27/03/2025;Café molido (kg);2,6
+27/03/2025;Croissant;13
+27/03/2025;Té verde;2
+28/03/2025;Café molido (kg);2,6
+28/03/2025;Croissant;21
+28/03/2025;Té verde;4
+29/03/2025;Café molido (kg);2,1
+29/03/2025;Croissant;38
+29/03/2025;Té verde;5
+30/03/2025;Café molido (kg);2,4
+30/03/2025;Croissant;29
+30/03/2025;Té verde;5
+31/03/2025;Café molido (kg);1,5
+31/03/2025;Croissant;26
+31/03/2025;Té verde;4
+01/04/2025;Café molido (kg);1,1
+01/04/2025;Croissant;25
+01/04/2025;Té verde;3
+02/04/2025;Café molido (kg);2,2
+02/04/2025;Croissant;25
+02/04/2025;Té verde;2
+03/04/2025;Café molido (kg);2,2
+03/04/2025;Croissant;17
+03/04/2025;Té verde;5
+04/04/2025;Café molido (kg);1,6
+04/04/2025;Croissant;31
+04/04/2025;Té verde;5
+05/04/2025;Café molido (kg);1,6
+05/04/2025;Croissant;24
+05/04/2025;Té verde;3
+06/04/2025;Café molido (kg);3,5
+06/04/2025;Croissant;45
+06/04/2025;Té verde;8
+07/04/2025;Café molido (kg);2,3
+07/04/2025;Croissant;19
+07/04/2025;Té verde;5
+08/04/2025;Café molido (kg);3,0
+08/04/2025;Croissant;25
+08/04/2025;Té verde;6
+09/04/2025;Café molido (kg);2,3
+09/04/2025;Croissant;27
+09/04/2025;Té verde;2
+10/04/2025;Café molido (kg);3,0
+10/04/2025;Croissant;17
+10/04/2025;Té verde;5
+11/04/2025;Café molido (kg);2,1
+11/04/2025;Croissant;15
+11/04/2025;Té verde;1
+12/04/2025;Café molido (kg);2,3
+12/04/2025;Croissant;40
+12/04/2025;Té verde;4
+13/04/2025;Café molido (kg);2,8
+13/04/2025;Croissant;31
+13/04/2025;Té verde;1
+14/04/2025;Café molido (kg);2,9
+14/04/2025;Croissant;19
+14/04/2025;Té verde;3
+15/04/2025;Café molido (kg);2,3
+15/04/2025;Croissant;21
+15/04/2025;Té verde;5
+16/04/2025;Café molido (kg);2,2
+16/04/2025;Croissant;34
+16/04/2025;Té verde;5
+17/04/2025;Café molido (kg);2,5
+17/04/2025;Croissant;25
+17/04/2025;Té verde;7
+18/04/2025;Café molido (kg);2,7
+18/04/2025;Croissant;28
+18/04/2025;Té verde;2
+19/04/2025;Café molido (kg);2,7
+19/04/2025;Croissant;38
+19/04/2025;Té verde;3
+20/04/2025;Café molido (kg);2,0
+20/04/2025;Croissant;37
+20/04/2025;Té verde;6
+21/04/2025;Café molido (kg);2,4
+21/04/2025;Croissant;29
+21/04/2025;Té verde;4
+22/04/2025;Café molido (kg);3,5
+22/04/2025;Croissant;23
+22/04/2025;Té verde;3
+23/04/2025;Café molido (kg);2,7
+23/04/2025;Croissant;26
+23/04/2025;Té verde;2
+24/04/2025;Café molido (kg);1,6
+24/04/2025;Croissant;31
+24/04/2025;Té verde;6
+25/04/2025;Café molido (kg);1,8
+25/04/2025;Croissant;27
+25/04/2025;Té verde;4
+26/04/2025;Café molido (kg);2,3
+26/04/2025;Croissant;41
+26/04/2025;Té verde;5
+27/04/2025;Café molido (kg);2,0
+27/04/2025;Croissant;43
+27/04/2025;Té verde;5
+28/04/2025;Café molido (kg);2,5
+28/04/2025;Croissant;21
+28/04/2025;Té verde;4
+29/04/2025;Café molido (kg);2,0
+29/04/2025;Croissant;31
+29/04/2025;Té verde;4
+30/04/2025;Café molido (kg);1,7
+30/04/2025;Croissant;19
+30/04/2025;Té verde;6
+01/05/2025;Café molido (kg);1,7
+01/05/2025;Croissant;21
+01/05/2025;Té verde;2
+02/05/2025;Café molido (kg);2,9
+02/05/2025;Croissant;23
+02/05/2025;Té verde;4
+03/05/2025;Café molido (kg);2,8
+03/05/2025;Croissant;36
+03/05/2025;Té verde;3
+04/05/2025;Café molido (kg);2,5
+04/05/2025;Croissant;31
+04/05/2025;Té verde;4
+05/05/2025;Café molido (kg);2,3
+05/05/2025;Croissant;28
+05/05/2025;Té verde;6
+06/05/2025;Café molido (kg);1,5
+06/05/2025;Croissant;24
+06/05/2025;Té verde;2
+07/05/2025;Café molido (kg);2,1
+07/05/2025;Croissant;19
+07/05/2025;Té verde;1
+08/05/2025;Café molido (kg);1,9
+08/05/2025;Croissant;18
+09/05/2025;Café molido (kg);2,3
+09/05/2025;Croissant;20
+09/05/2025;Té verde;3
+10/05/2025;Café molido (kg);3,0
+10/05/2025;Croissant;45
+10/05/2025;Té verde;1
+11/05/2025;Café molido (kg);2,1
+11/05/2025;Croissant;41
+11/05/2025;Té verde;3
+12/05/2025;Café molido (kg);2,1
+12/05/2025;Croissant;26
+12/05/2025;Té verde;5
+13/05/2025;Café molido (kg);1,6
+13/05/2025;Croissant;27
+13/05/2025;Té verde;3
+14/05/2025;Café molido (kg);2,2
+14/05/2025;Croissant;19
+14/05/2025;Té verde;6
+15/05/2025;Café molido (kg);2,2
+15/05/2025;Croissant;28
+15/05/2025;Té verde;3
+16/05/2025;Café molido (kg);2,0
+16/05/2025;Croissant;34
+16/05/2025;Té verde;3
+17/05/2025;Café molido (kg);2,8
+17/05/2025;Croissant;43
+17/05/2025;Té verde;3
+18/05/2025;Café molido (kg);2,8
+18/05/2025;Croissant;35
+18/05/2025;Té verde;4
+19/05/2025;Café molido (kg);2,9
+19/05/2025;Croissant;27
+20/05/2025;Café molido (kg);2,6
+20/05/2025;Croissant;27
+20/05/2025;Té verde;4
+21/05/2025;Café molido (kg);2,4
+21/05/2025;Croissant;21
+21/05/2025;Té verde;2
+22/05/2025;Café molido (kg);1,7
+22/05/2025;Croissant;23
+22/05/2025;Té verde;5
+23/05/2025;Café molido (kg);2,7
+23/05/2025;Croissant;29
+23/05/2025;Té verde;3
+24/05/2025;Café molido (kg);3,0
+24/05/2025;Croissant;34
+24/05/2025;Té verde;1
+25/05/2025;Café molido (kg);3,1
+25/05/2025;Croissant;35
+25/05/2025;Té verde;2
+26/05/2025;Café molido (kg);2,1
+26/05/2025;Croissant;18
+26/05/2025;Té verde;5
+27/05/2025;Café molido (kg);2,2
+27/05/2025;Croissant;25
+27/05/2025;Té verde;3
+28/05/2025;Café molido (kg);2,0
+28/05/2025;Croissant;26
+28/05/2025;Té verde;3
+29/05/2025;Café molido (kg);2,0
+29/05/2025;Croissant;22
+29/05/2025;Té verde;2
+30/05/2025;Café molido (kg);3,1
+30/05/2025;Croissant;33
+30/05/2025;Té verde;1
+31/05/2025;Café molido (kg);3,2
+31/05/2025;Croissant;46
+31/05/2025;Té verde;2
+01/06/2025;Café molido (kg);3,0
+01/06/2025;Croissant;25
+01/06/2025;Té verde;4
+02/06/2025;Café molido (kg);2,8
+02/06/2025;Croissant;17
+02/06/2025;Té verde;2
+03/06/2025;Café molido (kg);1,2
+03/06/2025;Croissant;18
+03/06/2025;Té verde;3
+04/06/2025;Café molido (kg);1,9
+04/06/2025;Croissant;13
+04/06/2025;Té verde;2
+05/06/2025;Café molido (kg);2,9
+05/06/2025;Croissant;21
+05/06/2025;Té verde;3
+06/06/2025;Café molido (kg);2,2
+06/06/2025;Croissant;23
+06/06/2025;Té verde;3
+07/06/2025;Café molido (kg);2,7
+07/06/2025;Croissant;35
+07/06/2025;Té verde;3
+08/06/2025;Café molido (kg);2,9
+08/06/2025;Croissant;27
+08/06/2025;Té verde;2
+09/06/2025;Café molido (kg);2,5
+09/06/2025;Croissant;26
+09/06/2025;Té verde;6
+10/06/2025;Café molido (kg);1,5
+10/06/2025;Croissant;23
+10/06/2025;Té verde;6
+11/06/2025;Café molido (kg);2,4
+11/06/2025;Croissant;23
+11/06/2025;Té verde;4
+12/06/2025;Café molido (kg);2,3
+12/06/2025;Croissant;25
+12/06/2025;Té verde;2
+13/06/2025;Café molido (kg);2,1
+13/06/2025;Croissant;21
+13/06/2025;Té verde;3
+14/06/2025;Café molido (kg);2,0
+14/06/2025;Croissant;40
+14/06/2025;Té verde;2
+15/06/2025;Café molido (kg);3,1
+15/06/2025;Croissant;37
+15/06/2025;Té verde;3
+16/06/2025;Café molido (kg);1,8
+16/06/2025;Croissant;19
+16/06/2025;Té verde;2
+17/06/2025;Café molido (kg);1,1
+17/06/2025;Croissant;25
+17/06/2025;Té verde;2
+18/06/2025;Café molido (kg);1,8
+18/06/2025;Croissant;25
+18/06/2025;Té verde;2
+19/06/2025;Café molido (kg);2,3
+19/06/2025;Croissant;33
+19/06/2025;Té verde;2
+20/06/2025;Café molido (kg);3,4
+20/06/2025;Croissant;26
+20/06/2025;Té verde;1
+21/06/2025;Café molido (kg);2,0
+21/06/2025;Croissant;38
+21/06/2025;Té verde;2
+22/06/2025;Café molido (kg);3,3
+22/06/2025;Croissant;26
+22/06/2025;Té verde;3
+23/06/2025;Café molido (kg);2,1
+23/06/2025;Croissant;29
+23/06/2025;Té verde;1
+24/06/2025;Café molido (kg);2,1
+24/06/2025;Croissant;15
+24/06/2025;Té verde;4
+25/06/2025;Café molido (kg);2,3
+25/06/2025;Croissant;20
+25/06/2025;Té verde;2
+26/06/2025;Café molido (kg);2,3
+26/06/2025;Croissant;23
+26/06/2025;Té verde;5
+27/06/2025;Café molido (kg);2,6
+27/06/2025;Croissant;24
+28/06/2025;Café molido (kg);1,8
+28/06/2025;Croissant;37
+28/06/2025;Té verde;5
+29/06/2025;Café molido (kg);3,0
+29/06/2025;Croissant;34
+29/06/2025;Té verde;3
+30/06/2025;Café molido (kg);2,8
+30/06/2025;Croissant;19
+30/06/2025;Té verde;2
+01/07/2025;Café molido (kg);2,6
+01/07/2025;Croissant;26
+01/07/2025;Té verde;1
+02/07/2025;Café molido (kg);2,0
+02/07/2025;Croissant;22
+02/07/2025;Té verde;2
+03/07/2025;Café molido (kg);2,3
+03/07/2025;Croissant;36
+03/07/2025;Té verde;4
+04/07/2025;Café molido (kg);3,1
+04/07/2025;Croissant;21
+04/07/2025;Té verde;1
+05/07/2025;Café molido (kg);3,3
+05/07/2025;Croissant;37
+05/07/2025;Té verde;1
+06/07/2025;Café molido (kg);2,8
+06/07/2025;Croissant;38
+06/07/2025;Té verde;5
+07/07/2025;Café molido (kg);1,7
+07/07/2025;Croissant;31
+07/07/2025;Té verde;2
+08/07/2025;Café molido (kg);2,7
+08/07/2025;Croissant;17
+08/07/2025;Té verde;3
+09/07/2025;Café molido (kg);2,1
+09/07/2025;Croissant;18
+09/07/2025;Té verde;3
+10/07/2025;Café molido (kg);2,4
+10/07/2025;Croissant;21
+10/07/2025;Té verde;3
+11/07/2025;Café molido (kg);1,9
+11/07/2025;Croissant;31
+11/07/2025;Té verde;3
+12/07/2025;Café molido (kg);2,7
+12/07/2025;Croissant;30
+12/07/2025;Té verde;3
+13/07/2025;Café molido (kg);2,3
+13/07/2025;Croissant;42
+13/07/2025;Té verde;1
+14/07/2025;Café molido (kg);2,2
+14/07/2025;Croissant;23
+14/07/2025;Té verde;2
+15/07/2025;Café molido (kg);2,5
+15/07/2025;Croissant;28
+15/07/2025;Té verde;3
+16/07/2025;Café molido (kg);2,6
+16/07/2025;Croissant;28
+16/07/2025;Té verde;5
+17/07/2025;Café molido (kg);1,8
+17/07/2025;Croissant;32
+17/07/2025;Té verde;4
+18/07/2025;Café molido (kg);1,6
+18/07/2025;Croissant;25
+18/07/2025;Té verde;1
+19/07/2025;Café molido (kg);2,5
+19/07/2025;Croissant;30
+19/07/2025;Té verde;4
+20/07/2025;Café molido (kg);2,4
+20/07/2025;Croissant;51
+20/07/2025;Té verde;4
+21/07/2025;Café molido (kg);2,1
+21/07/2025;Croissant;16
+21/07/2025;Té verde;2
+22/07/2025;Café molido (kg);2,3
+22/07/2025;Croissant;21
+22/07/2025;Té verde;2
+23/07/2025;Café molido (kg);3,2
+23/07/2025;Croissant;28
+23/07/2025;Té verde;5
+24/07/2025;Café molido (kg);1,9
+24/07/2025;Croissant;19
+24/07/2025;Té verde;4
+25/07/2025;Café molido (kg);2,7
+25/07/2025;Croissant;22
+25/07/2025;Té verde;4
+26/07/2025;Café molido (kg);2,3
+26/07/2025;Croissant;35
+26/07/2025;Té verde;1
+27/07/2025;Café molido (kg);2,5
+27/07/2025;Croissant;34
+27/07/2025;Té verde;3
+28/07/2025;Café molido (kg);1,2
+28/07/2025;Croissant;31
+28/07/2025;Té verde;4
+29/07/2025;Café molido (kg);2,2
+29/07/2025;Croissant;21
+29/07/2025;Té verde;2
+30/07/2025;Café molido (kg);2,5
+30/07/2025;Croissant;31
+30/07/2025;Té verde;2
+31/07/2025;Café molido (kg);1,8
+31/07/2025;Croissant;23
+31/07/2025;Té verde;3
+01/08/2025;Café molido (kg);1,4
+01/08/2025;Croissant;24
+01/08/2025;Té verde;1
+02/08/2025;Café molido (kg);3,1
+02/08/2025;Croissant;33
+03/08/2025;Café molido (kg);2,3
+03/08/2025;Croissant;26
+03/08/2025;Té verde;4
+04/08/2025;Café molido (kg);2,2
+04/08/2025;Croissant;28
+04/08/2025;Té verde;6
+05/08/2025;Café molido (kg);2,8
+05/08/2025;Croissant;27
+05/08/2025;Té verde;3
+06/08/2025;Café molido (kg);1,9
+06/08/2025;Croissant;32
+06/08/2025;Té verde;1
+07/08/2025;Café molido (kg);2,6
+07/08/2025;Croissant;19
+07/08/2025;Té verde;4
+08/08/2025;Café molido (kg);2,5
+08/08/2025;Croissant;24
+08/08/2025;Té verde;4
+09/08/2025;Café molido (kg);3,5
+09/08/2025;Croissant;45
+09/08/2025;Té verde;1
+10/08/2025;Café molido (kg);2,7
+10/08/2025;Croissant;29
+10/08/2025;Té verde;4
+11/08/2025;Café molido (kg);2,9
+11/08/2025;Croissant;19
+11/08/2025;Té verde;4
+12/08/2025;Café molido (kg);2,7
+12/08/2025;Croissant;23
+12/08/2025;Té verde;2
+13/08/2025;Café molido (kg);1,7
+13/08/2025;Croissant;18
+13/08/2025;Té verde;3
+14/08/2025;Café molido (kg);1,6
+14/08/2025;Croissant;32
+14/08/2025;Té verde;4
+15/08/2025;Café molido (kg);2,6
+15/08/2025;Croissant;26
+15/08/2025;Té verde;3
+16/08/2025;Café molido (kg);2,8
+16/08/2025;Croissant;36
+16/08/2025;Té verde;1
+17/08/2025;Café molido (kg);3,0
+17/08/2025;Croissant;42
+17/08/2025;Té verde;2
+18/08/2025;Café molido (kg);2,4
+18/08/2025;Croissant;25
+18/08/2025;Té verde;1
+19/08/2025;Café molido (kg);1,6
+19/08/2025;Croissant;23
+19/08/2025;Té verde;1
+20/08/2025;Café molido (kg);2,5
+20/08/2025;Croissant;31
+20/08/2025;Té verde;2
+21/08/2025;Café molido (kg);2,2
+21/08/2025;Croissant;21
+21/08/2025;Té verde;4
+22/08/2025;Café molido (kg);2,6
+22/08/2025;Croissant;22
+22/08/2025;Té verde;2
+23/08/2025;Café molido (kg);1,6
+23/08/2025;Croissant;31
+24/08/2025;Café molido (kg);3,0
+24/08/2025;Croissant;45
+25/08/2025;Café molido (kg);3,1
+25/08/2025;Croissant;17
+25/08/2025;Té verde;1
+26/08/2025;Café molido (kg);2,8
+26/08/2025;Croissant;20
+26/08/2025;Té verde;3
+27/08/2025;Café molido (kg);2,6
+27/08/2025;Croissant;23
+27/08/2025;Té verde;2
+28/08/2025;Café molido (kg);1,8
+28/08/2025;Croissant;26
+28/08/2025;Té verde;3
+29/08/2025;Café molido (kg);3,2
+29/08/2025;Croissant;21
+30/08/2025;Café molido (kg);3,7
+30/08/2025;Croissant;35
+30/08/2025;Té verde;1
+31/08/2025;Café molido (kg);3,0
+31/08/2025;Croissant;35
+31/08/2025;Té verde;2
+01/09/2025;Café molido (kg);2,5
+01/09/2025;Croissant;23
+01/09/2025;Té verde;5
+02/09/2025;Café molido (kg);3,0
+02/09/2025;Croissant;27
+02/09/2025;Té verde;3
+03/09/2025;Café molido (kg);2,3
+03/09/2025;Croissant;22
+04/09/2025;Café molido (kg);0,9
+04/09/2025;Croissant;22
+04/09/2025;Té verde;4
+05/09/2025;Café molido (kg);2,2
+05/09/2025;Croissant;16
+05/09/2025;Té verde;1
+06/09/2025;Café molido (kg);2,9
+06/09/2025;Croissant;44
+06/09/2025;Té verde;2
+07/09/2025;Café molido (kg);2,8
+07/09/2025;Croissant;30
+07/09/2025;Té verde;2
+08/09/2025;Café molido (kg);2,1
+08/09/2025;Croissant;34
+08/09/2025;Té verde;4
+09/09/2025;Café molido (kg);1,6
+09/09/2025;Croissant;17
+09/09/2025;Té verde;4
+10/09/2025;Café molido (kg);2,0
+10/09/2025;Croissant;25
+11/09/2025;Café molido (kg);2,5
+11/09/2025;Croissant;22
+12/09/2025;Café molido (kg);2,0
+12/09/2025;Croissant;23
+12/09/2025;Té verde;1
+13/09/2025;Café molido (kg);3,1
+13/09/2025;Croissant;36
+13/09/2025;Té verde;4
+14/09/2025;Café molido (kg);3,6
+14/09/2025;Croissant;31
+14/09/2025;Té verde;1
+31/02/2025;Croissant;5
+10/06/2025;Croissant;-3
+11/06/2025;;4
+12/06/2025;Té verde;abc
