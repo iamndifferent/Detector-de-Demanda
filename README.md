@@ -2,14 +2,14 @@
 
 [![CI](https://github.com/iamndifferent/demand-forecaster/actions/workflows/ci.yml/badge.svg)](https://github.com/iamndifferent/Detector-de-Demanda/actions/workflows/ci.yml)
 [![Abrir en Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/iamndifferent/Detector-de-Demanda)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://TU-APP.streamlit.app)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://detector-de-demanda.streamlit.app/)
 [![Licencia: MIT](https://img.shields.io/badge/licencia-MIT-green.svg)](LICENSE)
 
 Sube un CSV con tus ventas y la app te dice **cuánto venderás** en las próximas semanas y
 **cuánto te conviene pedir** al proveedor. Está pensada para comercios, cafeterías, vendedores
 online y artesanos que hoy deciden sus compras "a ojo" o con una hoja de cálculo.
 
-> **Demo en vivo:** `https://TU-APP.streamlit.app` · incluye datos de ejemplo para probarla sin
+> **Demo en vivo:** `https://detector-de-demanda.streamlit.app/` · incluye datos de ejemplo para probarla sin
 > subir nada.
 
 ## Qué hace
