@@ -32,7 +32,7 @@ st.set_page_config(
     page_title="Predictor de demanda",
     page_icon="📈",
     layout="wide",
-    initial_sidebar_state="auto",
+    initial_sidebar_state="collapsed",
     menu_items={
         "About": (
             "Predictor de demanda: previsión estadística de ventas "
@@ -141,203 +141,289 @@ fecha;producto;cantidad
     )
 
 
-# --- Cabecera --------------------------------------------------------------------------------
+# --- Interfaz principal: sencilla por defecto y adaptable a móvil ------------------------------
+
+st.markdown(
+    """
+    <style>
+    .block-container {
+        max-width: 1180px;
+        padding-top: 1.15rem;
+        padding-bottom: 2.5rem;
+    }
+
+    [data-testid="stMetricValue"] {
+        font-size: clamp(1.35rem, 3.2vw, 2rem);
+    }
+
+    @media (max-width: 640px) {
+        .block-container {
+            padding: 0.75rem 0.75rem 1.5rem;
+        }
+
+        h1 {
+            font-size: 1.7rem;
+            line-height: 1.2;
+        }
+
+        h2 {
+            font-size: 1.3rem;
+        }
+
+        [data-testid="stMetricValue"] {
+            font-size: 1.3rem;
+        }
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 st.title("📈 Predictor de demanda")
+st.subheader("Planifica mejor tus compras")
 st.write(
-    "Sube tus ventas y descubre cuánto venderás las próximas semanas y cuánto te conviene pedir. "
-    "Gratis, en español y pensado para negocios pequeños."
+    "Convierte tus ventas en una previsión sencilla y descubre cuánto podrías necesitar "
+    "pedir. No hace falta saber de estadística."
 )
-with st.expander("Privacidad y límites"):
+
+with st.expander("Privacidad y límites", expanded=False):
     st.markdown(
-        "- El código de esta app **no guarda tus archivos**: se procesan en memoria durante la "
-        "sesión.\n"
-        "- Si la usas en una versión alojada por terceros, no subas datos personales de clientes. "
-        "Para datos sensibles, ejecútala en tu ordenador (hay instrucciones en el README).\n"
-        "- Es una **estimación estadística**, no una garantía: no conoce promociones futuras, "
-        "cambios de precio ni roturas de stock pasadas."
+        "- El código de esta app procesa el archivo en memoria durante la sesión; no lo guarda "
+        "deliberadamente.\n"
+        "- No subas datos personales de clientes ni información confidencial.\n"
+        "- Las previsiones son estimaciones estadísticas, no garantías. No conocen promociones, "
+        "cambios de precios ni roturas de stock que no estén reflejadas en el historial."
     )
 
-# --- Entrada principal de datos ---------------------------------------------------------------
-
-st.subheader("1. Empieza aquí")
-st.write(
-    "Prueba la aplicación con datos de ejemplo o sube tus propias ventas "
-    "para calcular la demanda y preparar tu próximo pedido."
-)
-
+# Paso 1: elegir el origen. La demo está claramente identificada como ficticia.
+st.subheader("1 · Empieza aquí")
 source = st.radio(
-    "¿Qué datos quieres analizar?",
-    ["Datos de ejemplo", "Ejemplo de cafetería", "Subir mi CSV"],
-    index=0,
+    "¿Qué quieres analizar?",
+    ["Probar con datos de ejemplo", "Subir mis ventas (CSV)"],
+    horizontal=True,
+    help="Puedes probar la aplicación sin subir ningún archivo.",
 )
 
 uploaded = None
-if source == "Subir mi CSV":
+if source == "Probar con datos de ejemplo":
+    example_kind = st.selectbox(
+        "Elige una demostración",
+        ["Ventas de ejemplo", "Cafetería (incluye errores para probar la limpieza)"],
+        index=0,
+    )
+    if example_kind == "Cafetería (incluye errores para probar la limpieza)":
+        data = generate_cafe_example()
+    else:
+        data = sample_csv_bytes()
+    st.info(
+        "Estás viendo datos ficticios de demostración. Para analizar tu negocio, selecciona "
+        "«Subir mis ventas (CSV)»."
+    )
+else:
     uploaded = st.file_uploader(
-        "Selecciona tu archivo de ventas",
+        "Sube el archivo CSV de tus ventas",
         type=["csv"],
         help=(
-            f"CSV de hasta {MAX_FILE_BYTES // 1_048_576} MB "
-            "con fecha, producto y cantidad."
+            f"Máximo {MAX_FILE_BYTES // 1_048_576} MB. Debe incluir fecha, producto y cantidad."
         ),
     )
+    st.download_button(
+        "Descargar plantilla CSV",
+        template_csv_bytes(),
+        file_name="plantilla_ventas.csv",
+        mime="text/csv",
+        help="Usa esta plantilla si no sabes cómo organizar las columnas.",
+    )
+    st.caption("Desde Excel: Guardar como → CSV UTF-8. No subas una hoja de cálculo XLSX.")
+    with st.expander("¿Qué debe contener el CSV?", expanded=uploaded is None):
+        show_requirements()
+    if uploaded is None:
+        st.info("Cuando selecciones tu archivo, aquí aparecerá el análisis.")
+        st.stop()
+    data = uploaded.getvalue()
 
-st.download_button(
-    "Descargar plantilla de ventas",
-    template_csv_bytes(),
-    file_name="plantilla_ventas.csv",
-    mime="text/csv",
-)
-st.caption("Puedes empezar con el ejemplo y después cargar tus propios datos.")
-
-# --- Configuración de la previsión -------------------------------------------------------------
-
-with st.expander("2. Ajustes de previsión y compras", expanded=False):
-    st.markdown("**Periodo de análisis**")
-    freq_name = st.selectbox("Agrupar las ventas por", list(FREQUENCIES), index=1)
+# Paso 2: valores recomendados; las opciones técnicas quedan ocultas inicialmente.
+st.subheader("2 · Ajustes (puedes dejar los valores iniciales)")
+with st.expander("Personalizar previsión, limpieza y pedido", expanded=False):
+    st.caption(
+        "Los valores iniciales sirven para empezar. Cambia estos ajustes solo si sabes que "
+        "tu negocio necesita otra frecuencia o plazo de entrega."
+    )
+    st.markdown("**Previsión de ventas**")
+    freq_name = st.selectbox(
+        "Agrupar las ventas por",
+        list(FREQUENCIES),
+        index=1,
+        help="Semanal es una opción cómoda para la mayoría de los pequeños negocios.",
+    )
     cfg = FREQUENCIES[freq_name]
     horizon = st.slider(
-        f"¿Cuántos {cfg.plural} quieres prever?",
-        1,
-        cfg.max_horizon,
-        cfg.default_horizon,
+        f"Cuántos {cfg.plural} prever",
+        min_value=1,
+        max_value=cfg.max_horizon,
+        value=cfg.default_horizon,
     )
 
-    st.markdown("**Limpieza de los datos**")
-    dayfirst = st.checkbox("Las fechas van en formato día/mes/año", value=True)
-    drop_incomplete = st.checkbox(
-        f"Ignorar el último {cfg.unit} si está incompleto",
-        value=True,
-    )
-    drop_dups = st.checkbox("Eliminar filas idénticas", value=False)
-    cap_on = st.checkbox("Limitar picos extremos de ventas", value=False)
-
-    st.markdown("**Reposición de inventario**")
+    st.divider()
+    st.markdown("**Plazo para preparar el pedido**")
     lead_days = st.number_input(
-        "Plazo de entrega (días)",
+        "Días que tarda el proveedor en entregar",
         min_value=0,
         max_value=180,
         value=7,
+        help="Por ejemplo, escribe 3 si normalmente recibes el pedido en tres días.",
     )
     extra_days = st.number_input(
-        "Días extra de cobertura",
+        "Días adicionales de margen",
         min_value=0,
         max_value=180,
         value=7,
+        help="Un margen para cubrir posibles retrasos o ventas superiores a lo esperado.",
     )
     service = st.select_slider(
-        "Nivel de servicio",
+        "Nivel de protección del stock",
         options=[0.90, 0.95, 0.97, 0.99],
         value=0.95,
         format_func=lambda value: f"{value:.0%}",
         help=(
-            "Nivel de servicio objetivo utilizado para calcular "
-            "el stock de seguridad."
+            "Un porcentaje mayor añade más stock de seguridad y reduce el riesgo de quedarte "
+            "sin existencias, pero puede aumentar el pedido."
         ),
     )
 
-st.caption(f"Versión {__version__}")
-
-# --- Requisitos y datos de entrada -----------------------------------------------------------
-
-awaiting_upload = source == "Subir mi CSV" and uploaded is None
-with st.expander(
-    "Requisitos del archivo y cantidad de datos necesarios", expanded=awaiting_upload
-):
-    show_requirements()
-
-if source == "Datos de ejemplo":
-    data = sample_csv_bytes()
-elif source == "Ejemplo de cafetería":
-    data = generate_cafe_example()
-elif uploaded is not None:
-    data = uploaded.getvalue()
-else:
-    st.info("Cuando tu archivo cumpla los requisitos, súbelo en la pantalla principal.")
-    st.stop()
+    st.divider()
+    st.markdown("**Limpieza de datos (normalmente no hace falta cambiarlo)**")
+    dayfirst = st.checkbox("Interpretar fechas como día/mes/año", value=True)
+    drop_incomplete = st.checkbox(
+        f"Ignorar el último {cfg.unit} si todavía no ha terminado",
+        value=True,
+    )
+    drop_dups = st.checkbox("Eliminar filas completamente duplicadas", value=False)
+    cap_on = st.checkbox(
+        "Limitar picos de ventas muy extremos",
+        value=False,
+        help="Actívalo solo si hay picos aislados que no representan la demanda habitual.",
+    )
 
 try:
     raw = load_raw(data)
 except DataError as exc:
-    st.error(str(exc))
+    st.error(f"No hemos podido leer el archivo: {exc}")
+    st.info("Descarga la plantilla CSV y copia ahí las columnas fecha, producto y cantidad.")
     st.stop()
 
 columns = list(raw.columns)
 guess = guess_columns(columns)
-with st.expander("Columnas del archivo", expanded=source == "Subir mi CSV"):
+with st.expander("Revisar las columnas detectadas", expanded=False):
+    st.caption(
+        "La app intenta reconocerlas automáticamente. Si el resultado es incorrecto, "
+        "cámbialas aquí."
+    )
     c1, c2, c3 = st.columns(3)
-    date_col = c1.selectbox("Fecha", columns, index=columns.index(guess["date"]))
-    product_col = c2.selectbox("Producto", columns, index=columns.index(guess["product"]))
+    date_col = c1.selectbox("Fecha de venta", columns, index=columns.index(guess["date"]))
+    product_col = c2.selectbox(
+        "Nombre del producto", columns, index=columns.index(guess["product"])
+    )
     qty_col = c3.selectbox("Cantidad vendida", columns, index=columns.index(guess["quantity"]))
 
+# Los valores por defecto también se usan cuando el usuario no abre la sección avanzada.
+# Se recuperan de los widgets de Streamlit cuando ya están definidos arriba.
 try:
     result = prepare(data, date_col, product_col, qty_col, dayfirst, drop_dups)
 except DataError as exc:
-    st.error(str(exc))
+    st.error(f"Hay un problema con las columnas o con los datos: {exc}")
+    st.info("Abre «Revisar las columnas detectadas» y comprueba fecha, producto y cantidad.")
     st.stop()
 
 report = result.report
-for message in report.messages:
-    st.warning(message)
-
 series, dropped = build_series(result.data, cfg, drop_incomplete)
 if not series:
-    st.error("Después de agrupar no queda ningún producto con ventas. Revisa los datos.")
+    st.error(
+        "No se han encontrado productos con ventas utilizables. "
+        "Revisa el archivo y las columnas."
+    )
     st.stop()
+
 if dropped:
-    st.caption(f"Se ignoró el último {cfg.unit} porque todavía no había terminado.")
+    st.caption(f"Se ha ignorado el último {cfg.unit} porque todavía no había terminado.")
 if cap_on:
     capped_total = 0
-    for name, s in series.items():
-        values, n_capped = cap_outliers(s.to_numpy())
-        series[name] = pd.Series(values, index=s.index)
+    for name, product_series in series.items():
+        values, n_capped = cap_outliers(product_series.to_numpy())
+        series[name] = pd.Series(values, index=product_series.index)
         capped_total += n_capped
-    st.caption(f"Se limitaron {capped_total} picos extremos de ventas.")
-
-# --- Verificación del archivo ----------------------------------------------------------------
+    if capped_total:
+        st.caption(f"Se han limitado {capped_total} picos extremos de ventas.")
 
 assessment = assess_data(series, cfg)
-st.subheader("Verificación de tu archivo")
-for check in file_checks(report, assessment, cfg):
-    st.markdown(f"{ICONS[check.status]} {check.text}")
-st.caption(f"Nivel de tus datos: **{assessment.level}**")
+with st.expander(
+    f"Comprobación del archivo · calidad del historial: {assessment.level}",
+    expanded=False,
+):
+    for message in report.messages:
+        st.warning(message)
+    for check in file_checks(report, assessment, cfg):
+        st.markdown(f"{ICONS[check.status]} {check.text}")
 
-ranking = sorted(series, key=lambda p: series[p].sum(), reverse=True)
+ranking = sorted(series, key=lambda product_name: series[product_name].sum(), reverse=True)
 covered = cover_periods_for(lead_days, extra_days, cfg.days)
 eff_horizon = max(horizon, covered)
 data_id = hashlib.blake2b(data, digest_size=8).hexdigest()
 stock_by_name: dict[str, float] = {}
 
-tab_summary, tab_detail, tab_how = st.tabs(["Resumen", "Detalle por producto", "Cómo funciona"])
+tab_summary, tab_detail, tab_how = st.tabs(
+    ["Resumen y pedido", "Ver un producto", "Ayuda"]
+)
 
-# --- Pestaña 1: resumen para el cliente ------------------------------------------------------
-
+# Pestaña principal: primero la recomendación que necesita el usuario.
 with tab_summary:
+    st.subheader("3 · Elige los productos que quieres revisar")
     max_n = min(30, len(ranking))
-    if max_n > 3:
-        top_n = st.slider(
-            "¿Cuántos productos analizar? (los más vendidos)", 3, max_n, min(5, max_n)
-        )
-    else:
-        top_n = max_n
+    top_n = min(5, max_n)
+    if max_n > 5:
+        with st.expander("Incluir más productos (por defecto, los 5 más vendidos)"):
+            options = list(range(5, max_n + 1, 5))
+            if max_n not in options:
+                options.append(max_n)
+            top_n = st.selectbox(
+                "Número de productos",
+                options=options,
+                index=0,
+                format_func=lambda value: f"{value} productos",
+            )
     top = ranking[:top_n]
-    with st.expander("Opcional: indica tu stock actual para afinar los pedidos"):
+
+    with st.expander("Añadir el stock que tienes ahora (recomendado)", expanded=False):
+        st.write(
+            "Indica las unidades disponibles de cada producto. Con este dato la recomendación "
+            "calcula cuánto necesitas comprar, en lugar de suponer que no tienes existencias."
+        )
         stock_df = st.data_editor(
-            pd.DataFrame({"Producto": top, "Stock actual": 0.0}),
+            pd.DataFrame({"Producto": top, "Unidades disponibles": 0.0}),
             disabled=["Producto"],
             hide_index=True,
+            width="stretch",
             key=f"stock_{data_id}_{top_n}",
-            column_config={"Stock actual": st.column_config.NumberColumn(min_value=0.0, step=1.0)},
+            column_config={
+                "Unidades disponibles": st.column_config.NumberColumn(
+                    min_value=0.0,
+                    step=1.0,
+                    help="Cuántas unidades tienes disponibles ahora mismo.",
+                )
+            },
         )
-    stock_by_name = dict(zip(stock_df["Producto"], stock_df["Stock actual"].fillna(0.0)))
-    stock_provided = any(v > 0 for v in stock_by_name.values())
+    stock_by_name = dict(
+        zip(stock_df["Producto"], stock_df["Unidades disponibles"].fillna(0.0))
+    )
+    stock_provided = any(value > 0 for value in stock_by_name.values())
 
-    with st.spinner("Calculando previsiones…"):
-        results = compute_results(top, series, stock_by_name, cfg, eff_horizon, covered, service)
+    with st.spinner("Analizando tus ventas y calculando las recomendaciones…"):
+        results = compute_results(
+            top, series, stock_by_name, cfg, eff_horizon, covered, service
+        )
 
     if not results:
-        st.warning("Ningún producto tiene historial suficiente para hacer una previsión.")
+        st.warning("No hay suficiente historial para generar previsiones de estos productos.")
     else:
         summary = build_summary(
             report,
@@ -351,101 +437,128 @@ with tab_summary:
             stock_provided=stock_provided,
         )
         st.success(summary.headline)
+        st.subheader("Tu recomendación de compra")
+        if not stock_provided:
+            st.info(
+                "Todavía no has indicado existencias. Para calcular cuánto comprar de verdad, "
+                "abre «Añadir el stock que tienes ahora». Hasta entonces, el pedido supone "
+                "que hay 0 unidades disponibles."
+            )
 
-        st.subheader("Qué analizamos")
-        for point in summary.points:
-            st.markdown(f"**{point.title}.** {point.text}")
+        for product_result in results:
+            trend = trend_short(
+                recent_trend(product_result.history.to_numpy(), cfg.window)
+            )
+            with st.container(border=True):
+                left, right = st.columns([2, 1])
+                with left:
+                    st.markdown(f"**{product_result.name}**")
+                    st.caption(
+                        f"Demanda prevista: {fmt(product_result.suggestion.demand, 1)} · "
+                        f"Stock indicado: {fmt(product_result.suggestion.on_hand, 1)}"
+                    )
+                    st.caption(
+                        f"Tendencia: {trend} · Fiabilidad estimada: "
+                        f"{product_result.forecast.reliability}"
+                    )
+                with right:
+                    st.metric("Comprar aprox.", fmt(product_result.suggestion.order_qty))
 
-        st.subheader("Qué hacer ahora")
-        for i, action in enumerate(summary.actions, start=1):
-            st.markdown(f"{i}. {action}")
-
-        st.subheader("Tus ventas y la previsión")
-        st.plotly_chart(
-            overview_chart(results, cfg.unit),
-            width="stretch",
-            config={"responsive": True, "displaylogo": False},
-        )
-        st.caption(
-            "Línea negra: tus ventas reales. Línea verde discontinua: la previsión. Zona verde: "
-            "rango probable (80 %). Se muestran los 4 productos más vendidos; el icono de la "
-            "cámara del gráfico lo descarga como imagen."
-        )
-
-        st.subheader("Cuánto pedir de cada producto")
-        st.plotly_chart(
-            order_chart(results),
-            width="stretch",
-            config={"responsive": True, "displaylogo": False},
-        )
-        table = pd.DataFrame(
-            [
-                {
-                    "Producto": r.name,
-                    "Tendencia reciente": trend_short(
-                        recent_trend(r.history.to_numpy(), cfg.window)
-                    ),
-                    "Modelo": r.forecast.model,
-                    "Fiabilidad": r.forecast.reliability,
-                    "Error de validación (%)": round(r.forecast.best_wape * 100)
-                    if np.isfinite(r.forecast.best_wape)
-                    else None,
-                    "Ventas previstas": round(r.suggestion.demand, 1),
-                    "Stock de seguridad": round(r.suggestion.safety_stock, 1),
-                    "Stock actual": r.suggestion.on_hand,
-                    "Pedir": r.suggestion.order_qty,
-                }
-                for r in results
+        with st.expander("Ver tabla completa y descargar resultados", expanded=False):
+            table = pd.DataFrame(
+                [
+                    {
+                        "Producto": item.name,
+                        "Tendencia reciente": trend_short(
+                            recent_trend(item.history.to_numpy(), cfg.window)
+                        ),
+                        "Modelo": item.forecast.model,
+                        "Fiabilidad": item.forecast.reliability,
+                        "Error de validación (%)": round(item.forecast.best_wape * 100)
+                        if np.isfinite(item.forecast.best_wape)
+                        else None,
+                        "Demanda prevista": round(item.suggestion.demand, 1),
+                        "Stock de seguridad": round(item.suggestion.safety_stock, 1),
+                        "Stock actual": item.suggestion.on_hand,
+                        "Pedir": item.suggestion.order_qty,
+                    }
+                    for item in results
+                ]
+            )
+            visible_columns = [
+                "Producto",
+                "Demanda prevista",
+                "Stock actual",
+                "Pedir",
+                "Fiabilidad",
             ]
-        )
-        visible_columns = [
-            "Producto",
-            "Tendencia reciente",
-            "Fiabilidad",
-            "Ventas previstas",
-            "Stock actual",
-            "Pedir",
-        ]
-        st.dataframe(table[visible_columns], hide_index=True, width="stretch")
-        st.download_button(
-            "Descargar tabla de compras (CSV)",
-            to_csv_bytes(table),
-            "resumen_compras.csv",
-            "text/csv",
-        )
+            st.dataframe(
+                table[visible_columns],
+                hide_index=True,
+                width="stretch",
+            )
+            st.download_button(
+                "Descargar informe completo (CSV)",
+                to_csv_bytes(table),
+                file_name="resumen_compras.csv",
+                mime="text/csv",
+            )
 
-# --- Pestaña 2: detalle de un producto -------------------------------------------------------
+        with st.expander("Ver gráficos de ventas y pedido", expanded=False):
+            st.plotly_chart(
+                overview_chart(results, cfg.unit),
+                width="stretch",
+                config={"responsive": True, "displaylogo": False},
+            )
+            st.caption(
+                "Se comparan las ventas históricas con la previsión. La banda sombreada representa "
+                "el rango probable estimado por el modelo."
+            )
+            st.plotly_chart(
+                order_chart(results),
+                width="stretch",
+                config={"responsive": True, "displaylogo": False},
+            )
 
+        with st.expander("Qué significa el resultado y qué hacer después", expanded=False):
+            for point in summary.points:
+                st.markdown(f"**{point.title}.** {point.text}")
+            st.markdown("**Siguientes pasos**")
+            for action_number, action in enumerate(summary.actions, start=1):
+                st.markdown(f"{action_number}. {action}")
+
+# Pestaña de detalle individual.
 with tab_detail:
-    product = st.selectbox("Producto", ranking, help="Ordenados de más a menos vendidos.")
+    st.write(
+        "Selecciona un producto para ver su historial, la previsión y el cálculo del pedido."
+    )
+    product = st.selectbox(
+        "Producto",
+        ranking,
+        help="Los productos aparecen ordenados de mayor a menor venta total.",
+    )
     history = series[product]
     if len(history) < 2:
-        st.warning("Este producto tiene muy poco historial para hacer una previsión.")
+        st.warning("Este producto tiene muy poco historial para generar una previsión fiable.")
     else:
         if eff_horizon > horizon:
             st.caption(
-                f"Se prevén {eff_horizon} {cfg.plural} para cubrir el plazo de entrega."
+                f"La previsión cubre {eff_horizon} {cfg.plural} para atender el plazo de entrega "
+                "y el margen adicional."
             )
         fc = cached_forecast(
             tuple(history.to_numpy().tolist()), eff_horizon, cfg.season, cfg.window
         )
         future = pd.period_range(start=history.index[-1] + 1, periods=eff_horizon)
 
-        k1, k2, k3 = st.columns(3)
-        k1.metric("Modelo elegido", fc.model)
-        k2.metric(
-            "Error en la validación",
+        metric_left, metric_right = st.columns(2)
+        metric_left.metric("Modelo seleccionado", fc.model)
+        metric_right.metric(
+            "Error al validar el modelo",
             pct(fc.best_wape),
             help=(
-                "Cuánto se equivocó este modelo al 'adivinar' tus ventas recientes (WAPE). "
+                "Mide el error al predecir ventas históricas que el modelo no había visto. "
                 "Menos es mejor."
-            ),
-        )
-        k3.metric(
-            "Mejora frente a la media móvil",
-            pct(fc.improvement),
-            help=(
-                "Reducción de error respecto al método simple de promediar las últimas ventas."
             ),
         )
         st.caption(f"Fiabilidad estimada: **{fc.reliability}**.")
@@ -458,83 +571,90 @@ with tab_detail:
             config={"responsive": True, "displaylogo": False},
         )
 
-        st.subheader("¿Cuánto pedir?")
+        st.subheader("Calcular el pedido de este producto")
         on_hand = st.number_input(
-            "Stock actual (unidades)", 0.0, value=float(stock_by_name.get(product, 0.0)), step=1.0
+            "Unidades que tienes disponibles",
+            min_value=0.0,
+            value=float(stock_by_name.get(product, 0.0)),
+            step=1.0,
         )
-        sug = suggest_order(fc.mean, fc.sigma, covered, service, on_hand)
-        s1, s2 = st.columns(2)
-        s1.metric(
-            f"Ventas previstas ({sug.periods_covered} {cfg.plural})",
-            fmt(sug.demand, 1),
-        )
-        s2.metric("Stock de seguridad", fmt(sug.safety_stock, 1))
-
-        s3, s4 = st.columns(2)
-        s3.metric("Stock actual", fmt(on_hand, 1))
-        s4.metric("Cantidad sugerida a pedir", fmt(sug.order_qty))
+        suggestion = suggest_order(fc.mean, fc.sigma, covered, service, on_hand)
+        result_left, result_right = st.columns(2)
+        result_left.metric("Demanda durante la cobertura", fmt(suggestion.demand, 1))
+        result_right.metric("Stock de seguridad", fmt(suggestion.safety_stock, 1))
+        result_left, result_right = st.columns(2)
+        result_left.metric("Stock actual", fmt(on_hand, 1))
+        result_right.metric("Comprar aprox.", fmt(suggestion.order_qty))
         st.caption(
-            "Pedido = ventas previstas + stock de seguridad − stock actual. "
-            f"Con un nivel de servicio del {service:.0%}."
+            "Cálculo orientativo: demanda prevista + stock de seguridad − unidades disponibles."
         )
 
-        forecast_table = pd.DataFrame(
-            {
-                cfg.label: future.start_time.strftime("%d/%m/%Y"),
-                "Previsión": fc.mean.round(1),
-                "Mínimo probable": fc.lower.round(1),
-                "Máximo probable": fc.upper.round(1),
-            }
-        )
-        st.dataframe(forecast_table, hide_index=True)
-        st.download_button(
-            "Descargar previsión (CSV)",
-            to_csv_bytes(forecast_table.assign(Producto=product)),
-            "prevision.csv",
-            "text/csv",
-        )
-        with st.expander("¿Cómo se eligió el modelo?"):
-            ranking_models = pd.DataFrame(
-                {"Modelo": list(fc.scores), "Error de validación": list(fc.scores.values())}
-            ).sort_values("Error de validación")
-            ranking_models["Error de validación"] = ranking_models["Error de validación"].map(pct)
-            st.dataframe(ranking_models, hide_index=True)
-            st.write(
-                "Cada modelo se probó prediciendo tus ventas recientes sin mirarlas. "
-                "Gana el que menos se equivocó."
+        with st.expander("Ver previsión por periodo y descargarla"):
+            forecast_table = pd.DataFrame(
+                {
+                    cfg.label: future.start_time.strftime("%d/%m/%Y"),
+                    "Previsión": fc.mean.round(1),
+                    "Mínimo probable": fc.lower.round(1),
+                    "Máximo probable": fc.upper.round(1),
+                }
+            )
+            st.dataframe(forecast_table, hide_index=True, width="stretch")
+            st.download_button(
+                "Descargar previsión CSV",
+                to_csv_bytes(forecast_table.assign(Producto=product)),
+                file_name="prevision.csv",
+                mime="text/csv",
             )
 
-# --- Pestaña 3: explicación ------------------------------------------------------------------
+        with st.expander("Cómo se ha calculado esta previsión"):
+            ranking_models = pd.DataFrame(
+                {
+                    "Modelo": list(fc.scores),
+                    "Error de validación": list(fc.scores.values()),
+                }
+            ).sort_values("Error de validación")
+            ranking_models["Error de validación"] = ranking_models["Error de validación"].map(pct)
+            st.dataframe(ranking_models, hide_index=True, width="stretch")
+            st.write(
+                "Se prueban varios métodos con ventas históricas y se selecciona el que comete "
+                "menos error en la validación. La fiabilidad no es una garantía de acierto futuro."
+            )
 
+# Pestaña de ayuda en lenguaje sencillo.
 with tab_how:
+    st.subheader("Cómo utilizar la aplicación")
     st.markdown(
         """
-**1. Verificación.** Se comprueba que el archivo tenga el formato correcto y suficientes datos.
+1. **Empieza con los datos de ejemplo** para ver cómo funciona, o elige **Subir mis ventas (CSV)**.
+2. **Revisa las columnas** si el archivo usa nombres poco habituales: fecha, producto y cantidad.
+3. **Añade tu stock actual** en la pestaña «Resumen y pedido» para que el programa
+   descuente lo que ya tienes.
+4. **Consulta «Comprar aprox.»** para ver una recomendación de unidades por producto.
+5. **Descarga el CSV** si quieres guardar el informe o compartirlo.
 
-**2. Limpieza.** Se leen las fechas, se descartan filas inválidas y se agrupan las ventas por
-día, semana o mes. Los periodos sin ventas cuentan como 0.
-
-**3. Modelos.** Se prueban métodos sencillos (media móvil, último valor, repetir la temporada
-anterior) y tres variantes de suavizado exponencial (nivel, tendencia y temporada).
-
-**4. Validación.** Cada modelo intenta predecir tus ventas recientes sin verlas. Se elige el que
-menos se equivoca (WAPE) y se compara con la media móvil, el método más habitual.
-
-**5. Compra.** Pedido = ventas previstas durante el plazo de entrega y la cobertura elegida +
-stock de seguridad − stock actual.
-
-**Glosario**
-- **Error de validación (WAPE)**: porcentaje medio en que el modelo falló al predecir tus ventas
-  recientes. 5 % es muy bueno; más del 50 % es poco fiable.
-- **Rango probable**: zona en la que caerán las ventas aproximadamente 8 de cada 10 veces.
-- **Stock de seguridad**: colchón extra para no quedarte sin producto si vendes más de lo previsto.
-- **Nivel de servicio**: probabilidad de no quedarte sin stock durante el plazo de entrega.
-- **Fiabilidad**: Alta si el error de validación es de hasta el 25 %, Media hasta el 50 %, Baja
-  por encima o si hay muy poco historial.
-
-**Límites.** Con poco historial la previsión es orientativa; si hubo roturas de stock, las
-ventas pasadas subestiman la demanda real; no se conocen promociones ni cambios de precio futuros.
-"""
+**Consejo:** si no entiendes un ajuste, deja el valor inicial.
+Los ajustes avanzados no son necesarios para probar la aplicación.
+        """
     )
+    with st.expander("Formato del archivo CSV"):
+        show_requirements()
+    with st.expander("Qué significan los términos técnicos"):
+        st.markdown(
+            "- **Demanda prevista:** cantidad que el modelo estima que venderás en los periodos "
+            "futuros.\n"
+            "- **Stock de seguridad:** margen adicional para reducir el riesgo de quedarte sin "
+            "producto.\n"
+            "- **Error de validación (WAPE):** medida de cuánto se equivocó el modelo al predecir "
+            "ventas históricas que no utilizó para ajustar esa predicción.\n"
+            "- **Fiabilidad estimada:** etiqueta orientativa basada en el historial y el error; "
+            "no es una garantía estadística."
+        )
+
+st.divider()
+st.caption(
+    f"Predictor de demanda · Versión {__version__} · "
+    "Previsiones orientativas, no garantías."
+)
+
 
 
