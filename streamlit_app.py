@@ -55,9 +55,13 @@ def load_raw(data: bytes) -> pd.DataFrame:
 @st.cache_data(show_spinner="Limpiando datos…")
 def prepare(data, date_col, product_col, qty_col, dayfirst, drop_duplicates):
     return clean_sales(
-        load_raw(data), date_col, product_col, qty_col,
-        dayfirst=dayfirst, drop_duplicates=drop_duplicates,
-    )  # fmt: skip
+        load_raw(data),
+        date_col,
+        product_col,
+        qty_col,
+        dayfirst=dayfirst,
+        drop_duplicates=drop_duplicates,
+    )
 
 
 @st.cache_data(show_spinner=False, max_entries=512)
@@ -108,8 +112,10 @@ def show_requirements() -> None:
 **Cuántos datos hacen falta** (según cómo agrupes las ventas)
 """
     )
-    rows = ["| Agrupación | Mínimo para prever | Recomendado | Para detectar temporadas |",
-            "|---|---|---|---|"]  # fmt: skip
+    rows = [
+        "| Agrupación | Mínimo para prever | Recomendado | Para detectar temporadas |",
+        "|---|---|---|---|",
+    ]
     for f in FREQUENCIES.values():
         rows.append(
             f"| {f.name} | {MIN_POINTS} {f.plural} | {f.recommended} {f.plural} "
@@ -334,10 +340,16 @@ with tab_summary:
         st.warning("Ningún producto tiene historial suficiente para hacer una previsión.")
     else:
         summary = build_summary(
-            report, assessment, cfg, results,
-            horizon=horizon, lead_days=lead_days, extra_days=extra_days,
-            service_level=service, stock_provided=stock_provided,
-        )  # fmt: skip
+            report,
+            assessment,
+            cfg,
+            results,
+            horizon=horizon,
+            lead_days=lead_days,
+            extra_days=extra_days,
+            service_level=service,
+            stock_provided=stock_provided,
+        )
         st.success(summary.headline)
 
         st.subheader("Qué analizamos")
@@ -422,14 +434,20 @@ with tab_detail:
         k1, k2, k3 = st.columns(3)
         k1.metric("Modelo elegido", fc.model)
         k2.metric(
-            "Error en la validación", pct(fc.best_wape),
-            help="Cuánto se equivocó este modelo al 'adivinar' tus ventas recientes (WAPE). "
-                 "Menos es mejor.",
-        )  # fmt: skip
+            "Error en la validación",
+            pct(fc.best_wape),
+            help=(
+                "Cuánto se equivocó este modelo al 'adivinar' tus ventas recientes (WAPE). "
+                "Menos es mejor."
+            ),
+        )
         k3.metric(
-            "Mejora frente a la media móvil", pct(fc.improvement),
-            help="Reducción de error respecto al método simple de promediar las últimas ventas.",
-        )  # fmt: skip
+            "Mejora frente a la media móvil",
+            pct(fc.improvement),
+            help=(
+                "Reducción de error respecto al método simple de promediar las últimas ventas."
+            ),
+        )
         st.caption(f"Fiabilidad estimada: **{fc.reliability}**.")
         for note in fc.warnings:
             st.warning(note)
@@ -470,9 +488,11 @@ with tab_detail:
         )
         st.dataframe(forecast_table, hide_index=True)
         st.download_button(
-            "Descargar previsión (CSV)", to_csv_bytes(forecast_table.assign(Producto=product)),
-            "prevision.csv", "text/csv",
-        )  # fmt: skip
+            "Descargar previsión (CSV)",
+            to_csv_bytes(forecast_table.assign(Producto=product)),
+            "prevision.csv",
+            "text/csv",
+        )
         with st.expander("¿Cómo se eligió el modelo?"):
             ranking_models = pd.DataFrame(
                 {"Modelo": list(fc.scores), "Error de validación": list(fc.scores.values())}
@@ -516,3 +536,4 @@ stock de seguridad − stock actual.
 ventas pasadas subestiman la demanda real; no se conocen promociones ni cambios de precio futuros.
 """
     )
+
