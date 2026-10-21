@@ -28,7 +28,18 @@ from forecaster.replenishment import cover_periods_for, suggest_order
 from forecaster.samples import generate_cafe_example, sample_csv_bytes, template_csv_bytes
 from forecaster.summary import ProductResult, build_summary, recent_trend, trend_short
 
-st.set_page_config(page_title="Predictor de demanda", page_icon="📈", layout="wide")
+st.set_page_config(
+    page_title="Predictor de demanda",
+    page_icon="📈",
+    layout="wide",
+    initial_sidebar_state="auto",
+    menu_items={
+        "About": (
+            "Predictor de demanda: previsión estadística de ventas "
+            "y recomendaciones de inventario."
+        )
+    }
+)
 
 ICONS = {"ok": "✅", "info": "ℹ️", "warn": "⚠️", "error": "❌"}
 
@@ -143,45 +154,120 @@ with st.expander("Privacidad y límites"):
 
 # --- Barra lateral: ajustes ------------------------------------------------------------------
 
-with st.sidebar:
-    st.header("1 · Tus datos")
-    source = st.radio(
-        "Origen de los datos", ["Datos de ejemplo", "Ejemplo de cafetería", "Subir mi CSV"]
-    )
-    uploaded = None
-    if source == "Subir mi CSV":
-        uploaded = st.file_uploader(
-            f"Archivo CSV (máx. {MAX_FILE_BYTES // 1_048_576} MB)", type=["csv"]
-        )
-    st.download_button(
-        "Descargar plantilla CSV", template_csv_bytes(), "plantilla_ventas.csv", "text/csv"
+
+# --- 1. Entrada principal de datos ------------------------------------------
+
+st.subheader("1. Empieza aquí")
+
+st.write(
+    "Prueba la aplicación con datos de ejemplo o sube tus propias ventas "
+    "para calcular la demanda y preparar tu próximo pedido."
+)
+
+source = st.radio(
+    "¿Qué datos quieres analizar?",
+    [
+        "Datos de ejemplo",
+        "Ejemplo de cafetería",
+        "Subir mi CSV",
+    ],
+    index=0,
+)
+
+uploaded = None
+
+if source == "Subir mi CSV":
+    uploaded = st.file_uploader(
+        "Selecciona tu archivo de ventas",
+        type=["csv"],
+        help="CSV de hasta 5 MB con fecha, producto y cantidad.",
     )
 
-    st.header("2 · Previsión")
-    freq_name = st.selectbox("Agrupar las ventas por", list(FREQUENCIES), index=1)
+st.download_button(
+    "Descargar plantilla de ventas",
+    template_csv_bytes(),
+    file_name="plantilla_ventas.csv",
+    mime="text/csv",
+)
+
+st.caption(
+    "Puedes empezar con el ejemplo y después cargar tus propios datos."
+)
+
+# --- 2. Configuración de la previsión ---------------------------------------
+
+with st.expander(
+    "2. Ajustes de previsión y compras",
+    expanded=False,
+):
+    st.markdown("**Periodo de análisis**")
+
+    freq_name = st.selectbox(
+        "Agrupar las ventas por",
+        list(FREQUENCIES),
+        index=1,
+    )
+
     cfg = FREQUENCIES[freq_name]
-    horizon = st.slider(
-        f"¿Cuántos {cfg.plural} quieres prever?", 1, cfg.max_horizon, cfg.default_horizon
-    )
-    with st.expander("Opciones de limpieza"):
-        dayfirst = st.checkbox("Las fechas van en formato día/mes/año", value=True)
-        drop_incomplete = st.checkbox(
-            f"Ignorar el último {cfg.unit} si está incompleto", value=True
-        )
-        drop_dups = st.checkbox("Eliminar filas idénticas", value=False)
-        cap_on = st.checkbox("Limitar picos extremos de ventas", value=False)
 
-    st.header("3 · Compra al proveedor")
-    lead_days = st.number_input("Plazo de entrega (días)", 0, 180, 7)
-    extra_days = st.number_input("Días extra que quieres cubrir tras la entrega", 0, 180, 7)
+    horizon = st.slider(
+        f"¿Cuántos {cfg.plural} quieres prever?",
+        1,
+        cfg.max_horizon,
+        cfg.default_horizon,
+    )
+
+    st.markdown("**Limpieza de los datos**")
+
+    dayfirst = st.checkbox(
+        "Las fechas van en formato día/mes/año",
+        value=True,
+    )
+
+    drop_incomplete = st.checkbox(
+        f"Ignorar el último {cfg.unit} si está incompleto",
+        value=True,
+    )
+
+    drop_dups = st.checkbox(
+        "Eliminar filas idénticas",
+        value=False,
+    )
+
+    cap_on = st.checkbox(
+        "Limitar picos extremos de ventas",
+        value=False,
+    )
+
+    st.markdown("**Reposición de inventario**")
+
+    lead_days = st.number_input(
+        "Plazo de entrega (días)",
+        min_value=0,
+        max_value=180,
+        value=7,
+    )
+
+    extra_days = st.number_input(
+        "Días extra de cobertura",
+        min_value=0,
+        max_value=180,
+        value=7,
+    )
+
     service = st.select_slider(
         "Nivel de servicio",
         options=[0.90, 0.95, 0.97, 0.99],
         value=0.95,
         format_func=lambda v: f"{v:.0%}",
-        help="Probabilidad de no quedarte sin stock. Más nivel = más stock de seguridad.",
+        help=(
+            "Nivel de servicio objetivo utilizado para calcular "
+            "el stock de seguridad."
+        ),
     )
-    st.caption(f"Versión {__version__}")
+
+st.caption(f"Versión {__version__}")
+
 
 # --- Requisitos y datos de entrada -----------------------------------------------------------
 
