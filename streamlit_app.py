@@ -386,14 +386,16 @@ with tab_summary:
 
         st.subheader("Tus ventas y la previsión")
         
+       
         st.plotly_chart(
             overview_chart(results, cfg.unit),
             width="stretch",
             config={
-            "responsive": True,
-            "displaylogo": False,
+                "responsive": True,
+                "displaylogo": False,
             },
         )
+
 
         st.caption(
             "Línea negra: tus ventas reales. Línea verde discontinua: la previsión. Zona verde: "
@@ -402,13 +404,16 @@ with tab_summary:
         )
 
         st.subheader("Cuánto pedir de cada producto")
-        st.plotly_chart(order_chart(results),
+        
+        st.plotly_chart(
+            order_chart(results),
             width="stretch",
             config={
                 "responsive": True,
-            "displaylogo": False,
+                "displaylogo": False,
             },
         )
+
         table = pd.DataFrame(
             [
                 {
