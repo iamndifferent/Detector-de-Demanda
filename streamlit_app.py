@@ -38,7 +38,7 @@ st.set_page_config(
             "Predictor de demanda: previsión estadística de ventas "
             "y recomendaciones de inventario."
         )
-    }
+    },
 )
 
 ICONS = {"ok": "✅", "info": "ℹ️", "warn": "⚠️", "error": "❌"}
@@ -152,13 +152,9 @@ with st.expander("Privacidad y límites"):
         "cambios de precio ni roturas de stock pasadas."
     )
 
-# --- Barra lateral: ajustes ------------------------------------------------------------------
-
-
-# --- 1. Entrada principal de datos ------------------------------------------
+# --- Entrada principal de datos ---------------------------------------------------------------
 
 st.subheader("1. Empieza aquí")
-
 st.write(
     "Prueba la aplicación con datos de ejemplo o sube tus propias ventas "
     "para calcular la demanda y preparar tu próximo pedido."
@@ -166,21 +162,19 @@ st.write(
 
 source = st.radio(
     "¿Qué datos quieres analizar?",
-    [
-        "Datos de ejemplo",
-        "Ejemplo de cafetería",
-        "Subir mi CSV",
-    ],
+    ["Datos de ejemplo", "Ejemplo de cafetería", "Subir mi CSV"],
     index=0,
 )
 
 uploaded = None
-
 if source == "Subir mi CSV":
     uploaded = st.file_uploader(
         "Selecciona tu archivo de ventas",
         type=["csv"],
-        help="CSV de hasta 5 MB con fecha, producto y cantidad.",
+        help=(
+            f"CSV de hasta {MAX_FILE_BYTES // 1_048_576} MB "
+            "con fecha, producto y cantidad."
+        ),
     )
 
 st.download_button(
@@ -189,27 +183,14 @@ st.download_button(
     file_name="plantilla_ventas.csv",
     mime="text/csv",
 )
+st.caption("Puedes empezar con el ejemplo y después cargar tus propios datos.")
 
-st.caption(
-    "Puedes empezar con el ejemplo y después cargar tus propios datos."
-)
+# --- Configuración de la previsión -------------------------------------------------------------
 
-# --- 2. Configuración de la previsión ---------------------------------------
-
-with st.expander(
-    "2. Ajustes de previsión y compras",
-    expanded=False,
-):
+with st.expander("2. Ajustes de previsión y compras", expanded=False):
     st.markdown("**Periodo de análisis**")
-
-    freq_name = st.selectbox(
-        "Agrupar las ventas por",
-        list(FREQUENCIES),
-        index=1,
-    )
-
+    freq_name = st.selectbox("Agrupar las ventas por", list(FREQUENCIES), index=1)
     cfg = FREQUENCIES[freq_name]
-
     horizon = st.slider(
         f"¿Cuántos {cfg.plural} quieres prever?",
         1,
@@ -218,48 +199,32 @@ with st.expander(
     )
 
     st.markdown("**Limpieza de los datos**")
-
-    dayfirst = st.checkbox(
-        "Las fechas van en formato día/mes/año",
-        value=True,
-    )
-
+    dayfirst = st.checkbox("Las fechas van en formato día/mes/año", value=True)
     drop_incomplete = st.checkbox(
         f"Ignorar el último {cfg.unit} si está incompleto",
         value=True,
     )
-
-    drop_dups = st.checkbox(
-        "Eliminar filas idénticas",
-        value=False,
-    )
-
-    cap_on = st.checkbox(
-        "Limitar picos extremos de ventas",
-        value=False,
-    )
+    drop_dups = st.checkbox("Eliminar filas idénticas", value=False)
+    cap_on = st.checkbox("Limitar picos extremos de ventas", value=False)
 
     st.markdown("**Reposición de inventario**")
-
     lead_days = st.number_input(
         "Plazo de entrega (días)",
         min_value=0,
         max_value=180,
         value=7,
     )
-
     extra_days = st.number_input(
         "Días extra de cobertura",
         min_value=0,
         max_value=180,
         value=7,
     )
-
     service = st.select_slider(
         "Nivel de servicio",
         options=[0.90, 0.95, 0.97, 0.99],
         value=0.95,
-        format_func=lambda v: f"{v:.0%}",
+        format_func=lambda value: f"{value:.0%}",
         help=(
             "Nivel de servicio objetivo utilizado para calcular "
             "el stock de seguridad."
@@ -267,7 +232,6 @@ with st.expander(
     )
 
 st.caption(f"Versión {__version__}")
-
 
 # --- Requisitos y datos de entrada -----------------------------------------------------------
 
@@ -284,7 +248,7 @@ elif source == "Ejemplo de cafetería":
 elif uploaded is not None:
     data = uploaded.getvalue()
 else:
-    st.info("Cuando tu archivo cumpla los requisitos, súbelo en la barra lateral.")
+    st.info("Cuando tu archivo cumpla los requisitos, súbelo en la pantalla principal.")
     st.stop()
 
 try:
@@ -385,18 +349,11 @@ with tab_summary:
             st.markdown(f"{i}. {action}")
 
         st.subheader("Tus ventas y la previsión")
-        
-       
         st.plotly_chart(
             overview_chart(results, cfg.unit),
             width="stretch",
-            config={
-                "responsive": True,
-                "displaylogo": False,
-            },
+            config={"responsive": True, "displaylogo": False},
         )
-
-
         st.caption(
             "Línea negra: tus ventas reales. Línea verde discontinua: la previsión. Zona verde: "
             "rango probable (80 %). Se muestran los 4 productos más vendidos; el icono de la "
@@ -404,16 +361,11 @@ with tab_summary:
         )
 
         st.subheader("Cuánto pedir de cada producto")
-        
         st.plotly_chart(
             order_chart(results),
             width="stretch",
-            config={
-                "responsive": True,
-                "displaylogo": False,
-            },
+            config={"responsive": True, "displaylogo": False},
         )
-
         table = pd.DataFrame(
             [
                 {
@@ -434,7 +386,15 @@ with tab_summary:
                 for r in results
             ]
         )
-        st.dataframe(table, hide_index=True)
+        visible_columns = [
+            "Producto",
+            "Tendencia reciente",
+            "Fiabilidad",
+            "Ventas previstas",
+            "Stock actual",
+            "Pedir",
+        ]
+        st.dataframe(table[visible_columns], hide_index=True, width="stretch")
         st.download_button(
             "Descargar tabla de compras (CSV)",
             to_csv_bytes(table),
@@ -477,10 +437,7 @@ with tab_detail:
         st.plotly_chart(
             product_chart(history, fc, future, cfg.unit),
             width="stretch",
-            config={
-                "responsive": True,
-                "displaylogo": False,
-            },
+            config={"responsive": True, "displaylogo": False},
         )
 
         st.subheader("¿Cuánto pedir?")
@@ -488,9 +445,14 @@ with tab_detail:
             "Stock actual (unidades)", 0.0, value=float(stock_by_name.get(product, 0.0)), step=1.0
         )
         sug = suggest_order(fc.mean, fc.sigma, covered, service, on_hand)
-        s1, s2, s3, s4 = st.columns(4)
-        s1.metric(f"Ventas previstas ({sug.periods_covered} {cfg.plural})", fmt(sug.demand, 1))
+        s1, s2 = st.columns(2)
+        s1.metric(
+            f"Ventas previstas ({sug.periods_covered} {cfg.plural})",
+            fmt(sug.demand, 1),
+        )
         s2.metric("Stock de seguridad", fmt(sug.safety_stock, 1))
+
+        s3, s4 = st.columns(2)
         s3.metric("Stock actual", fmt(on_hand, 1))
         s4.metric("Cantidad sugerida a pedir", fmt(sug.order_qty))
         st.caption(
