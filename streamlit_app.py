@@ -385,7 +385,16 @@ with tab_summary:
             st.markdown(f"{i}. {action}")
 
         st.subheader("Tus ventas y la previsión")
-        st.plotly_chart(overview_chart(results, cfg.unit))
+        
+        st.plotly_chart(
+            overview_chart(results, cfg.unit),
+            width="stretch",
+            config={
+            "responsive": True,
+            "displaylogo": False,
+            },
+        )
+
         st.caption(
             "Línea negra: tus ventas reales. Línea verde discontinua: la previsión. Zona verde: "
             "rango probable (80 %). Se muestran los 4 productos más vendidos; el icono de la "
@@ -393,7 +402,13 @@ with tab_summary:
         )
 
         st.subheader("Cuánto pedir de cada producto")
-        st.plotly_chart(order_chart(results))
+        st.plotly_chart(order_chart(results),
+            width="stretch",
+            config={
+                "responsive": True,
+            "displaylogo": False,
+            },
+        )
         table = pd.DataFrame(
             [
                 {
@@ -454,7 +469,14 @@ with tab_detail:
         for note in fc.warnings:
             st.warning(note)
 
-        st.plotly_chart(product_chart(history, fc, future, cfg.unit))
+        st.plotly_chart(
+            product_chart(history, fc, future, cfg.unit),
+            width="stretch",
+            config={
+                "responsive": True,
+                "displaylogo": False,
+            },
+        )
 
         st.subheader("¿Cuánto pedir?")
         on_hand = st.number_input(
