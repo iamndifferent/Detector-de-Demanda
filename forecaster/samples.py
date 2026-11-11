@@ -26,11 +26,11 @@ def generate_sample_sales(
     rng = np.random.default_rng(seed)
     dates = pd.date_range(start, periods=days, freq="D")
     t = np.arange(days)
-    weekend = (dates.dayofweek >= 5).astype(float)
+    weekend = (dates.day_of_week >= 5).astype(float)
 
     frames = []
     for name, (base, weekly, yearly, peak, growth, launch) in _PRODUCTS.items():
-        season = 1 + yearly * np.cos(2 * np.pi * (dates.dayofyear - peak) / 365.25)
+        season = 1 + yearly * np.cos(2 * np.pi * (dates.day_of_year - peak) / 365.25)
         rate = base * (1 + weekly * weekend) * season * (1 + growth * t / 365)
         if name == "Café en grano 1 kg":
             rate = np.where((t >= 700) & (t < 704), rate * 3, rate)  # promoción puntual
