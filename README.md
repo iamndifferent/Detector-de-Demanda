@@ -1,6 +1,6 @@
 # 📈 Predictor de demanda para negocios pequeños
 
-[![CI](https://github.com/iamndifferent/demand-forecaster/actions/workflows/ci.yml/badge.svg)](https://github.com/iamndifferent/Detector-de-Demanda/actions/workflows/ci.yml)
+[![CI](https://github.com/iamndifferent/Detector-de-Demanda/actions/workflows/ci.yml/badge.svg)](https://github.com/iamndifferent/Detector-de-Demanda/actions/workflows/ci.yml)
 [![Abrir en Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/iamndifferent/Detector-de-Demanda)
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://detector-de-demanda.streamlit.app/)
 [![Licencia: MIT](https://img.shields.io/badge/licencia-MIT-green.svg)](LICENSE)
